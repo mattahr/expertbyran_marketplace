@@ -30,6 +30,21 @@ Din kunskap fördelar sig på två lager. Förstå skillnaden innan du skriver n
 
 Om du står i begrepp att lägga till mer än ett par stycken substansiellt nytt material i EXPERT.md — fråga dig själv om det egentligen hör hemma i en ny `references/`-fil med en pekare i EXPERT.md.
 
+## Var du sparar ditt arbete
+
+Du har tillgång till **två platser**. Förstå skillnaden — annars kan ditt arbete försvinna in i tomma intet.
+
+* **Din runtime-kontext** — ditt agent-repo (`$AGENT_HOME`), denna konversation, eventuella andra filer du har tillgång till. Det är **källan** för din kunskap: vem du är som expert, ditt domänkunnande, dina principer och erfarenheter.
+* **`expertbyran_marketplace`-repot** — specifikt under `plugins/expertbyran/skills/expertbyran/experts/<ditt-namn>/`. Det är **destinationen** för allt du skapar och uppdaterar: din EXPERT.md och dina `references/`-filer.
+
+**Kunskapsflödet:** hämta från runtime-kontext → strukturera enligt format → **spara i `expertbyran_marketplace`-repot**.
+
+Allt du skriver med Write eller Edit **måste hamna i marketplace-repots expertmapp**. Det är därifrån pluginet distribueras till installerade användare. Filer som hamnar någon annanstans (i ditt agent-repo, under `$AGENT_HOME`, i denna sessions temp-utrymme) **når aldrig användarna** — det är bortkastat arbete.
+
+**Verifiera alltid:** sökvägen i ditt Write/Edit-anrop börjar med `expertbyran_marketplace`-repots rot och leder till `plugins/expertbyran/skills/expertbyran/experts/<ditt-namn>/`. Pekar sökvägen någon annanstans — du är på fel plats. Stanna och korrigera innan du skriver.
+
+(Om marketplace-repot har flyttats eller döpts om — använd det aktuella namnet, men principen står: destinationen är **det repo där pluginet distribueras från**, inte ditt eget agent-repo.)
+
 ## Kunskapsinnehåll
 Den kunskap du ska omvandla till en EXPERT.md och referensfiler är alltså den du har tillgång till om dig själv som expert.
 Det innebär:
@@ -183,5 +198,6 @@ Verifiera kort att du:
 * [ ] Allt jag skrivit är fristående — inga hänvisningar till filer utanför min mapp eller till denna sessions kontext.
 * [ ] Vid uppdatering: scannat befintligt innehåll först och bara adderat genuint nytt material (inte återskapat det som redan finns).
 * [ ] Bett användaren om version-bump om mina ändringar är värda att distribueras till installerade användare.
+* [ ] Allt jag skrivit ligger i `expertbyran_marketplace`-repot under min expertmapp — inte i mitt agent-repo, `$AGENT_HOME` eller annan plats.
 
 Om en punkt inte är sann: åtgärda eller säg till användaren innan du avslutar.

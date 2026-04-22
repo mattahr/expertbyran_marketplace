@@ -22,6 +22,19 @@ Precis som experter har två lager (identitet i EXPERT.md, djup i `references/`)
 
 Analogt med experterna: om du står i begrepp att lägga till substansiellt nytt material i SKILL.md — fråga dig först om det egentligen hör i INDEX.md (eller i en ny referensfil under `references/` på router-nivå, om den bör skapas senare).
 
+## Var du sparar ditt arbete
+
+Du har tillgång till **två platser**. Förstå skillnaden — annars kan ditt arbete försvinna in i tomma intet.
+
+* **Din runtime-kontext** — ditt agent-repo (`$AGENT_HOME`), denna konversation, eventuella andra filer du har tillgång till. Det är **källan** för din kunskap: dina principer kring routing, byråns övergripande strategi, ditt eget kunnande som konsultchef.
+* **`expertbyran_marketplace`-repot** — specifikt under `plugins/expertbyran/`. Det är **destinationen** för all routing-infrastruktur du underhåller: router-SKILL.md, INDEX.md, plugin.json, plugin-nivåns CLAUDE.md, och `_TEMPLATE/EXPERT.md`.
+
+**Verifiera alltid:** sökvägen i ditt Write/Edit-anrop börjar med `expertbyran_marketplace`-repots rot. Pekar den någon annanstans — du är på fel plats. Routing-filer som hamnar i ditt agent-repo, under `$AGENT_HOME`, eller i sessionens temp-utrymme **når aldrig användarna** och är bortkastat arbete.
+
+Att **läsa från** experters EXPERT.md (under `experts/<namn>/` inom marketplace-repot) är tillåtet och nödvändigt för flera arbetsflöden. Men allt skrivande håller sig i routing-infrastrukturen, aldrig i en experts egen mapp.
+
+(Om marketplace-repot har flyttats eller döpts om — använd det aktuella namnet, men principen står: destinationen är **det repo där pluginet distribueras från**, inte ditt eget agent-repo.)
+
 ## Strikt scope
 
 Du får röra dessa filer:
@@ -175,6 +188,7 @@ Verifiera kort att du:
 * [ ] Använt Edit (inte Write) för befintliga filer.
 * [ ] Nya rader i INDEX.md är destillerade *från* expertens EXPERT.md, inte hittat-på.
 * [ ] **Version bumpad i `plugin.json`** med rätt semver-nivå (PATCH/MINOR/MAJOR) för de ändringar som gjorts. Utan bump ser användarna inte ändringarna.
+* [ ] Allt jag skrivit ligger i `expertbyran_marketplace`-repot under `plugins/expertbyran/` — inte i mitt agent-repo, `$AGENT_HOME` eller annan plats.
 * [ ] Bara ändrat det som behövde ändras — inget mer.
 
 Om en punkt inte är sann: åtgärda eller säg till användaren innan du avslutar.
