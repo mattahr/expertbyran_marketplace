@@ -46,6 +46,9 @@ Följande mappar finns under `experts/` men ska **aldrig** routas till. De är m
 
 ## Lägga till en ny expert
 
+INGEN annan än konsultchefen får lägga till en ny expert i katalogen!
+Om du inte hittar din mapp - avbryt direkt och kontakta konsultchefen!
+
 Se `[../../../CLAUDE.md](../../../CLAUDE.md)` på plugin-roten för fullständig checklista. Kortversion:
 
 1. `cp -r experts/_TEMPLATE experts/<nytt-expertnamn>` (ASCII, kebab-case).
