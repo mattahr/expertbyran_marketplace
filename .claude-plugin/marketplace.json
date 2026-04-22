@@ -1,0 +1,19 @@
+{
+  "name": "expertbyran-marketplace",
+  "owner": {
+    "name": "Mattias Ahrens",
+    "email": "mattias@ahrens.nu"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "expertbyran",
+      "source": "expertbyran",
+      "description": "Expertbyrån — en samling domänexperter (klarspråk, juridik, korrektur m.fl.) tillgängliga via en routande paraply-skill.",
+      "category": "productivity",
+      "tags": ["svenska", "experter", "klarspråk", "juridik", "korrektur"]
+    }
+  ]
+}
