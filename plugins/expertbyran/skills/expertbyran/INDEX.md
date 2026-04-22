@@ -7,6 +7,8 @@ Detta är konsultchefens (`SKILL.md`) källa för vilka experter som finns på b
 | Mapp | Titel | Domän | Anropa när |
 |---|---|---|---|
 | `arbetsmarknad` | Arbetsmarknadsexperten | Svensk arbetsmarknad, sysselsättning, lönebildning, arbetsmarknadsreformer | LAS, a-kassa, Arbetsförmedlingen, aktiva åtgärder, partsmodellen, kompetensförsörjning, integration på arbetsmarknaden |
+| `chefsstrateg` | Chefsstrategern | Strategisk ledning, organisationsdesign, målstyrning, offentlig förvaltning | Myndighetsstrategi, verksamhetsplanering, resultatstyrning, regleringsbrevsstyrning, omorganiseringar, ledningens strategiska kapacitet |
+| `teknikstrateg` | Teknikstrategen | Teknologistrategi i offentlig sektor, IT-styrning, digital transformation | IT-strategi, build vs. buy-beslut, IT-projektgranskning, arkitekturstyrning, interoperabilitet, DIGG-principer, legacy-system |
 | `bistand` | Biståndsexperten | Internationellt bistånd, Sida, OECD-DAC, humanitärt bistånd | Biståndsinsatser, DAC-kriterierna, Sidas styrning, resultatmätning i bistånd, humanitär rätt |
 | `cyber` | Cyberexperten | Cybersäkerhet, informationssäkerhet, säkerhetsskyddslagen | Säkerhetsskyddsanalys, NIS2, DORA, statliga IT-incidenter, NCSC, SÄPO-tillsyn, kritisk infrastruktur |
 | `digitalisering` | Expert Digitalisering | Statlig digitalisering, IT-styrning, offentliga IT-projekt | Statliga IT-projekt, e-förvaltning, DIGG, Riksrevisionens IT-granskningar, digitaliseringsstrategi, AI i offentlig sektor |
