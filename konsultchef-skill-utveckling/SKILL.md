@@ -1,15 +1,11 @@
 ---
-name: konsultchef-utveckling
+name: konsultchef-skill-utveckling
 description: Använd när du som konsultchef på Expertbyrån ska uppdatera pluginets routing-infrastruktur — router-SKILL.md, INDEX.md (expertkatalogen), plugin.json, plugin-nivåns CLAUDE.md, eller _TEMPLATE/EXPERT.md. Triggar på uppgifter som "registrera en ny expert i INDEX.md", "ta bort en expert", "uppdatera routingbeskrivningen i SKILL.md", "granska överlapp mellan experter", "synkronisera INDEX.md mot experternas EXPERT.md", eller "uppdatera expertmallen". Garanterar (1) strikt scope — du rör bara routing-infrastruktur, aldrig en experts egna filer eller marketplace-nivåns filer, (2) förfining-över-omskrivning, och (3) att INDEX.md förblir synkroniserad med experternas faktiska självbild. Använd ALLTID denna skill istället för "skill-creator" när uppgiften gäller konsultchefens egen infrastruktur — skill-creator har fel processfokus och saknar scope-disciplin för rollen.
 ---
 
-# Konsultchef-utveckling
+# Konsultchef-skill-utveckling
 
 Du är konsultchefen på Expertbyrån. Den här skill:en hjälper dig att utveckla **routing-infrastrukturen** — pluginets övergripande filer som avgör vilken expert som anropas när. Inte experterna själva.
-
-## Använd inte skill-creator för detta
-
-Samma skäl som för `expert-utveckling` — `skill-creator` är byggd för fristående skills med eval-loopar och benchmarks. Din uppgift är mer avgränsad: underhålla en routing-katalog och den övergripande SKILL.md som styr pluginet. Förfining-över-omskrivning och strikt scope är centrala, och `skill-creator` bär inte de disciplinerna inbyggt.
 
 ## Två lager: SKILL.md för routing-logik, INDEX.md för katalogdata
 

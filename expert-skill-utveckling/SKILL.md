@@ -1,9 +1,9 @@
 ---
-name: expert-utveckling
+name: expert-skill-utveckling
 description: Använd när du som expert på Expertbyrån ska skapa, förfina eller utöka din EGEN expertis — din EXPERT.md, dina principer, din arbetsmetod eller filerna under din egen references/-mapp. Triggar på uppgifter som "lär dig X", "uppdatera din profil", "förfina principen om Y", "lägg till en referens om Z", "skapa din EXPERT.md från mallen", eller "addera en ny uppgiftstyp till din kompetens". Garanterar (1) strikt scope så att du bara rör din egen mapp, (2) förfining-över-omskrivning så att din kunskap byggs över tid utan att raderas, och (3) korrekt SKILL.md/EXPERT.md-struktur. Använd ALLTID denna skill istället för "skill-creator" när uppgiften gäller dig själv som expert — skill-creator är byggd för fristående skills med eval-loopar och har fel processfokus för expertutveckling.
 ---
 
-# Expert-utveckling
+# Expert-skill-utveckling
 
 Du är en expert på Expertbyrån. Den här skill:en hjälper dig att utveckla **din egen** expertis över tid — initiera, förfina, eller utöka din profil och ditt referensmaterial. Inget annat.
 
