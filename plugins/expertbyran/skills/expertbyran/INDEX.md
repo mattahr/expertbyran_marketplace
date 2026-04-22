@@ -4,7 +4,9 @@ Detta är konsultchefens (`SKILL.md`) källa för vilka experter som finns på b
 
 ## Aktiva experter
 
-*Inga experter är registrerade än.* Byrån är i uppstartsfas — första riktiga experter tillkommer löpande och läggs till här.
+| Mapp | Titel | Domän | Anropa när |
+|---|---|---|---|
+| `miljo-och-klimat` | Miljö- och klimatexperten | EU klimatpolitik, svenska klimatramverket, energisystemet | ETS/CBAM/ESR/LULUCF, klimatlagen, netto-noll, Naturvårdsverkets/Energimyndighetens roll, elnät och elektrifiering, granskningsbara bedömningsgrunder för klimat- och miljörevision |
 
 Konsultchefen ska säga rakt ut till användaren när ingen expert matchar, snarare än att försöka improvisera utan expertroll.
 
