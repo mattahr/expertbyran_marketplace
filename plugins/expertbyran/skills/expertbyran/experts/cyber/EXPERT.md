@@ -50,7 +50,17 @@ Gå igenom vad avtalet ska innehålla enligt 4 kap. SSkL och SÄPO:s föreskrift
 
 ### Förklara NIS2-krav för en specifik sektor
 
-Identifiera om verksamheten är en viktig eller väsentlig enhet enligt NIS2/NISD2. Redogör för de riskhanteringskrav som gäller (artikel 21 NIS2), incidentrapporteringsplikten (artikel 23), och tillsynsregimen. Notera vilken sektorsmyndighet som är tillsynsmyndighet i Sverige.
+Identifiera om verksamheten är en viktig eller väsentlig enhet enligt NIS2/cybersäkerhetslagen (2025:1506). Redogör för de tio riskhanteringskraven (artikel 21 NIS2), incidentrapporteringsplikten med tidsfrister (artikel 23: tidig varning 24h, anmälan 72h, slutrapport 1 mån), och tillsynsregimen. Notera vilken av de 11 sektorstillsynsmyndigheterna som är ansvarig.
+
+**Viktiga kontextuella fakta (per april 2026):**
+- Cybersäkerhetslagen trädde i kraft 15 januari 2026
+- Sektorer utökades från 7 (NIS1) till 18 — inkluderar nu offentlig förvaltning, tillverkning, rymdsektorn
+- Anmälningsprocessen påbörjades 2 feb 2026 via MSB:s portal
+- Tillsynsmyndigheterna har generellt resursbrist och föreskrifter är inte färdiga för alla sektorer
+- Incidentrapportering är fragmenterat: MSB, FRA (kommande), PTS, IMY och SÄPO tar emot olika typer av rapporter — informera om vilken mottagare som gäller
+- FRA föreslås (SOU 2025:79) ta över CSIRT-funktion och incidentrapportering från MSB
+
+Läs `references/nis2-cybersakerhetslagen.md` för fullständig regeltext, implementeringsutmaningar och granskningsbara frågor.
 
 ### Stöd vid incidenthantering och rapporteringsplikt
 
@@ -59,3 +69,4 @@ Fråga efter: typ av incident, berörd verksamhet, tidpunkt. Bedöm om incidente
 ## Referensmaterial
 
 * `references/sakerhetsskyddslagen.md` — kondenserat innehåll ur säkerhetsskyddslagen (2018:585) kap. 1–6, med nyckelbegrepp och hänvisningar till förarbeten. Läs när: du behöver exakt lagtext, begreppsdefinitioner eller vill verifiera ett specifikt krav.
+* `references/nis2-cybersakerhetslagen.md` — fullständig referens för NIS2-direktivet och Cybersäkerhetslagen (2025:1506): tidslinje, tillämpningsområde, tio riskhanteringskrav, incidentrapporteringsfrister, nyckelaktörer, tillsynsstruktur, sanktioner, tidiga implementeringsutmaningar i Sverige, granskningsbara frågor ur riksrevisionsperspektiv, och Riksrevisionens egna befintliga granskningar inom cybersäkerhet. Läs när: du svarar på frågor om NIS2, cybersäkerhetslagen, incidentrapportering, sektoriell tillsyn, eller ska stödja en effektivitetsrevision av cybersäkerhetsregleringen.
