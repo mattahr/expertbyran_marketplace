@@ -1,6 +1,6 @@
 # Kausalinferensmetoder — Beslutsmatris och metodbeskrivningar
 
-Uppdaterad: 2026-04-22
+Uppdaterad: 2026-04-29
 
 ---
 
@@ -9,10 +9,14 @@ Uppdaterad: 2026-04-22
 | Situation | Primär metod | Alternativ | Centralt antagande |
 |---|---|---|---|
 | Många behandlade, parallella trender | DiD (tvåvägs FE) | SDID | Parallella trender utan behandling |
+| Staggerad adoption, binär behandling, heterogena effekter | CS-2021 (`did`), SA-2021 (`fixest::sunab()`) | Borusyak 2024 (`didimputation`) | Parallella trender per kohort |
+| Staggerad adoption, icke-binär / kontinuerlig dos | dCdH (`did_multiplegt_dyn`) | Callaway 2024 (`contdid`) | Switchers-vs-stayers |
+| Parallella trender osäkra — sensitivisering | HonestDiD (`HonestDiD`) | — | Begränsad avvikelse från PT |
 | Enstaka behandlad enhet, lång tidsserie (T₀ ≥ 10) | SC | ASC | Konvexhull + pre-period fit |
 | Enstaka enhet, imperfekt fit / extremvärde | ASC | SC | Lättare konvexhull-villkor |
-| 5–20 behandlade, staggered / DiD-hybrid | SDID | PP-SCM | Dubbelrobust: enhetsvikter × tidsvikter |
-| Staggered adoption, flera behandlingstidpunkter | PP-SCM | SDID | Separata SC per enhet × tidpunkt |
+| 5–20 behandlade, staggerad / DiD-hybrid | SDID | PP-SCM | Dubbelrobust: enhetsvikter × tidsvikter |
+| Staggerad adoption, flera behandlingstidpunkter | PP-SCM | SDID | Separata SC per enhet × tidpunkt |
+| Enstaka enhet, komplex temporal dynamik / lång ts | BSTS / CausalImpact | SC | Bayesiansk tillståndsrymdsmodell |
 | Liten donorpool, oregelbunden/saknad data | MC-NNM | ASC | Latent faktormodell (low-rank matris) |
 | Formella konfidensintervall med garantier | SC + Cattaneo-PI | SDID | Ändliga-stickprov prediktionsintervall |
 | Klar tröskeleffekt, administrativ gräns | RDD | DiD | Lokal randomisering nära tröskel |
@@ -219,6 +223,103 @@ Använder ett instrument *Z* som påverkar behandling *D* men inte utfall *Y* di
 
 ---
 
+## dCdH — Icke-binär och kontinuerlig dos-DiD
+
+### de Chaisemartin & D'Haultfoeuille-ramverket (AER 2020)
+
+Klassisk DiD och CS-2021 förutsätter binär behandling. dCdH-ramverket hanterar **icke-binär dos** (t.ex. bidragsbelopp, inspektionsintensitet) och **staggerad adoption med heterogen dos**.
+
+**Kärninnovatationen — switchers-vs-stayers:**
+
+Identifikation baseras på jämförelse av enheter som *byter* dos (switchers) mot enheter som behåller sin dos (stayers). Under parallella trender för stayers ger detta ett lokalt ATT för switchers:
+
+```
+δ̂(ℓ) = genomsnittlig utfallsförändring för switchers vid event-time ℓ
+        − genomsnittlig utfallsförändring för stayers
+```
+
+**R-paket:** `did_multiplegt_dyn` — event-study med dynamiska effekter, standard­fel via bootstrap.
+
+**Callaway, Goodman-Bacon & Sant'Anna (2024) — kontinuerlig dosintensitet:**
+
+Utvidgar CS-2021 till kontinuerlig dos via `contdid`-paketet. Estimerar hur ATT varierar med dosintensiteten (dos-responssamband). Kräver: strikta parallella trender, ingen anticipation, stöd för alla dosnivåer i kontrollgruppen.
+
+**Beslutsregel dCdH vs. contdid:**
+- Dos är ordinal eller kategorisk → `did_multiplegt_dyn`
+- Dos är kontinuerlig och dos-responsfunktionen är av intresse → `contdid`
+
+---
+
+## HonestDiD — Sensitivisering av parallella trender-antagandet
+
+**Rambachan & Roth (2023, ReStud)**
+
+Klassisk DiD är sårbar om parallella trender är approximate snarare än exakta. HonestDiD konstruerar konfidensintervall som är robusta givet att avvikelsen från parallella trender är begränsad.
+
+**Grundidé:**
+
+Definiera M = max tillåten linjär avvikelse från parallella trender (i enheter av pre-trend-storleken). KI konstrueras för alla M-värden i ett plausibelt intervall. Resultaten är giltiga för alla avvikelser ≤ M.
+
+**Två sensitivitetsparametrar:**
+- **Mbar:** Tillåten linjär avvikelse — hur mycket kan trenden break utan att slutsatsen kollapsar?
+- **Delta_SD (smooth deviations):** Tillåter icke-linjär, men smidig, avvikelse
+
+**Tolkning:** Om KI förblir signifikant upp till "rimlig" M → slutsatsen är robust. Om KI kollapsar redan vid liten M → slutsatsen är känslig för pre-trend-antagandet.
+
+**R-paket:** `HonestDiD` (Rambachan & Roth 2023); integrerat med `did`-paketets output.
+
+**När använda:** Alltid som robusthetscheck vid DiD i revisionskontext där parallella trender inte kan testas direkt eller är ifrågasatta.
+
+---
+
+## BSTS / CausalImpact
+
+### Brodersen m.fl. (2015, Annals of Applied Statistics)
+
+**Syfte:** Skatta kausalt effekt av en intervention för en *enstaka behandlad enhet* med en lång tidsserie. Typfall: en region, ett program eller en policy som implementerades vid en känd tidpunkt.
+
+**Modellen — Bayesiansk tillståndsrymdsmodell (BSTS):**
+
+```
+Yₜ = μₜ + βᵀXₜ + εₜ         (observations-ekvation)
+μₜ₊₁ = μₜ + δₜ + ηₜ          (lokal nivå/trend)
+```
+
+- μₜ: lokal nivåkomponent (random walk)
+- δₜ: lokal trend (om linjär trendkomponent aktiveras)
+- Xₜ: kontrollserier — väljs via spike-and-slab-regression (Bayesiansk variabelurval)
+- εₜ, ηₜ: Gaussiska störtermer
+
+**Spike-and-slab-regression:** Bayesiansk prior sätter sannolikheten till noll för de flesta kovariater. Modellen väljer automatiskt relevanta kontrollserier bland donorerna — ingen manuell donor pool-process som i SC.
+
+**Effektskattning:** Post-behandlingsperiodernas faktiska utfall jämförs med predikterat kontrafaktum från modellen. Kausalimpact = Σ(faktiskt − predikterat).
+
+**Förperiodsregler med källbelägg:**
+- Lokal nivåmodell: min **30 observationer** (Brodersen 2015, avsnitt 2–3)
+- Linjär trend: min **50 observationer**
+- Säsongskomponent: min **2,5 × säsongslängd** observationer
+- 3×-regeln (CausalImpact-vignette, CRAN): förperiod ≥ 3 × post-period
+
+**Effekttypens roll för minsta förperiod:**
+- Spike / nivåskift → lokal nivåmodell → min max(30, 3×post)
+- Trendbrott → linjär trend → min max(50, 3×post) — vid post=12 binder ≥50 obs, inte 3×-regeln
+
+**Staggerad adoption med BSTS:**
+- BSTS kräver g−1 ≥ 30 per enhet (g = behandlingstidpunkt)
+- CS-2021 har inget absolut förperiodsminimum — parallella trender testbara med 2–3 förperiodsobs
+
+**Metodval SDiD vs. BSTS:**
+
+| Situation | Föredra |
+|---|---|
+| >3 kohorter, tidiga adoptörer, aggregerat ATT | SDiD / CS-2021 |
+| Komplex temporal dynamik, enstaka enhet, lång ts (≥50 obs) | BSTS |
+| Sequential SDiD (2024) vid PT-brott | Sequential SDiD |
+
+**R-paket:** `CausalImpact` (Brodersen m.fl.; CRAN)
+
+---
+
 ## Källöversikt — Kausalinferens
 
 | Referens | Tidskrift | Bidrag |
@@ -231,9 +332,14 @@ Använder ett instrument *Z* som påverkar behandling *D* men inte utfall *Y* di
 | Arkhangelsky m.fl. (2021) | AER | SDID — tidsvikter + asymptotisk inferens |
 | Ben-Michael, Feller & Rothstein (2021) | JASA | ASC — debiaserat SC med ridge |
 | Athey m.fl. (2021) | JASA | MC-NNM — matriskomplettering |
+| Brodersen m.fl. (2015) | AoAS | BSTS / CausalImpact |
 | Callaway & Sant'Anna (2021) | JoE | Staggered DiD — kohortspecifika ATT:er |
 | Goodman-Bacon (2021) | JoE | Tvåvägs FE vid staggered — viktningsresultat |
 | Sun & Abraham (2021) | JoE | Interaktions-DiD estimator |
+| de Chaisemartin & D'Haultfoeuille (2020) | AER | dCdH — icke-binär dos, switchers-vs-stayers |
 | Cattaneo, Feng & Titiunik (2021) | JASA 116(536):1865–1880 | SC prediktionsintervall |
 | Ben-Michael, Feller & Rothstein (2022) | JRSS-B 84(2):351–381 | PP-SCM — staggered adoption |
+| Rambachan & Roth (2023) | ReStud | HonestDiD — sensitivity för parallella trender |
+| Borusyak, Jaravel & Spiess (2024) | ReStud | Imputation-estimator vid staggered adoption |
+| Callaway, Goodman-Bacon & Sant'Anna (2024) | — | Kontinuerlig dos-DiD (`contdid`) |
 | Cattaneo m.fl. (2025) | ReStatat | Utvidgad SC-osäkerhetskvantifiering |
