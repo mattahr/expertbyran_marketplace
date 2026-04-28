@@ -4,7 +4,9 @@ Källa: OECD DAC Network on Development Evaluation, *Revised Evaluation Criteria
 
 ## Bakgrund
 
-OECD-DAC reviderade sina utvärderingskriterier 2019 och lade till **koherens** som femte kriterium vid sidan av de fyra traditionella (relevans, effektivitet, genomslag, hållbarhet). Kriterierna är inte ett poängsystem utan analytiska linser — inte alla behöver vara lika centrala i varje utvärdering.
+De ursprungliga fem kriterierna (1991) var: *relevans, effektivitet, verkningsgrad, genomslag, hållbarhet*. OECD-DAC reviderade kriterierna 2019 och lade till **koherens** som sjätte kriterium. Kriterierna är inte ett poängsystem utan analytiska linser — inte alla behöver vara lika centrala i varje utvärdering.
+
+Primärkälla: OECD/DAC EvalNet (2019). *Better Criteria for Better Evaluation*. DCD/DAC(2019)58/FINAL.
 
 ---
 
@@ -40,14 +42,13 @@ OECD-DAC reviderade sina utvärderingskriterier 2019 och lade till **koherens** 
 
 ---
 
-## 3. Effektivitet
+## 3. Effektivitet (Effectiveness)
 
 **Definition:** I vilken utsträckning har insatsen uppnått sina mål och resultat, inklusive eventuella skillnader mellan grupper?
 
 **Nyckelaspekter:**
 - Levererades planerade aktiviteter och direkta resultat (outputs)?
 - Uppnåddes de förväntade effektmålen (outcomes)?
-- Var genomförandet kostnadseffektivt?
 - Identifierades och hanterades risker?
 
 **Vanliga problem:**
@@ -57,7 +58,23 @@ OECD-DAC reviderade sina utvärderingskriterier 2019 och lade till **koherens** 
 
 ---
 
-## 4. Genomslag (Impact)
+## 4. Verkningsgrad (Efficiency)
+
+**Definition:** I vilken utsträckning har insatsen omsatt resurser (tid, pengar, kompetens) till resultat på ett kostnadseffektivt sätt?
+
+**Nyckelaspekter:**
+- Var kostnaderna rimliga i förhållande till uppnådda resultat?
+- Hade en alternativ insatsdesign levererat mer med samma medel?
+- Hur förhåller sig genomförandekostnader (overhead, transaktionskostnader) till utfallet?
+
+**Vanliga problem:**
+- Höga transaktionskostnader vid splittrad finansiering och många led.
+- Svagt underlag för kostnads-nytta-jämförelser mellan alternativa designs.
+- Administrativ börda hos implementörer underminerar de egentliga resultaten.
+
+---
+
+## 5. Genomslag (Impact)
 
 **Definition:** I vilken utsträckning har insatsen bidragit till bredare förändringar på individ-, samhälls-, organisations- eller systemnivå, avsedda eller oavsedda?
 
@@ -73,7 +90,7 @@ OECD-DAC reviderade sina utvärderingskriterier 2019 och lade till **koherens** 
 
 ---
 
-## 5. Hållbarhet
+## 6. Hållbarhet
 
 **Definition:** I vilken utsträckning kvarstår de netto-fördelar som insatsen genererat, eller är sannolika att kvarstå, efter att externt stöd avslutats?
 
@@ -93,13 +110,17 @@ OECD-DAC reviderade sina utvärderingskriterier 2019 och lade till **koherens** 
 
 ## Tillämpning vid revisioner
 
-Vid Riksrevisionens effektivitetsrevisioner behöver inte alla fem kriterier vara centrala. Vanliga ansatser:
+Vid Riksrevisionens effektivitetsrevisioner behöver inte alla sex kriterier vara centrala. Vanliga ansatser:
 
 | Revisionsfråga fokuserar på... | Prioriterade kriterier |
 |---|---|
 | Var insatsen rätt designad? | Relevans, koherens |
-| Levererades vad som utlovades? | Effektivitet |
+| Levererades vad som utlovades? | Effektivitet, verkningsgrad |
 | Gav insatsen varaktiga resultat? | Hållbarhet, genomslag |
-| Helhetsöversyn av en insats | Alla fem |
+| Helhetsöversyn av en insats | Alla sex |
 
 Iakttagelser formuleras alltid med explicit belägg. Undvik att använda kriteriebeteckningarna som rubriker i revisionspromemorian om de inte är etablerade i granskningens metod.
+
+### Coherence ≠ coordination
+
+En vanlig begreppsförväxling: *coordination* avser samordningsprocessen (undvika dubbelarbete), medan *coherence* avser utfallet och logiken — om insatser faktiskt förstärker varandra på systemnivå. En insats kan vara koordinerad men ändå inkoherent, t.ex. om biståndet stärker jordbruk medan givarens handelspolitik stänger exportmarknaderna.

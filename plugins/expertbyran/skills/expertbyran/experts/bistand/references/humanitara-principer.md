@@ -62,6 +62,33 @@ HDP-nexus är det analytiska ramverket för att hantera situationer där humanit
 
 ---
 
+## Do No Harm och konfliktkänslighet
+
+### Ramverket
+
+**Do No Harm** är ett analytiskt ramverk utvecklat av CDA Collaborative Learning Projects (2004) för att hjälpa biståndsorganisationer analysera hur deras insatser påverkar konflikter — avsett och oavsett.
+
+**Centralt verktyg: Dividers & Connectors**
+- *Dividers*: faktorer som driver konflikt och splittring i ett givet sammanhang.
+- *Connectors*: faktorer som binder samman grupper och skapar fredliga relationer.
+
+Ramverket tvingar organisationer att kartlägga hur en insats interagerar med dessa faktorer och justera för att minimera oavsiktlig skada ("do no harm") eller stärka fredsbyggande faktorer.
+
+**Konfliktkänslighet (conflict sensitivity):** innebär inte att alla organisationer arbetar med fred explicit, utan att alla överväger de oavsiktliga konsekvenserna av sina program på relationerna mellan grupper i ett sammanhang.
+
+### Sidas tillämpning
+
+Sida integrerar konfliktkänslighetsanalys i sitt multidimensionella fattigdomsanalysverktyg och har Nexus-rådgivare i fragila kontexter. DAC:s halvtidsgranskning (2024) bekräftade att Sverige gjort goda framsteg på HDP Nexus — vilket inkluderar konfliktkänslighet som ett av grundkraven.
+
+### Källhänvisningar
+
+| Källa | Relevans |
+|---|---|
+| CDA Collaborative (2004). *The "Do No Harm" Framework for Analyzing the Impact of Assistance on Conflict: A Handbook* | Primärkälla för ramverket |
+| OECD/DAC INCAF (2023). *Conflict Sensitivity Guidance* DCD/DAC/INCAF(2023)1/FINAL | Senaste DAC-vägledning |
+
+---
+
 ## Vanliga granskningsrelevanta frågor
 
 | Fråga | Relevant princip |
