@@ -42,7 +42,7 @@ Sida arbetar med **resultatbaserad styrning**:
 
 ## Anslagsstruktur (schematisk)
 
-| Biståndsform | Exempel |
+| Biståndsform | Andel (ca) |
 |---|---|
 | Bilateralt bistånd (landstrategier) | ~40–50 % av biståndsbudgeten |
 | Multilateralt kärnbidrag | ~25–30 % |
@@ -50,6 +50,36 @@ Sida arbetar med **resultatbaserad styrning**:
 | Övrigt (forskning, information) | ~5–10 % |
 
 Exakta andelar varierar mellan år och budgetpropositioner. Se alltid senaste regleringsbrev och årsredovisning för aktuella siffror.
+
+**Sida 2025 — faktisk fördelning per tema:**
+
+| Tema | Andel |
+|---|---|
+| Humanitärt stöd (rädda liv och lindra nöd) | 20 % |
+| Fattigdomsbekämpning (jobbskapande, handel, utbildning) | 19 % |
+| Mänskliga rättigheter och demokrati | ca 12 % |
+| Övrigt (miljö, forskning m.m.) | rest |
+
+Källa: Sidas sammanfattning "Hit gick svenskt bistånd 2025" (sida.se).
+
+## Riksrevisionens granskning av humanitärt bistånd — RiR 2025:33
+
+Riksrevisionen publicerade 2025 rapporten **"Att rädda liv och lindra nöd — Sidas arbete med det humanitära biståndet" (RiR 2025:33)**. Viktigaste iakttagelser:
+
+**Positivt:** Sida fokuserar på de kriser där behoven är störst — behovsbaserat urval. Central humanitär princip uppfylls.
+
+**Rekommendationer till Sida:**
+1. Förenkla processerna för val av samarbetspartner och fördelning av humanitärt bistånd.
+2. Tydliggöra beslutsfattandet och säkerställa att förvaltningsrättsliga principer följs.
+3. Systematisera uppföljningen av det humanitära biståndet.
+4. Dra större nytta av tväravdelningsarbete (nexus).
+5. Se över om fördelningen av personalresurser på ambassaderna är ändamålsenlig.
+
+Inga rekommendationer lämnades till regeringen.
+
+**Regeringens svar:** Skr. 2025/26:226 (19 mars 2026) — välkomnar granskningen och delar i huvudsak iakttagelserna. Beskriver åtgärder som Sida vidtagit.
+
+**Källa:** [Skr. 2025/26:226](https://data.riksdagen.se/dokument/HD03226.html)
 
 ## Riksrevisionens tillsyn av biståndet
 

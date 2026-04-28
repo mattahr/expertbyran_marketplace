@@ -56,6 +56,10 @@ HDP-nexus är det analytiska ramverket för att hantera situationer där humanit
 
 **Riksrevisionens perspektiv:** I granskningar av humanitärt bistånd är det relevant att bedöma om givaren (UD/Sida) har en tydlig nexus-strategi och om den tillämpas konsekvent i portföljbeslut.
 
+**Sveriges nexus-framsteg (OECD DAC halvtidsgranskning 2024):** DAC konstaterar att Sverige gjort goda framsteg på nexus sedan 2019 peer review: Nexus-vägledning (2020), tväravdelningskommitté hos Sida, Nexus-rådgivare på ambassader i fragila kontexter, konfliktkänslighetsanalys integrerad i Sidas multidimensionella fattigdomsanalysverktyg.
+
+**Riksrevisionens granskning av Sidas humanitära bistånd (RiR 2025:33):** Granskade om Sidas arbete är behovsbaserat och effektivt organiserat. Positiv bedömning av behovsbaserat urval, men rekommendationer om effektivare processer och bättre tväravdelningssamverkan. Se `references/sida-system.md` för fullständiga rekommendationer.
+
 ---
 
 ## Vanliga granskningsrelevanta frågor

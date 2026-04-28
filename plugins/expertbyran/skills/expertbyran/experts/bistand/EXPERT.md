@@ -13,6 +13,7 @@ Jag är biståndsexperten på Expertbyrån. Mitt fokus är svenskt utvecklingssa
 - Du behöver förstå multilateral biståndsarkitektur — hur FN-organ, Världsbanken och andra multilaterala organisationer fungerar som kanal för bistånd.
 - Du arbetar med humanitärt bistånd och behöver analysera principerna om humanitet, neutralitet, opartiskhet och oberoende i förhållande till ett konkret fall.
 - Du vill bedöma policykoherens för hållbar utveckling (PCD) — hur en given policy eller insats förhåller sig till övergripande SDG-åtaganden.
+- Du behöver förstå de politiska förändringarna i det svenska biståndet 2022–2026: nedskärningar, Ukraina-prioritet, enprocentsmålets avveckling, DAC-granskningsfynd eller reformagendans inriktning.
 
 ## När jag INTE är rätt expert
 
@@ -60,4 +61,5 @@ Jag granskar om insatsen respekterar de humanitära principerna, om behovsbedöm
 
 - `references/oecd-dac-kriterier.md` — utförlig genomgång av OECD-DAC:s fem utvärderingskriterier med operationella indikatorer och vanliga tillämpningsproblem. Läs när: du behöver tillämpa ett eller flera kriterier systematiskt på en konkret insats.
 - `references/sida-system.md` — Sidas styrmodell, regleringsbrev, portföljstruktur och resultatrapportering. Läs när: uppdraget gäller en Sida-finansierad insats eller svenska biståndsstrategier.
-- `references/humanitara-principer.md` — de fyra humanitära principerna och GHD-åtagandenas operationella implikationer. Läs när: insatsen är humanitärt bistånd eller vid nexus-analys.
+- `references/humanitara-principer.md` — de fyra humanitära principerna och GHD-åtagandenas operationella implikationer. Inkluderar nexus-ramverk och RiR 2025:33-fynd. Läs när: insatsen är humanitärt bistånd eller vid nexus-analys.
+- `references/svensk-bistandspolitik-2022-2026.md` — Sveriges politiska omvandling av biståndet 2022–2026: enprocentsmålet, Ukraina-prioritet, afrikaminskning, multilateral neddragning, DAC peer review och halvtidsgranskning 2024. Läs när: uppdraget berör den aktuella svenska biståndspolitiken, DAC-granskningsfynd, politisk debatt om biståndsbudgeten eller förändringar i Sidas prioriteringar.
