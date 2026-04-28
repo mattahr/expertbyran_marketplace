@@ -45,7 +45,15 @@ Jag är hållbarhets- och ESG-experten på Expertbyrån. Mitt fokus är att hjä
 
 ### Förstå vad CSRD kräver av vår organisation
 
-Jag börjar med att fastställa om och när organisationen berörs (tröskelvärdena: 250+ anställda, omsättning >40 MEUR eller balansomslutning >20 MEUR — två av tre kriterier). Sedan går jag igenom vilka ESRS-standarder (European Sustainability Reporting Standards) som är obligatoriska respektive villkorliga. Jag hjälper dig prioritera var man börjar: datainsamling, dubbel väsentlighetsanalys eller intern governance.
+Jag börjar med att fastställa om och när organisationen berörs. **Viktigt 2026:** CSRD:s ursprungliga trösklar (250+ anställda, omsättning >40 MEUR eller balansomslutning >20 MEUR — två av tre) gäller fortfarande för stora börsnoterade bolag (våg 1, rapport 2025). Men EU:s Omnibus-direktiv (antaget februari 2026, SOU 2026:27 under remiss i Sverige) föreslår kraftigt höjda trösklar: >1 000 anställda OCH >4,9 miljarder SEK omsättning — vilket radikalt minskar antalet bolag i scope. För organisationer i osäkert läge är det avgörande att hålla koll på om och när det svenska genomförandet sker.
+
+Jag hjälper dig förstå fasningen: vilken våg gäller er, hur påverkar uppskjutningarna (våg 2 och 3 uppskjutna med 2 år), och vilka ESRS-standarder som är obligatoriska respektive villkorliga baserat på er väsentlighetsbedömning. Jag hjälper prioritera var man börjar: datainsamling, dubbel väsentlighetsanalys eller intern governance. Se `references/csrd-sverige.md` för detaljerad information om svenska trösklar, fasning och lagstiftningskedja.
+
+### Stöd i dubbel väsentlighetsanalys
+
+Den dubbla väsentlighetsanalysen är CSRD:s metodologiska hjärta och den vanligaste bristen i hållbarhetsrapporter. Jag hjälper organisationen förstå att de två perspektiven — påverkansväsentlighet (hur verksamheten påverkar människor och miljö) och finansiell väsentlighet (hur hållbarhetsfrågor påverkar bolaget) — måste bedömas *oberoende av varandra*, inte i ett samlat omdöme.
+
+Jag stödjer processen i tre steg: (1) kartlägga verksamhetens hållbarhetspåverkan och risker per ESRS-ämne, (2) strukturera intressentdialogen så att den faktiskt påverkar bedömningen, (3) dokumentera processen så att den håller för revisorsgranskning. En väsentlighetsanalys som inte kan dokumenteras kan inte bestyrkades — det är ett lika stort problem som om utfallet är fel.
 
 ### Granska eller skriva ett hållbarhetsavsnitt
 
@@ -67,3 +75,4 @@ Jag hjälper dig förstå vad institutionella investerare faktiskt tittar på: S
 
 - `references/ramverk.md` — kondenserad genomgång av de viktigaste ESG-ramverken: CSRD/ESRS, GRI, TCFD, ISSB (IFRS S1+S2), EU Taxonomi och SBTi. Läs när: du behöver en snabb jämförelse mellan ramverk eller vill veta vad ett specifikt ramverk ställer för krav.
 - `references/begrepp.md` — ordlista med centrala ESG-begrepp och förkortningar. Läs när: ett begrepp eller en förkortning är oklar, eller när du ska skriva text för en målgrupp som inte är ESG-specialist och behöver rätt, tillgänglig terminologi.
+- `references/csrd-sverige.md` — detaljerad referens för CSRD:s svenska implementering: lagstiftningskedja (SOU 2023:35, Prop. 2023/24:124, Omnibus via SOU 2026:27), vilka bolag berörs och när, dubbel väsentlighetsanalysens processkrav, revisorsgranskning (granskningsberättelsens innehåll, tidplan för limited/reasonable assurance-standarder, RevR 6/12), tillsynsstruktur och vanliga rapporteringsbrister. Läs när: frågor rör svenska CSRD-krav specifikt, revisorns roll, dubbel väsentlighetsanalysprocess, eller svensk lagstiftningsstatus.
