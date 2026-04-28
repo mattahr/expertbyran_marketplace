@@ -1,0 +1,99 @@
+# Arbetsförmedlingens Reform 2019–2026
+
+## Bakgrund och reformdrivkrafter
+
+Januariavtalet (2019) fastslog att Arbetsförmedlingen ska "reformeras i grunden". Bakgrunden var kritik mot myndighetens ineffektivitet, bristande matchningsresultat och hög förvaltningskostnad. Grundtanken: AF ska bli en *beställarmyndighet* som köper matchningstjänster av fristående aktörer snarare än att utföra dem i egen regi.
+
+---
+
+## Reformens genomförande 2019–2023
+
+### Steg 1 — Omstrukturering och neddragning (2019–2020)
+
+- AF minskade kraftigt i personalstyrka och stängde lokala kontor
+- Kommunerna upplevde att den lokala närvaron försvann; samverkan "otroligt svårare" (IFAU 2025:5)
+- AF övergick till att fungera som beställarmyndighet
+
+### Steg 2 — KRoM-piloten (2020–2022)
+
+Kundval Rusta och Matcha (KRoM/RaM) startade mars 2020 i 6 leveransområden:
+- Fristående leverantörer anskaffas via LOV eller LOU
+- Ersättningsmodell: grundersättning + resultatersättning (andel av maxersättning beror på hur snabbt deltagare börjar arbeta)
+- ~70 000 deltagare/år under 2022
+
+**IFAU 2024:17** (RCT-utvärdering): Mixade resultat. Metodologisk nyckelkritik: AF:s registerdata ger *inte* rättvisande bild av sysselsättningseffekter jämfört med Skatteverkets inkomstdata. Leverantörerna hade ekonomiska incitament att hjälpa med avregistrering (som räknas som resultat) → snedvriden mätning.
+
+### Steg 3 — Förmedlingsinsatser som regelverksgrund (fr.o.m. 2022)
+
+Ds 2021:27 och lagstiftning 2022 etablerade "förmedlingsinsatser" som formell arbetsmarknadspolitisk insats:
+- Leverantörer kan inte neka att ta emot anvisade deltagare
+- AF ansvarar fortfarande för arbetsmarknadspolitisk bedömning (träffsäkerhet och enhetlighet)
+- AF ska säkerställa att leverantörer väljs bort om de underpresterar
+
+---
+
+## Statskontorets kritik 2025
+
+**Statskontoret Rapport 2025:2 — "Gör jobbet!"**
+- PDF: https://www.statskontoret.se/siteassets/rapporter-pdf/2025/2025_2---utskriftsversion.pdf
+
+### Nyckelkritik
+
+1. **Otydlig och splittrad styrning:** Förordning styr AF mot att prioritera de med svag konkurrensförmåga; regleringsbrev styr mot volymer i insatser lämpliga för medellång arbetsmarknadsdistans → svåra att förena
+2. **För många varianter av insatser:** Subventionerade anställningar och matchningstjänster finns i många parallella varianter (plusjobb, subventionerade anst., stöd och matchning, KRoM, RaM 2). Varje ny insats kräver ny systemutveckling hos AF → kostsamt
+3. **Lågt presterande leverantörer kvar för länge:** Uppföljningsmekanismerna har inte fungerat för att rensa bort svagt presterande aktörer
+4. **Bristande samordning med kommuner:** Lokala aktörers och kommuners kapacitet används inte optimalt
+
+### Statskontorets förslag
+
+- Sammanhållen styrning: färre styrsignaler, tydligare prioritering
+- Färre insatstyper
+- Skarpare uppföljning och gallring av leverantörer
+
+---
+
+## Riksdagsdebatten 2025–2026
+
+### Pågående propositioner och betänkanden
+
+- **Betänkande 2025/26:AU9** (Arbetsmarknadsutskottet) — behandlar arbetsmarknadspolitik och a-kassan: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/arbetsmarknadspolitik-och_hd01au9/
+- **Budgetproposition 2026, UO14** — Arbetsmarknad och arbetsliv: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/budgetpropositionen-for-2026-utgiftsomrade-14_hd031d16/html/
+- **Arbetsmarknadsminister Johan Britz (L)** — svarade på skriftlig fråga 2025/26:207 om reformeringen; betonar att reformering fortsätter men inte avveckling: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/reformeringen-av-arbetsformedlingen_hd12207/
+
+### Politiska positioner
+
+| Aktör | Position |
+|-------|----------|
+| Regeringen (L ledande) | Reformering fortsätter; beställarmodellen behålls; bättre styrning |
+| M | Utreda nedläggning av AF i nuvarande form; ny specialiserad myndighet |
+| KD | Motion 2025/26:1728 om nedläggning av AF i nuvarande form |
+| V | Kräver att AF tar tillbaka matchningsverksamhet i offentlig regi; utredning om att ta tillvara handläggarnas erfarenhet |
+| S | Bevakar bemanningsfrågan och den lokala närvaron; ingen tydlig återstatisering |
+
+### Tre strukturella alternativ i debatten
+
+1. **Beställarmodellen (status quo förbättrad):** AF kvar som beställare, privata leverantörer som utförare — men med bättre styrning och uppföljning (Statskontorets linje)
+2. **Ny analys-/tillsynsmyndighet:** AF läggs om till en renodlad analys-, resursfördelnings- och tillsynsmyndighet; genomförande sker via kommuner och fristående aktörer (M/KD-närstående förslag)
+3. **Återstatisering (utförarmodell):** AF tar tillbaka matchningsverksamheten i offentlig regi med mer personal och lokal närvaro (V:s linje)
+
+---
+
+## Nyckelresultat från forskning om privata aktörer
+
+**IFAU 2024:17** — Effektutvärdering av RaM:
+- RCT-design med 70 000+ deltagare
+- Andelen resultatersättning har viss (men begränsad) effekt på utfall
+- Allvarligt mätproblem: leverantörer hjälpte med avregistrering → AF-register överskattar utfall vs. Skatteverksdata
+
+**IFAU 2021:7** — KRoM:
+- Erfarenheter från piloten 2020 i 6 leveransområden
+- Inga starka resultat för effektivitetsökning vs. offentlig regi i tidiga resultat
+- Lokal närvaro och val av aktör viktigt
+
+**IFAU 2025:5** — Kommunsamverkan:
+- Kommunerna missnöjda post-2019: "otroligt svårare" att samverka med AF
+- AF:s lokal närvaro kraftigt minskad → informella samarbeten försvann
+
+**IFAU 2018:9** — Arbetsförmedlarna och deras arbetsmarknad:
+- Under 2016: knappt 200 kompletterande aktörer med ~100 000 deltagare
+- Antalet aktörer minskade kraftigt 2015–2016 (från ~1 100 till ~200)

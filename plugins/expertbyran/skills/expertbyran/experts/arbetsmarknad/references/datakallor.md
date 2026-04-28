@@ -63,6 +63,20 @@
 **Vad det täcker:** EU-harmoniserade arbetsmarknadsdata. Täcker AKU-liknande mätningar (Labour Force Survey, LFS) för EU/EES.
 **Användning:** EU-jämförelser, obligatorisk rapportering till EU-kommissionen. Har fler länder än OECD men något annorlunda metodologisk täckning.
 
+### CSN — Statistik om omställningsstudiestödet
+**Vad det täcker:** Löpande månadsstatistik om beviljade, studerande, kön, ålder, utbildningsinriktning för omställningsstudiestödet.
+**Uppdatering:** Månadsvis.
+**Användning:** Volymer och profiler för omställningsstudiestödet. Primär källa för faktisk användning av stödet.
+**Länk:** https://www.csn.se/om-csn/statistik-och-rapporter/statistik-om-omstallningsstudiestod.html
+**OBS:** EJ i DocRec — måste hämtas direkt från CSN:s webbplats.
+
+### IAF — Inspektionen för arbetslöshetsförsäkringen
+**Vad det täcker:** Granskningsrapporter om a-kassornas tillämpning av ersättningsvillkor, sanktionsbeslut, aktivitetskrav. 14–18 rapporter/år.
+**Uppdatering:** Löpande.
+**Användning:** Tillsynsperspektiv på a-kassesystemet; rättssäkerhet; likabehandling.
+**Länk:** https://www.iaf.se/granskning
+**OBS:** EJ i DocRec — måste hämtas direkt från iaf.se. IAF:s egna granskningsrapporter är *inte* indexerade i DocRec (bekräftat).
+
 ## Tips för datanvändning
 
 - **AKU vs. Arbetsförmedlingens data:** AKU är befolknings­baserad och följer ILO. AF-data är administrativ och täcker bara de som söker via AF. Skillnaden förklarar varför siffrorna kan skilja sig åt — välj utifrån vad du mäter.

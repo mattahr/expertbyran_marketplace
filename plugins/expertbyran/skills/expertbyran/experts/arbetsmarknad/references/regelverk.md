@@ -21,6 +21,18 @@ Vid driftsinskränkning gäller turordningsprincip inom driftsenhet och avtalsom
 **Företrädesrätt till återanställning**
 Den som sagts upp p.g.a. arbetsbrist eller som haft tidsbegränsad anställning (och uppfyllt villkor) har företrädesrätt till ny anställning i nio månader.
 
+### LAS-reformpaketet 2022 — fem nyckelförändringar (prop. 2021/22:176)
+
+Ikraftträdde 30 juni 2022, tillämpas från 1 oktober 2022. Bygger på principöverenskommelse december 2020 (PTK, LO, Industri- och handelskammaren, Svenskt Näringsliv).
+
+1. **Turordningsundantaget utökat (22 § LAS):** Från 2 till 3 arbetstagare som kan undantas, nu för *alla* arbetsgivare (tidigare bara ≤10 anst.). Tremånadersspärr: inga ytterligare undantag de första 3 mån om undantag gjorts.
+2. **Sakliga skäl (7 § LAS):** "Saklig grund" ersattes av "sakliga skäl" — fokus på avtalsbrottets allvar vid tidpunkten för uppsägningen. Syftar till ökad förutsebarhet.
+3. **Anställning upphör vid tvist (34–35 §§ LAS):** Vid ogiltighetstvist upphör anställningen vid uppsägningstidens slut (ej under pågående tvist). Arbetstagaren har rätt till a-kassa under tvisten.
+4. **Hyvlingsskyddet — omreglering till lägre sysselsättningsgrad (ny 7b § LAS):** Erbjudanden om sänkt sysselsättningsgrad ska ges i turordning (kortast anst. erbjuds sänkning först). Omställningstid = lika lång som gällande uppsägningstid, max 3 månader.
+5. **Nytt offentligt omställningsstöd (KOK):** Statligt stöd via Kammarkollegiet till individer *utan* kollektivavtalad omställning. Max 12 månaders vägledning, rådgivning och förstärkt stöd.
+
+**Omställningsstudiestödet** ingick i samma paket (prop. 2021/22:176, kap. 9). Se `references/omstallningssystemet.md` för detaljer.
+
 ### Lagen om medbestämmande i arbetslivet (MBL, SFS 1976:580)
 
 Reglerar facklig förhandlingsrätt och informationsskyldighet. Arbetsgivare är skyldiga att förhandla med berörda fackförbund inför viktigare beslut (§ 11 och § 13). Primär förhandlingsskyldighet: arbetsgivaren måste förhandla på eget initiativ. Sekundär: facket kan begära förhandling.
@@ -34,8 +46,11 @@ Förbjuder diskriminering i arbetslivet på grund av kön, könsidentitet, etnis
 ### Arbetslöshetsförsäkringen (A-kassa)
 
 - **Grundvillkor:** 12 månaders anslutning till en a-kassa och uppfyllt arbetsvillkor (minst 80 timmars arbete per månad under minst 6 månader under de senaste 12 månaderna, eller 480 timmar under 6 månader).
-- **Ersättning:** 80 % av daglönen de första 200 dagarna (max­belopp varierar, indexeras). Grundbeloppet för den som inte uppfyller inkomstvillkoret är lägre.
+- **Ny inkomstbaserad modell (fr.o.m. 2024/25, prop. HB03128):** Ny a-kassemodell ersatte den äldre ersättningsmodellen; inkomstbaserad beräkning förbättrar täckning för låginkomsttagare. IAF behåller tillsynsrollen.
+- **Ersättning:** 80 % av daglönen de första 200 dagarna (maxbelopp varierar, indexeras). Grundbeloppet för den som inte uppfyller inkomstvillkoret är lägre.
 - **Aktivitetskrav:** Mottagare måste aktivt söka arbete och delta i åtgärder som Arbetsförmedlingen anvisar. Sanktioner vid brott mot villkoren.
+- **IAF (Inspektionen för arbetslöshetsförsäkringen):** Tillsynsmyndighet för a-kassorna. 14–18 granskningsrapporter/år. Tillsynsverktyg: erinringar (91 § LAK), föreläggande om rättelse, indragning av statsbidrag (92 § LAK). IAF:s egna granskningsrapporter publiceras på **iaf.se/granskning** (EJ i DocRec).
+- **Nytt administrativt sanktionssystem (Ds 2025:26):** Förslag om sanktionsavgift i a-kassan och AMMA — ny ärendetyp, ca 100 000 beslut/45 000 ärenden. Risk: inkonsekvent tillämpning av a-kassorna → rättssäkerhetsproblem.
 
 ### Etableringsersättning
 

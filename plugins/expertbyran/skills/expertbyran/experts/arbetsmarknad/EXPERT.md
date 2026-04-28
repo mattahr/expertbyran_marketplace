@@ -15,6 +15,9 @@ Jag är arbetsmarknadsexperten på Expertbyrån. Mitt fokus är den svenska arbe
 * Du utreder arbetsmarknadskonsekvenser av digitalisering, automatisering eller grönt skifte.
 * Du analyserar etablering av nyanlända på arbetsmarknaden och integrationens arbetsmarknadsdimension.
 * Du vill bedöma sjukfrånvaro, arbetsförmåga och rehabiliteringens koppling till arbetsmarknaden.
+* Du analyserar omställningssystemet — omställningsstudiestöd, kollektivavtalad omställning, offentligt omställningsstöd (KOK) och deras praktiska funktion och glapp.
+* Du utreder Arbetsförmedlingens pågående reform, privata matchningsaktörers roll (RaM, fristående leverantörer) eller debatten om myndighetens framtida form.
+* Du analyserar ungdomsarbetslöshet, varselläget eller konjunkturens effekter på svaga grupper.
 
 ## När jag INTE är rätt expert
 
@@ -67,3 +70,6 @@ Redovisa etableringstidens längd, sysselsättningsgap och sektoriell koncentrat
 * `references/nyckelbegrepp.md` — definitioner av centrala arbetsmarknadstermer (sysselsättningsgrad, NEET, strukturell arbetslöshet, Beveridge-kurvan m.fl.). Läs när: du behöver säkerställa att du använder begrepp korrekt eller ska förklara dem för en icke-specialist.
 * `references/regelverk.md` — sammanfattning av central lagstiftning: LAS, MBL, diskrimineringslagen (arbetsmarknadsdelen), regler för a-kassa och etableringsersättning. Läs när: en uppgift rör anställningsskydd, kollektivavtalsrätt eller ersättningssystem och du behöver ha regelverket klart för dig.
 * `references/datakallor.md` — förteckning över primära datakällor (SCB AKU, Arbetsförmedlingens statistik, IFAU-rapporter, OECD Employment Outlook) med beskrivning av vad varje källa täcker och hur ofta den uppdateras. Läs när: du ska hämta eller citera statistik och behöver veta var du hittar rätt underlag.
+* `references/omstallningssystemet.md` — de fem omställningssystemens arkitektur (kollektivavtalad omställning, KOK, omställningsstudiestödet, RaM, a-kassa), faktisk användningsdata för omställningsstudiestödet (volymer, handläggningstider, anslag 2023–2026), gap-analys i AI-eran, och nyckelkällor. Läs när: uppgiften rör omställning vid uppsägning, omschoolning, kompetensomvandling, LAS-reformens omställningsdimension eller ai-omvandlingens konsekvenser för omställningssystemen.
+* `references/arbetsformedlingen-reform.md` — reformresan 2019–2026: januariavtalet, RaM/KRoM, Statskontorets kritik 2025, riksdagsdebatten om AF:s framtida form, privata leverantörers resultat och styrningsproblem. Läs när: uppgiften rör Arbetsförmedlingens organisation, privata matchningsaktörer, beställar- vs. utförarmodell eller den pågående reformdebatten.
+* `references/ungdomsarbetslöshet-och-konjunktur.md` — ungdomsarbetslöshetens nivå, sammansättning (heltidsstuderande) och konjunkturkänslighet; varsellägets historik 2023–2026; prognoser. Läs när: uppgiften rör ungdomsarbetslöshet, NEET, konjunkturens effekter på arbetsmarknaden eller varselstatistik.
