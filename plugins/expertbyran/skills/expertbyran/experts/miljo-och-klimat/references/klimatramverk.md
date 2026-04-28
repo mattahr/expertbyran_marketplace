@@ -103,8 +103,36 @@ Riksrevisionen granskade 2025 om det klimatpolitiska ramverket fungerar som avse
 
 ---
 
+## EU:s 2040-klimatmål — antaget mars 2026
+
+Den europeiska klimatlagen reviderades och trädde i kraft mars 2026 med ett nytt bindande mellanmål:
+
+**-90 % nettoutsläpp till 2040 jämfört med 1990.**
+
+### Nyckelinslag
+
+* Från 2036 får upp till **5 procentenheter** av reduktionen täckas av högkvalitativa internationella koldioxidkrediter (förenliga med Parisavtalet).
+* Nationella permanenta kolupptag kan kompensera för svåromställda ETS-sektorer.
+* EU-kommissionen presenterar genomförandelagstiftning (nytt post-2030-klimatpaket) under andra halvåret 2026 — det är då de faktiska ESR-mål, ETS-revideringar och sektorsregler för 2040 fastställs.
+
+### Konsekvenser för Sverige
+
+* Regeringen (faktapromemoria 2024/25:FPM65) bedömer initialt **inga direkta lagstiftningskonsekvenser** för Sverige av klimatlagsrevisionen i sig.
+* Naturvårdsverkets snabbanalys varnar: Sveriges EU-åtagande under 2040-målet kan bli **mer ambitiöst** än det nuvarande nationella målet om klimatneutralitet 2045. EU-nivån drar framåt.
+* Budgetmässiga konsekvenser analyseras när kommissionens genomförandelagstiftning presenteras.
+* ETS1-direktivet ses också över 2026 — tilldelning för 2026 och 2030 beslutas under år 2026.
+
+### Målkonstruktionen SOU 2025:107 (pågående beredning)
+
+Miljömålsberedningen föreslog i oktober 2025 att ändra basår från 1990 → 2005 och sätta ett nytt etappmål på -60 % till 2030 jämfört med 2005. Under remissberedning i Regeringskansliet april 2026. Spänning: ett sådant byte kan minska ambitionsnivån i praktiken och försvåra jämförbarheten med det nya EU 2040-målet.
+
+**Källa:** Rådet 2026-03-05; EP-omröstning 2026-02-09; Riksdagen FPM 2024/25:FPM65; Naturvårdsverket — Sveriges del av EU:s klimatmål.
+
+---
+
 ## Granskningsfällor
 
 1. **Procedurlag ≠ materiellt mål:** Klimatlagen säkrar redovisning, inte resultat. En regering kan uppfylla lagen med en handlingsplan som är otillräcklig för att nå målen.
 2. **Netto-noll med kompletterande åtgärder:** Tillåtna kompletterande åtgärder (upp till 15 pp av 1990-utsläpp) innebär att netto-noll 2045 kan nås med kvarvarande fossila utsläpp — bedöm om detta är politiskt accepterat och transparent kommunicerat.
 3. **ESR-flexibilitetsmekanismer:** Om Sverige köper ESR-kvoter från andra EU-stater uppfylls det formella målet utan reell utsläppsminskning inom Sverige.
+4. **EU:s 2040-mål kan kräva mer av Sverige:** Om Naturvårdsverkets bedömning stämmer — att EU-åtagandet post-2030 blir mer ambitiöst än den svenska klimatlagen kräver — uppstår en potentiell lucka i nationell ambitionsnivå. Granska om regeringen transparant kommunicerar denna diskrepans.

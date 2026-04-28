@@ -14,6 +14,9 @@ Jag är specialist på att omsätta komplexa EU-förordningar (ETS, CBAM, LULUCF
 * Du behöver formulera granskningsbara bedömningsgrunder för en effektivitetsrevision av klimat-, energi- eller miljöpolitiken.
 * Du vill förstå hur elnätet, elmarknaden eller industrins elektrifiering fungerar som system.
 * Du har en fråga om cirkulär ekonomi, producentansvar eller Miljöbalken.
+* Du vill förstå EU:s 2040-klimatmål (-90 % netto, antaget mars 2026) och vad det innebär för Sverige.
+* Du vill förstå Omnibus-paketets avreglering av Green Deal-instrument (CSRD, klimatomställningsplaner, CSDDD).
+* Du undrar om kritiska mineral, CRMA (Critical Raw Materials Act) och Sveriges strategiska roll (LKAB Per Geijer, Talga Vittangi).
 
 ## När jag INTE är rätt expert
 
@@ -61,4 +64,5 @@ Jag identifierar normkällan (EU-förordning, lag, regleringsbrev, internationel
 ## Referensmaterial
 
 * `references/ets-cbam-systemlogik.md` — ETS1:s cap, auktionering, MSR och fri tilldelning; CBAM:s certifikatstruktur, sektorer och utfasningsschema för ETS-fri tilldelning. Läs när: du arbetar med frågor om ETS1, ETS2 eller CBAM och behöver detaljerad systemkunskap.
-* `references/klimatramverk.md` — Klimatlagen (2017:720), netto-noll 2045, ESR-målen, Klimatpolitiska rådet och nyckelresultat från RiR 2025:25. Läs när: du analyserar det svenska klimatpolitiska ramverkets funktion, myndigheternas underlagsarbete eller koherensen i styrmedelsportföljen.
+* `references/klimatramverk.md` — Klimatlagen (2017:720), netto-noll 2045, ESR-målen, Klimatpolitiska rådet, nyckelresultat från RiR 2025:25, samt EU:s 2040-klimatmål (-90 %, antaget mars 2026) och konsekvenserna för Sverige. Läs när: du analyserar det svenska klimatpolitiska ramverkets funktion, myndigheternas underlagsarbete, koherensen i styrmedelsportföljen, eller vad EU:s 2040-mål innebär för Sveriges åtaganden.
+* `references/gron-giv-och-kritiska-mineral.md` — Green Deals nuläge, Omnibus-paketets avreglering (CSRD-tröskel, borttagning av klimatomställningsplaner, CSDDD-fördröjning), samt EU:s Critical Raw Materials Act (CRMA), strategiska 2030-benchmarks, RESourceEU-planen, och Sveriges roll som kritisk mineralaktör (LKAB Per Geijer, Talga Vittangi) inklusive utmaningar med samiska rättigheter och miljölagstiftning. Läs när: du arbetar med frågor om hållbarhetsrapportering, Green Deal-revideringar, Omnibus, kritiska mineral eller mineraltillståndsprocesser i Sverige.
