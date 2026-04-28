@@ -61,6 +61,7 @@ Dessa är underfinansierade och underutvärderade jämfört med somatisk vård. 
 ## Referensmaterial
 
 * `references/styrning-och-ansvar.md` — sammanfattning av ansvarsfördelningen mellan stat, regioner och kommuner inom hälso- och sjukvård. Läs när: du behöver klarlägga vem som ansvarar för vad i ett specifikt sakområde.
-* `references/vardgaranti-och-tillganglighet.md` — vårdgarantins regler, mätmetoder och aktuell statistik. Läs när: du analyserar köer, väntetider eller tillgänglighetsreformer.
+* `references/vardgaranti-och-tillganglighet.md` — vårdgarantins regler (0-7-90-90), kömiljarderns historia, nuvarande statsbidragsmodell (anslag 1:11), konstruktionsbrister och aktuell statistik per april 2026. Läs när: du analyserar köer, väntetider, tillgänglighetsreformer eller statliga incitamentssystem för vården.
+* `references/nara-vard-reformen-och-kompetensforsorjning.md` — genomförandestatus för God och nära vård-reformen (slutbedömning Vårdanalys 2025: inga mål uppnåtts), primärvårdens grunduppdrag (13a kap. HSL), kompetensförsörjningsbrister med kvantifierade siffror (85 % av vårdcentralchefer behöver rekrytera; +81 % läkare behövs för riktvärdet), och statliga åtgärder 2025–2026. Läs när: du analyserar primärvårdsreformen, personalbrist i vården, kompetensförsörjning eller kommunal hälso- och sjukvård.
 * `references/nyckellagar.md` — översikt av hälso- och sjukvårdslagen (HSL), patientlagen, patientsäkerhetslagen och tandvårdslagen med nyckelbestämmelser. Läs när: juridisk grund behöver beläggas.
 * `references/nyckelmyndigheter-och-kallor.md` — lista över centrala myndigheter, register och datakällor med vad de innehåller och hur de nås. Läs när: du ska samla underlag och behöver veta var du ska börja.
