@@ -1,110 +1,115 @@
-# Green Deal, Omnibus-paketet och kritiska mineral (referens)
+# EU:s 2040-klimatmål, Omnibus-paketet och kritiska mineral (referens)
 
-_Senast uppdaterad: 2026-04-28_
+## EU:s 2040-klimatmål — Europeiska klimatlagen reviderad
+
+_Antagen mars 2026_
+
+### Beslut
+
+EU antog formellt en revision av den europeiska klimatlagen den 5 mars 2026 (Rådet gav slutligt godkännande efter EP-omröstning 9 februari 2026).
+
+**Mål:** -90 % nettoutsläpp till 2040 jämfört med 1990 (bindande mellanmål i klimatlagen).
+
+**Flexibiliteter:**
+- Från 2036: upp till 5 procentenheter av utsläppsminskningarna får komma från högkvalitativa internationella koldioxidkrediter (förenliga med Parisavtalet)
+- Nationella permanenta kolupptag kan kompensera för svåromställda sektorer inom ETS
+
+**Nästa steg:** Kommissionen presenterar genomförandelagstiftning (post-2030 klimatpaket) under H2 2026. Då fastläggs faktiska ESR-mål, ETS-revideringar och sektorsregler för 2040-vägen.
+
+### Konsekvenser för Sverige
+
+**Direkt:** Regeringen bedömer inga direkta konsekvenser för svensk lagstiftning initialt. Budgetmässiga konsekvenser analyseras när kommissionen presenterar genomförandelagstiftningen.
+
+**Indirekt — skärpt krav:** Naturvårdsverkets snabbanalys visar att Sveriges EU-åtagande under 2040-målet kan bli **mer ambitiöst** än det svenska målet om klimatneutralitet 2045. EU-nivån drar nu framåt snabbare än klimatlagen kräver.
+
+**ESR-revideringar:** ETS1-direktivet ses över 2026. ESR-åtaganden för 2031–2040 formuleras med utgångspunkt i 90 %-målet.
+
+**Källa:** [Rådet 2026-03-05](https://www.consilium.europa.eu/en/press/press-releases/2026/03/05/2040-climate-target-council-gives-final-green-light/); [EP-omröstning 2026-02-09](https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-02-09/4/eu-climate-law-reducing-emissions-by-90-by-2040); [Riksdagen FPM 2024/25:FPM65](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/fakta-pm-om-eu-forslag/forordning-om-revidering-av-europeiska-klimatlagen_hc06fpm65/)
+
+### Granskningsrelevans
+
+- Är det svenska klimatmålet 2045 tillräckligt ambitiöst i förhållande till EU:s 2040-mål?
+- Hur förbereds svensk lagstiftning för skärpta ESR-åtaganden post-2030?
+- Hur hanteras de 5 pp internationella krediternas trovärdighet?
 
 ---
 
-## EU:s gröna giv (Green Deal) — nuläge
+## Green Deal under omvandling — Omnibus-paketet
 
-Green Deal lanserades 2019 som EU:s övergripande strategi för klimatneutralitet 2050. Kärnan — klimatlagen med bindande mål — stod fast 2025–2026, men flera regleringsverktyg reviderades kraftigt nedåt via Omnibus-paketet.
+_Antaget december 2025, publicerat i EU:s officiella tidning 26 februari 2026_
 
-**Paradoxen:** 2040-klimatmålet (-90 %) antogs och stärker klimatlagens ambition, *samtidigt* som rapporterings- och due diligence-plikter försvagades. Green Deal "överlevde" som mål men förlorade delar av genomförandeapparaten.
+### Vad är Omnibus?
 
----
-
-## Omnibus-paketet — avreglering av Green Deal-instrument
-
-**Antaget:** Europaparlamentet 16 december 2025; rådet 24 februari 2026; publicerat i EU:s officiella tidning 26 februari 2026.
-
-### Bakgrund
-
-Kommissionen presenterade i februari 2025 Omnibus I och II — ett "förenklingspaket" som reviderade ett flertal centrala Green Deal-direktiv. I praktiken innebar det en betydande avreglering, framför allt av hållbarhetsrapportering och leveranskedjans due diligence.
+Kommissionen presenterade i februari 2025 ett "Omnibus"-paket med revisioner av centrala Green Deal-instrument, i syfte att "förenkla" regelverket. I praktiken innebar det en betydande avreglering av icke-skattemässiga klimatpolitiska instrument.
 
 ### Viktigaste ändringar
 
 | Instrument | Ändring |
 |-----------|---------|
-| **CSRD** (hållbarhetsrapportering) | Tröskel höjd: krav bara för bolag med **>1 000 anställda OCH >450 M€ omsättning** — kraftigt färre bolag |
-| **Klimatomställningsplaner** | Skyldigheten att anta en klimatomställningsplan **togs bort** |
-| **CSDDD** (supply chain due diligence) | Genomförandetid förlängs med 1 år via stop-the-clock |
-| **ESRS** (rapporteringsstandarder) | EFRAG reviderar standarder (klart 30 nov 2025); delegerad akt förväntas H1 2026, tillämplig fr.o.m. räkenskapsår 2027 |
-| **Tidsgränser (stop-the-clock)** | Hållbarhetsrapportering: 2 år; supply chain due diligence: 1 år |
+| CSRD (hållbarhetsrapportering) | Trösklar höjda: krav enbart för bolag med >1 000 anställda OCH >450 M€ omsättning |
+| Klimatomställningsplaner | Skyldigheten att anta en klimatomställningsplan togs bort |
+| Tidsgränser (stop-the-clock) | Hållbarhetsrapportering och CSDDD sköts upp med 1–2 år |
+| ESRS | EFRAG reviderar standarder; delegerad akt från kommissionen förväntas H1 2026, tillämplig från räkenskapsår 2027 |
 
-### Bedömning
+### Paradoxen: kärnmål stärktes trots avreglering
 
-* Omnibus minskar antalet bolag som behöver rapportera; försvagar marknadens klimattransparens och investerarnas tillgång till hållbarhetsdata.
-* Skyldigheten att anta klimatomställningsplan är borttagen — bolags klimatstrategi blir frivillig igen.
-* Kritik från NGO:er (Amnesty m.fl.): paketet "sviker människor och planeten".
-* ESG-experten (`hallbarhet-esg`) är bättre lämpad för CSRD/ESRS-frågor i ett redovisningsperspektiv.
+Trots att Omnibus lättade på rapporteringsplikter antogs Green Deals kärnmål (2040-klimatmålet) parallellt. Klimatlagen stärktes, CSRD försvagades. Omnibus minskar det privata rapporteringstrycket men försvagar transparensen i klimatarbetet.
 
-**Källa:** LW.com — EU Sustainability State of Play; PwC Viewpoint — Omnibus finalised; EEB — Green Deal still standing (april 2026).
+**Källa:** [PwC Viewpoint — Omnibus finalised](https://viewpoint.pwc.com/gx/en/pwc/in-briefs/ib_int202527.html); [EEB — Green Deal still standing (april 2026)](https://meta.eeb.org/2026/04/23/under-siege-in-2025-the-european-green-deal-is-still-standing/)
 
----
+### Granskningsrelevans
 
-## Kritiska råvaror — CRMA och energiomställningen
-
-### Critical Raw Materials Act (CRMA) — EU-förordning, i kraft 2024
-
-CRMA syftar till att säkra EU:s tillgång till strategiska råvaror för den gröna och digitala omställningen, försvaret och rymdsektorn — och att minska Kina-beroendet.
-
-**Strategiska råvaror** (17 st) inkluderar: litium, kobolt, grafit, sällsynta jordartsmetaller (REE), magnesium, mangan, nickel, kisel, titan, volfram m.fl.
-
-### EU:s 2030-benchmarks under CRMA
-
-| Mål | Andel av EU:s årsförbrukning |
-|-----|------------------------------|
-| Utvinning inom EU | ≥ 10 % |
-| Bearbetning/förädling inom EU | ≥ 40 % |
-| Återvinning | ≥ 25 % |
-| Max andel från ett enskilt tredjeland | ≤ 65 % |
-
-### RESourceEU Action Plan (december 2025)
-
-Adopterad 3 december 2025. Mobiliserar upp till **3 miljarder euro** för kritiska råvaror. Föreslår riktade CRMA-ändringar för förbättrad cirkularitet och stärkt sekundärmarknad för kritiska råvaror, särskilt permanenta magneter.
-
-### EU:s kritiska mineralplattform
-
-Lanserades **13 april 2026**. Aggregerar upphandling från europeiska köpare för att minska beroendet av Kina. Del av RESourceEU-strategin.
-
-### Strategiska projekt
-
-Kommissionen har godkänt **60 strategiska projekt** under CRMA:
-* Spänner 13 EU-länder + 13 tredjeländer
-* Täcker 14 av 17 strategiska råvaror
-* Hela värdekedjan: utvinning, förädling, återvinning
-
-EU har etablerat **15 strategiska partnerskap** med råvarurika länder (Sydafrika, Namibia, Argentina, Chile, Kanada).
+- Hur påverkar Omnibus möjligheterna att granska klimatarbetet i privat sektor?
+- Är svenska myndigheters rapporteringskrav i fas med de reviderade EU-tröklarna?
 
 ---
 
-## Sverige — nyckelroll i EU:s kritiska mineralförsörjning
+## Kritiska mineral och energiomställningen
 
-### LKAB — Per Geijer-fyndigheten (Kiruna)
+_EU-förordning om kritiska råvaror (CRMA, Critical Raw Materials Act) — i kraft 2024_
 
-* **Storlek:** 1,2 miljarder ton totala mineraltillgångar; 2,2 miljoner ton sällsynta jordartsmetalloxider (REE)
-* En av Europas potentiellt **största sällsynta jordartsfyndigheter**
-* Beviljat **EU-strategisk projektstatus** under CRMA
-* LKAB:s bedömning: Per Geijer kan möta **18 % av EU:s behov av sällsynta jordartsmetaller**
-* **Demonstrationsanläggning** för fosfor och REE-bearbetning: operationell 2026; full drift planeras under 2030-talet. Investeringsvolym: ca 800 miljoner USD.
+### Syfte
 
-### Talga Group — Vittangi grafitprojekt (Norrbotten)
+CRMA syftar till att säkra EU:s tillgång till strategiska råvaror nödvändiga för den gröna och digitala omställningen, och minska beroendet av enskilda leverantörer (primärt Kina).
 
-* Grafitfyndighet i Norrbotten; beviljat **EU-strategisk projektstatus** under CRMA
-* Grafit är kritisk råvara för litiumjonbatterier (EVs och storskalig energilagring)
+### EU:s mål till 2030
 
-### Utmaningar för svenska kritiska mineralstrategiska projekt
+| Mål | Nivå |
+|-----|------|
+| Utvinning | ≥ 10 % av EU:s årliga förbrukning |
+| Förädling/bearbetning | ≥ 40 % av EU:s årliga förbrukning |
+| Återvinning | ≥ 25 % av EU:s årliga förbrukning |
+| Geografisk diversifiering | Max 65 % från ett enskilt tredjeland |
 
-| Utmaning | Konsekvens |
-|----------|-----------|
-| Samiska rättigheter (konsultationsplikt, ILO 169) | Kan förlänga eller blockera tillståndsprocesser; rapport 2026 varnar att LKAB:s Per Geijer-planer kan strida mot samiska rättigheter |
-| Miljölagstiftning (MB, Natura 2000, artskydd) | EU-finansiering via CRMA kan komma i konflikt med EU:s egna naturskyddsdirektiv |
-| Bergsstaten kapacitet | Ökade ansökningar om mineralundersökningstillstånd — utmaning för handläggningstider |
+### RESourceEU och kritiska mineralplattformen
 
-### Granskningsfrågor för kritiska mineral
+- **RESourceEU Action Plan** (dec 2025): mobiliserar upp till 3 miljarder euro; föreslår ändringar i CRMA för förbättrad cirkularitet och återvinningsteknik
+- **EU:s kritiska mineralplattform** lanserades 13 april 2026: aggregerad upphandling för att minska Kinas dominans
+- 60 strategiska projekt godkända under CRMA; täcker 14 av 17 strategiska råvaror; spänner 13 EU-länder + 13 tredjeländer
 
-1. Är Bergsstaten och berörda myndigheters kapacitet rustade för det ökade trycket på strategiska mineralansökningar?
-2. Hur balanserar Sverige CRMA:s strategiska intressen mot nationella tillståndsprocesser och urfolksrättigheter?
-3. Är direkta utsläpp från gruvindustrin integrerade i Sveriges klimatredovisning och ESR-beräkningar?
-4. Sker EU-finansiering av strategiska projekt i enlighet med EU:s egna miljölagar (art. 6 habitatdirektivet m.fl.)?
+### Sverige — nyckelrollen
 
-**Källa:** ECA SR-2026-04 — Critical raw materials for the energy transition; EU kritisk mineralplattform (april 2026); Mining Technology — LKAB 18 % av EU:s REE-behov; Euronews — Per Geijer vs. miljölagar (jan 2026).
+**LKAB — Per Geijer-fyndigheten (Kiruna):**
+- 1,2 miljarder ton totala mineraltillgångar; 2,2 miljoner ton sällsynta jordartsmetalloxider (REE)
+- Europas potentiellt största sällsynta jordartsfyndighet
+- Beviljat status som EU-strategiskt projekt under CRMA
+- Demonstrationsanläggning för fosfor och REE-bearbetning: operationell 2026; full drift planerad under 2030-talet
+- Bedömt möta **18 % av EU:s behov av sällsynta jordartsmetaller**
+
+**Talga Group — Vittangi grafitprojekt:**
+- Grafitfyndighet i Norrbotten; EU-strategisk projektstatus
+- Grafit är kritisk råvara för litiumjonbatterier
+
+**Utmaningar:**
+- Stränga miljölagar och samiska rättigheter (konsultationsplikt) kan förlänga eller blockera tillståndsprocesser
+- LKAB:s planer för Per Geijer kan strida mot samiska rättigheter
+- EU-finansiering kan hamna i konflikt med EU:s egna miljölagar
+
+### Granskningsrelevans
+
+- Hur balanserar Sverige CRMA:s strategiska krav mot nationella tillståndsprocesser och urfolksrättigheter?
+- Är Bergsstaten och myndigheternas kapacitet rustade för det ökade trycket på strategiska mineralansökningar?
+- Hur integreras mineralutvinning i den nationella klimatomställningen (direkta utsläpp från gruvindustri)?
+- Är EU-finansiering i linje med EU:s egna miljölagar (naturskydd)?
+
+**Källa:** [ECA SR-2026-04 — Critical raw materials for the energy transition](https://www.eca.europa.eu/ECAPublications/SR-2026-04/SR-2026-04_EN.pdf); [LKAB — 18 % av EU:s REE-behov](https://www.mining-technology.com/news/swedens-lkab-rare-earth-metal/); [Euronews — Per Geijer vs. miljölagar](https://www.euronews.com/my-europe/2026/01/22/europes-largest-rare-earths-mine-how-eu-funding-clashes-with-environmental-laws)
