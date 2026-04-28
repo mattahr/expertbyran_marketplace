@@ -50,3 +50,77 @@ Vilken studiedesign krävs för att bära en viss typ av kausalitetspåstående?
 3. Kontrollera att studiedesignen bär den kausalitetsnivå som påstås.
 4. Om designen är för svag: föreslå hedgad omformulering från exempelbanken ovan.
 5. Kontrollera att alternativa förklaringar (confounders, omvänd kausalitet, selektion) diskuteras.
+
+## RiR-specifik hedging-kalibrering
+
+Tre återkommande brister i Riksrevisionens effektivitetsrevisioner, med
+kalibrerade omformuleringar.
+
+### Brist 1 — Registerdata + kausalt påstående utan jämförelsegrupp
+
+**Ursprungsformulering (typexempel):**
+> "Granskningen visar att bristen på uppföljning leder till att individer
+> faller ur systemen."
+
+**Problem:** registerdata utan kontrafaktisk jämförelsegrupp bär inte ett
+"leder till"-påstående. Konfunderat med selektion (de som faller ur kan
+skilja sig systematiskt från de som stannar kvar).
+
+**Kalibrerad omformulering:**
+> "Granskningen finner att individer som inte följs upp i högre utsträckning
+> lämnar systemen. Sambandet är förenligt med att uppföljningsbrister bidrar
+> till systemavgång, men alternativa förklaringar — inklusive att de som
+> lämnar frivilligt undviker uppföljning — kan inte uteslutas med tillgängliga
+> data."
+
+---
+
+### Brist 2 — Intervjudata → strukturell slutsats
+
+**Ursprungsformulering (typexempel):**
+> "Granskningen visar att Arbetsförmedlingens styrning är otydlig."
+
+**Problem:** slutsatsen om *strukturell otydlighet* bygger på utsagor från
+ett strategiskt urval tjänstemän. Intervjudata bär en beskrivande slutsats
+om upplevd otydlighet — inte en strukturell slutsats om styrsystemet som
+helhet.
+
+**Kalibrerad omformulering:**
+> "Intervjuade handläggare och chefer beskriver styrningen som otydlig i
+> fråga om X och Y. Granskningen har inte kunnat verifiera dessa upplevelser
+> mot strukturella data, men mönstret är konsistent och pekar på att
+> otydligheten är systematisk snarare än individuell."
+
+---
+
+### Brist 3 — Underspecificerade effektivitetskriterier i slutsats
+
+**Ursprungsformulering (typexempel):**
+> "Granskningen visar att insatsen inte är effektiv."
+
+**Problem:** "effektiv" är inte definierat i slutsatsen. Effektiv i förhållande
+till vad? Vilket utfall, vilken tidhorisont, vilken målgrupp?
+
+**Kalibrerad omformulering:**
+> "Granskningen finner inte stöd för att insatsen uppnår sitt angivna mål
+> [specificera mål] inom den granskade perioden [specificera period] för
+> målgruppen [specificera]. Evidensen är otillräcklig för att bedöma
+> insatsens effektivitet för delmålgruppen [X] eller på längre sikt."
+
+---
+
+## Kalibrering mot evidenshierarkins svagaste länk
+
+En slutsats är aldrig starkare än det svagaste ledet i beviskedjan. Regel:
+
+1. Identifiera alla evidenskällor som bär slutsatsen.
+2. Klassificera varje källa i evidenshierarkin (primär / sekundär / tertiär).
+3. Hedga slutsatsen mot den *svagaste* källan — inte den starkaste.
+4. Om en sekundär källa (granskningsobjektets egna uppgifter) är kritisk
+   för slutsatsen utan att trianguleras mot primärdata: höj hedging-nivån
+   ett steg och flagga bristen explicit.
+
+**Cirkulär argumentation:** om en slutsats motiveras med att "rapporten
+visar att X" och "X visar att slutsatsen stämmer" — utan extern evidens —
+är argumentet cirkulärt. Vanligast när intervjudata om upplevda brister
+används för att belägga existensen av de brister som intervjuerna frågade om.
