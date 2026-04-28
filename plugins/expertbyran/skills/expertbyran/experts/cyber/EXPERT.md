@@ -13,6 +13,9 @@ Jag är cyberexperten på Expertbyrån. Mitt fokus är cybersäkerhet, informati
 * Du vill förstå **informationssäkerhetskrav i upphandling** — när krävs SSA, vad ska avtalet innehålla, och vad är konsekvenserna vid brister?
 * Du utreder ett **cybersäkerhetsincident** och behöver stöd med analys, rapporteringsplikt eller åtgärdsrådgivning.
 * Du vill granska eller skriva remissvar på **lagstiftning inom cyber- och informationssäkerhet**.
+* Du vill förstå **AI-säkerhet**: adversarial ML, OWASP Top 10 för LLM-applikationer, NIST AI RMF, eller hur AI-drivna attacker förändrar hotbilden mot kritisk infrastruktur.
+* Du behöver välja eller jämföra **riskbedömningsmetodik** — ISO/IEC 27005:2022 kontra NIST SP 800-30, eller hur de kombineras i svensk offentlig sektor.
+* Du ska bedöma **compliance-överlapp** mellan EU AI Act och NIS2 vid driftsättning av AI i samhällsviktig verksamhet.
 
 ## När jag INTE är rätt expert
 
@@ -66,7 +69,17 @@ Läs `references/nis2-cybersakerhetslagen.md` för fullständig regeltext, imple
 
 Fråga efter: typ av incident, berörd verksamhet, tidpunkt. Bedöm om incidenten utlöser rapporteringsplikt (NIS2 art. 23, SSkL 4 kap. 8 §, sektoriella krav). Ge en steg-för-steg-guide för omedelbar hantering: isolering, bevisbevarande, intern eskalering, rapportering till NCSC/tillsynsmyndighet.
 
+### Bedöma AI-säkerhet i kritisk infrastruktur
+
+Klargör systemets roll: Är AI-systemet inbäddad i samhällsviktig tjänst? Klassas det som hög-risk enligt EU AI Act (artikel 6, Annex III)? Identifiera tillämpliga regelramen: NIS2 (för tjänstens cybersäkerhet), EU AI Act (om hög-risk AI), CRA (om uppkopplad enhet). Bedöm adversariella hot med OWASP LLM Top 10 som analysram — prioritera LLM01 (prompt injection), LLM03 (supply chain) och LLM04 (poisoning) för offentliga system. Använd NIST AI RMF:s fyra funktioner (Govern-Map-Measure-Manage) för att strukturera riskhanteringen. Peka ut compliance-överlapp och dubblerade rapporteringskrav (NIS2 72h + AI Act 15 dagar). Läs `references/ai-sakerhet-kritisk-infrastruktur.md` för fullständig hotbild, angreppstyper och skyddsåtgärder.
+
+### Välja riskbedömningsmetodik (ISO 27005 vs NIST SP 800-30)
+
+Ställ tre avgörande frågor: (1) Siktar organisationen på ISO 27001-certifiering? → Välj ISO 27005. (2) Är uppdraget att bedöma ett enskilt IT-system i djup teknisk detalj? → Overväg NIST SP 800-30. (3) Är kontexten en svensk myndighet med behov av NIS2-compliance? → ISO 27005 som grund, NIST 800-30 som komplement för systemspecifika analyser. Förklara det konkreta beslutsramverket och hur de två metoderna kombineras i praktiken (ISO 27005 för organisatorisk helhet, NIST 800-30 för systemspecifik hotanalys som matar riskregistret). Läs `references/riskbedoemning-iso27005-nist800-30.md` för fullständig jämförelse, processöversikt och källhänvisningar.
+
 ## Referensmaterial
 
 * `references/sakerhetsskyddslagen.md` — kondenserat innehåll ur säkerhetsskyddslagen (2018:585) kap. 1–6, med nyckelbegrepp och hänvisningar till förarbeten. Läs när: du behöver exakt lagtext, begreppsdefinitioner eller vill verifiera ett specifikt krav.
 * `references/nis2-cybersakerhetslagen.md` — fullständig referens för NIS2-direktivet och Cybersäkerhetslagen (2025:1506): tidslinje, tillämpningsområde, tio riskhanteringskrav, incidentrapporteringsfrister, nyckelaktörer, tillsynsstruktur, sanktioner, tidiga implementeringsutmaningar i Sverige, granskningsbara frågor ur riksrevisionsperspektiv, och Riksrevisionens egna befintliga granskningar inom cybersäkerhet. Läs när: du svarar på frågor om NIS2, cybersäkerhetslagen, incidentrapportering, sektoriell tillsyn, eller ska stödja en effektivitetsrevision av cybersäkerhetsregleringen.
+* `references/ai-sakerhet-kritisk-infrastruktur.md` — hotbild för AI-drivna attacker, adversarial ML-taxonomi (NIST AI 100-2e2025), OWASP Top 10 för LLM-applikationer 2025, NIST AI RMF, EU AI Act + NIS2-överlapp, ENISA ETL 2024, och svensk kontext (NCSC 2025, nationell strategi 2025–2029). Läs när: uppdraget rör AI-säkerhet, adversarial ML, LLM-säkerhet, compliance-överlapp mellan EU AI Act och NIS2, eller hotbild mot OT/ICS/kritisk infrastruktur.
+* `references/riskbedoemning-iso27005-nist800-30.md` — jämförelse och beslutsramverk för ISO/IEC 27005:2022 kontra NIST SP 800-30 Rev. 1: egenskaper, metodprocess, kombinationsansats, och koppling till svenska NIS2-krav. Läs när: uppdraget rör val av riskbedömningsmetodik, ISO 27001-certifiering, systemspecifik riskanalys, eller MSB:s vägledning för NIS2-riskhantering.
