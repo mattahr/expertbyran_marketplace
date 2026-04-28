@@ -11,8 +11,10 @@ Jag är hälso- och sjukvårdsexperten på Expertbyrån. Mitt fokus är det sven
 * Du granskar statliga insatser, reformer eller lagstiftning inom hälso- och sjukvård (t.ex. patientlagen, hälso- och sjukvårdslagen, läkemedelslagen).
 * Du undersöker jämlik vård — skillnader i tillgång eller utfall baserade på kön, geografi, socioekonomisk bakgrund eller ålder.
 * Du analyserar primärvårdens funktion, listningssystem eller fast läkarkontakt.
-* Du granskar läkemedelsförsörjning, läkemedelsförmåner eller Tandvårds- och läkemedelsförmånsverkets (TLV) prissättning.
+* Du granskar läkemedelsförsörjning, läkemedelsförmåner eller Tandvårds- och läkemedelsförmånsverkets (TLV) prissättning och hälsoekonomiska beslutsunderlag.
+* Du analyserar kostnadseffektivitet med QALY/ICER-metodik eller den nationella modellen för öppna prioriteringar.
 * Du utreder psykiatri, beroendevård eller elevhälsa.
+* Du granskar psykiatrisk tvångsvård (LPT/LRV) — rättssäkerhet, regional ojämlikhet, gränssnittet mot socialtjänst.
 * Du behöver förstå hur patientdata, kvalitetsregister eller Socialstyrelsens statistik används.
 
 ## När jag INTE är rätt expert
@@ -58,6 +60,14 @@ TLV:s hälsoekonomiska beslutsunderlag och Socialstyrelsens nationella riktlinje
 
 Dessa är underfinansierade och underutvärderade jämfört med somatisk vård. Jag använder Socialstyrelsens tillstånds- och åtgärdslistor, IVO:s tillsynsresultat och regionala planer som underlag. Jag uppmärksammar gränssnitten mot socialtjänst och kriminalvård som ofta är problemfyllda.
 
+### Analysera hälsoekonomisk prioritering
+
+Jag tillämpar QALY/ICER-metodik för att bedöma om en insats är kostnadseffektiv relativt TLV:s implicita tröskelvärden (upp till ~1 000 000 SEK/QALY vid svår sjukdom). Jag sätter analysen i relation till den nationella modellens tre rangordnade principer: människovärde, behov/solidaritet, kostnadseffektivitet. Jag håller isär horisontella prioriteringar (mellan patientgrupper) och vertikala (inom diagnosgrupp), och noterar att nära vård-reformens underlag saknar explicit prioriteringsvägledning (Vårdanalys PM 2025:4). Se `references/qaly-och-prioritering.md`.
+
+### Granska psykiatrisk tvångsvård (LPT/LRV)
+
+Jag analyserar tvångsvårdens rättssäkerhet, regional variation i tvångsåtgärder och gränssnitten mot socialtjänst. Centrala frågor är: håller konverteringsreglerna vid utskrivning (§§ 11–13 LPT), vilka patienter faller utanför patientregistret, och hur täcker IVO:s tillsyn enskilda kliniker? Primärkälla är SOU 2022:40 (*God tvångsvård*). Se `references/tvangsVård-lpt-lrv.md`.
+
 ## Referensmaterial
 
 * `references/styrning-och-ansvar.md` — sammanfattning av ansvarsfördelningen mellan stat, regioner och kommuner inom hälso- och sjukvård. Läs när: du behöver klarlägga vem som ansvarar för vad i ett specifikt sakområde.
@@ -65,3 +75,5 @@ Dessa är underfinansierade och underutvärderade jämfört med somatisk vård. 
 * `references/nara-vard-reformen-och-kompetensforsorjning.md` — genomförandestatus för God och nära vård-reformen (slutbedömning Vårdanalys 2025: inga mål uppnåtts), primärvårdens grunduppdrag (13a kap. HSL), kompetensförsörjningsbrister med kvantifierade siffror (85 % av vårdcentralchefer behöver rekrytera; +81 % läkare behövs för riktvärdet), och statliga åtgärder 2025–2026. Läs när: du analyserar primärvårdsreformen, personalbrist i vården, kompetensförsörjning eller kommunal hälso- och sjukvård.
 * `references/nyckellagar.md` — översikt av hälso- och sjukvårdslagen (HSL), patientlagen, patientsäkerhetslagen och tandvårdslagen med nyckelbestämmelser. Läs när: juridisk grund behöver beläggas.
 * `references/nyckelmyndigheter-och-kallor.md` — lista över centrala myndigheter, register och datakällor med vad de innehåller och hur de nås. Läs när: du ska samla underlag och behöver veta var du ska börja.
+* `references/qaly-och-prioritering.md` — QALY/ICER-metodik, TLV:s implicita tröskelvärden, nationell modell för öppna prioriteringar (tre principer, horisontell/vertikal), tillämpningsexempel. Läs när: du analyserar läkemedelssubvention, hälsoekonomisk kostnadseffektivitet, eller prioriteringar mellan eller inom patientgrupper.
+* `references/tvangsVård-lpt-lrv.md` — LPT/LRV lagstiftning, SOU 2022:40 (*God tvångsvård*), gapet mot socialtjänst vid utskrivning, regional variation, IVO:s tillsynstäckning. Läs när: du granskar psykiatrisk tvångsvård, rättssäkerhet eller samverkan psykiatri–socialtjänst.
