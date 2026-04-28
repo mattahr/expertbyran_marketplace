@@ -1,6 +1,6 @@
 # NIS2-direktivet och Cybersäkerhetslagen (2025:1506)
 
-*Baserat på: SOU 2024:18, SOU 2025:79, SOU 2025:115, Prop. 2025/26:28, Statskontoret 2025, Nationell strategi 2025–2029 (Skr 2024/25:121), RiR 2023:8, RiR 2024:6*
+*Baserat på: SOU 2024:18, SOU 2025:79, SOU 2025:115, Prop. 2025/26:28, Prop. 2025/26:214, Statskontoret 2025:8, Nationell strategi 2025–2029 (Skr 2024/25:121), RiR 2023:8, RiR 2024:6*
 
 ---
 
@@ -93,9 +93,13 @@ Organisationer måste implementera:
 - Sanktionsavgifter
 
 **Sanktioner:**
-- Väsentliga entiteter: max 10 MEUR eller 2 % av global omsättning
-- Viktiga entiteter: max 7 MEUR eller 1,4 % av global omsättning
-- Ansvar kan riktas mot ledningspersoner personligen
+- Väsentliga entiteter (enskilda): max 10 MEUR eller 2 % av global omsättning
+- Viktiga entiteter (enskilda): max 7 MEUR eller 1,4 % av global omsättning
+- Offentliga verksamhetsutövare: max 10 000 000 SEK (fast tak, inte omsättningsbaserat)
+- Minimum för alla: 5 000 SEK
+- **Ny sanktionsform: "Anmärkning"** — obligatorisk när ingen annan sanktion beslutas (prop. 2025/26:28 s. 346)
+- Tillsynsmyndigheten kan även förelägga om offentliggörande av överträdelsen
+- Ansvar kan riktas mot ledningspersoner personligen (förvaltningsdomstol)
 
 ---
 
@@ -195,5 +199,6 @@ Följande frågor är lämpliga för effektivitetsrevision kopplat till NIS2/cyb
 | SOU 2024:18 | Utredningsgrund, sektorsindelning, tillsynsstruktur |
 | SOU 2025:79 | FRA tar över CSIRT och incidentrapportering från MSB |
 | Prop. 2025/26:28 | Propositionstext med remissvar och motiveringar |
+| Prop. 2025/26:214 | Lagändringar för stärkt NCSC: uppgiftsskyldighet vid samverkan, sekretessregler; FRA tar över CSIRT/kontaktpunkt |
 | MSBFS 2020:6 | MSB:s föreskrifter om informationssäkerhet (statliga myndigheter) |
 | Förordning (2022:524) | Statliga myndigheters beredskap |
