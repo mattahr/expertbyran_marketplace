@@ -107,9 +107,73 @@ Riksrevisionen granskar styrning, implementering och resultat — tre olika niv�
 
 ---
 
+---
+
+## Tashakkori & Teddlie — bortom Creswell
+
+_Handbook of Mixed Methods in Social & Behavioral Research_ (2003, 2010) breddar metoddiskursen med tre centrala koncept:
+
+### Inference quality — kvalitetsbedömning på meta-nivå
+
+Giltigheten hos kombinerade slutsatser kan inte bedömas via varje stränds egna validitetskriterier — det krävs en samlad bedömning av **meta-inferensens** kvalitet:
+
+| Komponent | Innebär |
+|-----------|---------|
+| Interpretive consistency | Slutsatsen följer logiskt av de empiriska fynden |
+| Theoretical consistency | Slutsatsen är förenlig med relevant teori och tidigare forskning |
+| Interpretive agreement | Rimlig analytiker med samma data skulle nå liknande slutsats |
+| Interpretive distinctiveness | Slutsatsen är specifik och kan i princip falsifieras |
+| Integrative efficacy | Kombinationen tillför något som ingen strand ensam kunde ge |
+
+**Riksrevisionen-tillämpning:** En granskningsrapport med blandade metoder bör kunna redovisa hur de fem komponenterna uppfylls — inte bara att triangulering gjordes, utan *vad* kombinationen konkret tillförde slutsatsen.
+
+### Multistrand design
+
+Integration kan ske i *flera* faser av ett uppdrag, inte bara vid analysen: frågeformulering → datainsamlingsdesign → analys → tolkning → rapportering. En design är inte komplett om integration bara sker i slutrapporten.
+
+### Pragmatismens paradigm
+
+Tashakkori & Teddlie placerar mixed methods epistemologiskt i **pragmatismen** (Dewey, Pierce, James): metodval motiveras av frågan, inte av ontologisk renhet. Det är inte "positivism + interpretivism" utan en tredje position — vad fungerar för att besvara den aktuella frågan?
+
+---
+
+## Epistemologisk integration (2024–2026)
+
+Paradigmkrigen (1980–2000-talets "incommensurability thesis") är avgjorda: pragmatism är nu den dominerande positionen i mixed methods-fältet.
+
+- **Pragmatism som metodfilosofi** (Cambridge UP 2024): sanningen prövas mot konsekvenser och praktiska resultat, inte mot en enda verklighet. Kombinationen motiveras av vad frågan kräver.
+- **Critical Dialectical Pluralism 2.0** (Onwuegbuzie & Abrams 2024): lyfter fram makt, inkludering och rättvisa i designval — relevant för revisioner om utsatta grupper eller ojämlik förvaltning.
+- **Transformativt paradigm** (Mertens 2024): forskarens positionering och maktrelationen till de studerade är del av designen — relevant vid granskning av insatser mot minoritetsgrupper.
+
+**Praktisk slutsats:** I effektivitetsrevision är **pragmatism** den epistemologiska positionen som bäst motiverar metodvalet — motivera med *frågelogik*, inte disciplinär tradition.
+
+---
+
+## Legitimering av mixed methods — nio typer (Onwuegbuzie & Johnson 2006)
+
+Kvalitetskriterier specifika för mixed methods-studier (utöver de som gäller varje strand separat):
+
+| # | Legitimeringstyp | Innebär |
+|---|-----------------|---------|
+| 1 | Sample integration | Urvalslogiken är konsistent över stränderna |
+| 2 | Inside-outside | Deltagarperspektiv och forskaranalys integreras |
+| 3 | Weakness minimization | Varje stränds svagheter kompenseras av den andras styrkor |
+| 4 | Sequential | Timing och ordning stödjer validitet |
+| 5 | Conversion | Data transformeras mellan format med bevarad mening |
+| 6 | Paradigmatic mixing | Epistemologiska antaganden redovisas och motiveras |
+| 7 | Commensurability | Analysnivåerna är jämförbara |
+| 8 | Multiple validities | Varje strand bedöms med sina egna kvalitetskriterier |
+| 9 | Political legitimation | Intressenters värderingar och kontext erkänns |
+
+Dessa nio typer kompletterar Creswells designtypologi — Creswell svarar på *vilken* design, Onwuegbuzie & Johnson på *hur väl* integrationen är genomförd.
+
+---
+
 ## Källor
 
 - Creswell, J.W. & Plano Clark, V.L. (2017) *Designing and Conducting Mixed Methods Research* (3rd ed.) — Sage
+- Tashakkori, A. & Teddlie, C. (red.) (2010) *Handbook of Mixed Methods in Social & Behavioral Research* (2nd ed.) — Sage; inference quality, multistrand design, pragmatism
+- Onwuegbuzie, A.J. & Johnson, R.B. (2006) "The validity issue in mixed research" — *Research in the Schools* 13(1); nio legitimeringstyper
 - SOU 2025:13 — kap om programteorianalys i myndighetsgranskning; distinktion uppföljning/processutvärdering/effektutvärdering
 - SOU 2020:8 (minoritetspolitik) — distinktionen enkel uppföljning vs. processutvärdering vs. effektutvärdering
 - Vedung, E. (2009) *Utvärdering i politik och förvaltning* — Studentlitteratur

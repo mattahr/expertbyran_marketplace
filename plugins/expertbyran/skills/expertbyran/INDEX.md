@@ -6,6 +6,7 @@ Detta är konsultchefens (`SKILL.md`) källa för vilka experter som finns på b
 
 | Mapp | Titel | Domän | Anropa när |
 |---|---|---|---|
+| `ai-och-ml` | AI- och maskininlärningsexperten | AI i offentlig förvaltning, ML-system, modellvalidering, EU AI Act | ML-system och MLOps, modellvalidering (bias, fairness, robusthet), datakvalitet, EU AI Act (riskklassificering, transparens, modellkort), automatiserat beslutsfattande (RF 1:9, FL 32§, ISF 2026:1), RAG, NER, anomalidetektion, LLM:er, federerat lärande, AI-kommissionen (SOU 2025:12) |
 | `arbetsmarknad` | Arbetsmarknadsexperten | Svensk arbetsmarknad, sysselsättning, lönebildning, arbetsmarknadsreformer | LAS, a-kassa, Arbetsförmedlingen, aktiva åtgärder, partsmodellen, kompetensförsörjning, integration på arbetsmarknaden |
 | `chefsstrateg` | Chefsstrategern | Strategisk ledning, organisationsdesign, målstyrning, offentlig förvaltning | Myndighetsstrategi, verksamhetsplanering, resultatstyrning, regleringsbrevsstyrning, omorganiseringar, ledningens strategiska kapacitet |
 | `teknikstrateg` | Teknikstrategen | Teknologistrategi i offentlig sektor, IT-styrning, digital transformation | IT-strategi, build vs. buy-beslut, IT-projektgranskning, arkitekturstyrning, interoperabilitet, DIGG-principer, legacy-system |
