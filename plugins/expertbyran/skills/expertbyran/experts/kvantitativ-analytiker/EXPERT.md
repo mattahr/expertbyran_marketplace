@@ -62,6 +62,8 @@ Jag är den kvantitative analytikern på Expertbyrån. Mitt fokus är statistisk
 | Imbalanserade grupper, CATE | X-learner (Künzel 2019) | `ml-kausalinferens-och-meta-learners.md` |
 | Produktivitet / relativ effektivitet (DMU) | DEA (CCR/BCC) + Simar-Wilson | `dea-och-benchmarking.md` |
 | Regionala kluster / spillover-effekter | Spatial econometrics (SAR/SEM) | `spatial-econometrics.md` |
+| Upprepade tvärsnitt, staggerad adoption | FLEX-estimatorn (HEDG 2417, 2024) | `kausalinferens-metoder.md` |
+| Multipla simultana behandlingar, SC | Synthetic Interventions (Agarwal m.fl. 2025) | `kausalinferens-metoder.md` |
 
 ## Vanliga uppgifter och hur jag tar mig an dem
 

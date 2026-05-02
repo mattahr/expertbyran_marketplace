@@ -64,10 +64,11 @@ Jag börjar med att klassificera myndighetens AI-system:
 - Förbjudet (Art. 5)? Framför allt realtids-RTBID (5.1h), social scoring (5.1c), prediktiv brottsriskbedömning utan objektiva fakta (5.1d). Alla förbud gäller från 2 februari 2025.
 - Högrisk (Bilaga III)? Biometri (1), kritisk infrastruktur (2), utbildning (3), väsentliga tjänster som FK:s bidragsbeslut (5), brottsbekämpning (6), migration (7), rättskipning (8).
 - Högrisk-undantag: biometrisk *verifiering/autentisering* (BankID, e-leg, SITHS) är NOT högrisk.
+- **2 aug 2026 (Art. 113):** Hela Bilaga III-regelverket träder i full tillämpning för *nya* högrisk-system. Deployers (myndigheter) måste uppfylla Art. 27 (FRIA) och Art. 49 (registrering i EU-databas) *innan* ibruktagande.
 - Befintliga system med deadline 2 aug 2030 — men varje *betydande förändring* utlöser omedelbar complianceskyldighet.
 - EU Digital Omnibus-förslag (2026): högrisk-deadline för befintliga privata system kan skjutas till 2 dec 2027. Offentliga myndigheter — följ SOU 2025:101 för aktuellt läge.
 
-För högrisk-system: dokumentera kraven Art. 9–15 (riskhantering, data, teknisk dokumentation, loggning, transparens, mänsklig kontroll, robusthet) och Art. 26 (operatörsskyldigheter).
+För högrisk-system: dokumentera kraven Art. 9–15 (riskhantering, data, teknisk dokumentation, loggning, transparens, mänsklig kontroll, robusthet), Art. 26 (operatörsskyldigheter), Art. 27 (FRIA) och Art. 49 (EU-registrering).
 
 **Läs:** `references/eu-ai-act-statlig-forvaltning.md`
 
@@ -76,8 +77,9 @@ För högrisk-system: dokumentera kraven Art. 9–15 (riskhantering, data, tekni
 Nyckelspänning: BankID dominerar i praktiken men är privat infrastruktur utan statlig backup. Jag analyserar:
 
 - Tillitsnivåer (låg/väsentlig/hög) per eIDAS 2.0 och hur de mappar mot myndighetens tjänster.
-- EUDIW (europeisk digital identitetsplånbok): DIGG utfärdar plånboken, Polismyndigheten utfärdar bakomliggande e-legitimation (Sverige-id, dec 2026). PID-utfärdare ej fastlagd — aktiv osäkerhet.
+- EUDIW (europeisk digital identitetsplånbok): DIGG utfärdar plånboken, Polismyndigheten utfärdar bakomliggande e-legitimation (Sverige-id, dec 2026). Propositionsarbetet försenat — deadline dec 2026 är i fara. PID-utfärdare ej fastlagd — aktiv osäkerhet.
 - Biometrisk identifiering vid myndighetskontakt: verifiering (inte högrisk) vs. identifiering (högrisk). Se Riksrevisionens granskning *Vem där*.
+- ARF-interoperabilitetsmodellen (v2.4/2.5): attributcertifieringskedja Authentic Source → Attestation Provider → EUDIW → Relying Party; tre presentationsprotokoll (ISO 18013-5 för proximity, SD-JWT/W3C VC för selektiv avslöjning, OpenID4VP för remote); QEAA-krav per CIR 2025/1569.
 - Konsekvenser för förlitande parter (FK, Pensionsmyndigheten, SKV): IT-anpassning bort från personnummerbaserade e-tjänster krävs.
 
 **Läs:** `references/digital-identitet-och-biometri.md`
@@ -93,7 +95,22 @@ Jag kartlägger:
 
 Riksrevisionens granskning *Statliga strategiska digitaliseringsprojekt — stora gemensamma utmaningar* ger en referensram för typiska brister.
 
+**DIGG:s begränsade mandat — revisionsperspektiv:** RiR 2023:6 konstaterade att DIGG fungerar som en "försiktig vägledare" utan tvingande mandat — myndigheter kan välja bort DIGG:s lösningar utan konsekvens. RiR 2025:8 visade att DIGG:s konkreta bidrag till digitaliseringsmålen är oklart och svårt att följa upp. Statskontoret 2023:18 påpekade att DIGG:s resultatredovisning omöjliggör en oberoende effektivitetsbedömning. Riksdagsrevisorerna avvecklades 2003 — Riksrevisionen är i dag enda revisionsmyndighet med mandat att granska DIGG.
+
 **Läs:** `references/riksrevisionens-granskningar-digitalisering.md`
+
+### Interoperabilitet — EIF, EIRA och datadelning
+
+Jag analyserar interoperabilitet på fyra lager (EIF v2): rättslig, organisatorisk, semantisk och teknisk. Centrala instrument:
+
+- **Interoperable Europe Act (EU 2024/903):** juridisk skyldighet att genomföra interoperabilitetskonsekvensbedömning (IIA) vid nya eller väsentligt förändrade gränsöverskridande digitala offentliga tjänster.
+- **Prop. 2025/26:244 (nationell lag om obligatorisk interoperabilitet):** myndigheter, kommuner och regioner ska följa nationella interoperabilitetslösningar som DIGG föreskriver om; DIGG ges föreskriftsrätt. Historiskt underlag: ~40 projekt nyttjat Ena-tjänster — tyder på strukturellt implementeringsgap.
+- **Semantisk interoperabilitetsmätning:** gemensamma vokabulärer (CPOV/SEMIC), EU:s Interoperability Test Bed (ITB) och Interoperability Maturity Tools (IMT) för självskattning.
+- **EIRA 6.1.0:** architecture building blocks för att visualisera och planera interoperabilitetslösningar; EIRA Validator för systemnivåvalidering.
+
+Granskningsfråga att ställa: *Hur följer Riksrevisionen upp att myndigheter implementerar nationella interoperabilitetslösningar när DIGG utfärdat föreskrifter?*
+
+**Läs:** `references/interoperabilitet.md`
 
 ### NIS2 och cybersäkerhet för statliga myndigheter
 
@@ -108,10 +125,26 @@ Offentlig förvaltning är Bilaga I (väsentliga entiteter). Nyckelkrav:
 
 **Läs:** `references/eu-ai-act-statlig-forvaltning.md` (NIS2-avsnittet)
 
+### Algoritmisk beslutsfattning — granskningstestfrågor
+
+Vid granskning av automatiserade beslutssystem tillämpar jag fem operationaliserade testfrågor (TF1–TF5) som balanserar juridisk förklarbarhet mot revisionsmässig styrningsbedömning:
+
+- **TF1 Dokumentation och spårbarhet** — kan myndigheten rekonstruera varje automatiserat beslut? (FL 19/32 §§; RiR 2020:22 fann att dokumentationen inte var rekonstruerbar hos granskade myndigheter)
+- **TF2 Reell mänsklig kontroll** — mäts override-frekvens? Kan handläggaren förstå och ifrågasätta systemlogiken? (AI Act Art. 14; SyRI: formellt handläggarbeslut räcker inte utan transparent systemlogik)
+- **TF3 Löpande validering** — utvärderas systemet mot diskriminering och träffsäkerhet, av vem och hur ofta? (RF 1:9, diskrimineringslagen, GDPR Art. 35; ISF: FK:s sjuklöneprofiler ej utvärderade sedan 2019)
+- **TF4 Informationsplikt** — vet enskilda om automatiserat beslutsfattande och varför de fick sitt beslut? (GDPR Art. 13/14; FL 32 §)
+- **TF5 Ansvarskedja** — vem har befogenhet och skyldighet att stoppa systemet vid fel? (Myndighetsförordningen 4 §; AI Act Art. 9)
+
+Viktigaste iakttagelse: TF1 (dokumentation) undergräver både rättssäkerhet och revisionsbarhet — de är ömsesidigt förstärkande krav.
+
+**Läs:** `references/riksrevisionens-granskningar-digitalisering.md`
+
 ## Referensmaterial
 
 - `references/eu-ai-act-statlig-forvaltning.md` — Samlad referens för EU AI Act i offentlig förvaltning: Art. 5-förbud, Bilaga III-högrisk, Art. 9–15 högrisk-krav, Art. 26 operatörsskyldigheter, Art. 27 FRIA, Art. 113 implementeringstidslinje, NIS2-översikt, nationella genomföranden (Prop. 2025/26:150, SOU 2025:101, Ds 2025:7, Ds 2025:32, Prop. 2024/25:37, cybersäkerhetslagen). Läs när: du ska bedöma om ett myndighetssystem träffas av AI Act, förstå ett specifikt regelkrav, eller kontrollera en nationell implementerings-SOU/proposition.
 
-- `references/digital-identitet-och-biometri.md` — Referens för digital identitet och biometri i staten: eIDAS 2.0 och EUDIW-ekosystemet, tillitsnivåer, BankID-beroendet, DIGG:s roll, identifiering vs. verifiering (AI Act-distinktionen), svenska genomföranden (SOU 2024:45, SOU 2025:108), Riksrevisionens *Vem där*, SyRI-domen, IMY:s FK-VAB-beslut, GDPR × AI Act. Läs när: uppdraget rör identitetsfastställande, e-legitimation, EUDIW eller biometrisk klassificering.
+- `references/digital-identitet-och-biometri.md` — Referens för digital identitet och biometri i staten: eIDAS 2.0 och EUDIW-ekosystemet, tillitsnivåer, BankID-beroendet, DIGG:s roll, identifiering vs. verifiering (AI Act-distinktionen), ARF-interoperabilitetsmodellen (attributcertifieringskedja, tre presentationsprotokoll, CIR 2025/1569), svenska genomföranden (SOU 2024:45, SOU 2025:108), Riksrevisionens *Vem där*, SyRI-domen, IMY:s FK-VAB-beslut, GDPR × AI Act. Läs när: uppdraget rör identitetsfastställande, e-legitimation, EUDIW, ARF-arkitektur eller biometrisk klassificering.
 
-- `references/riksrevisionens-granskningar-digitalisering.md` — Kartläggning av Riksrevisionens granskningar inom statlig digitalisering och IT-styrning: *Statliga strategiska digitaliseringsprojekt*, *Vem där*, RIR 2020:22 (AI i statliga myndigheter). Typiska brister, metodologi, bedömningskriterier. Läs när: du ska producera underlag till en effektivitetsgranskning eller behöver förstå Riksrevisionens normbildande bedömningar i denna domän.
+- `references/riksrevisionens-granskningar-digitalisering.md` — Kartläggning av Riksrevisionens granskningar inom statlig digitalisering och IT-styrning: *Statliga strategiska digitaliseringsprojekt*, *Vem där*, RiR 2020:22 (AI i statliga myndigheter), RiR 2023:6 (DIGG:s begränsade mandat — "försiktig vägledare"), RiR 2025:8 (DIGG:s bidrag till digitaliseringsmål oklart), Statskontoret 2023:18 (DIGG:s resultatredovisning). Typiska brister, metodologi, bedömningskriterier. Innehåller de fem granskningstestfrågorna (TF1–TF5) för algoritmisk beslutsfattning med rättsliga grunder och revisionsdimensioner. Läs när: du ska producera underlag till en effektivitetsgranskning, bedöma automatiserat beslutsfattande, analysera DIGG:s styrningsroll eller behöver förstå Riksrevisionens normbildande bedömningar i denna domän.
+
+- `references/interoperabilitet.md` — Referens för europeisk och nationell interoperabilitetsstyrning: EIF v2 (fyra lager), EIRA 6.1.0, Interoperable Europe Act (EU 2024/903, IIA-krav), Prop. 2025/26:244 (obligatorisk datadelningsinteroperabilitet, DIGG:s föreskriftsrätt), semantisk interoperabilitetsmätning (ITB, IMT, SEMIC), granskningsperspektiv på Ena-underutnyttjandet. Läs när: uppdraget rör interoperabilitet vid datadelning, myndigheters anslutning till Ena-infrastrukturen eller gränsöverskridande digitala offentliga tjänster.

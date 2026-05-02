@@ -56,6 +56,50 @@
 
 ---
 
+### RiR 2023:6 — *DIGG:s roll och arbete med digitaliseringen av den offentliga förvaltningen* (2023)
+
+**Typ:** Effektivitetsgranskning  
+**Fokus:** DIGG:s mandat, resurser och faktiska bidrag till digitaliseringsmålen
+
+**Centrala iakttagelser:**
+- DIGG agerar som en "försiktig vägledare" utan tvingande mandat — myndigheter kan välja bort DIGG:s tjänster och rekommendationer utan konsekvens
+- Samordningsrollen bygger uteslutande på frivillighet och samverkan; resultaten är beroende av mottagarmyndigheternas egna prioriteringar
+- Oklart om DIGG:s insatser leder till faktisk digitalisering eller bara stöttar myndigheter som redan är ambitiösa (selection bias-risk)
+- DIGG saknar verktyg för att påverka myndigheter som väljer egna lösningar framför gemensamma
+
+**Bedömningskriterier:**
+- Tydlighet i uppdrag och befogenheter
+- Faktisk påverkan på digitaliseringstakten i statsförvaltningen
+- Ändamålsenligt mandat för samordning
+
+**Rekommendationer (sammanfattat):**
+- Tydligare reglering av DIGG:s samordningsroll med starkare verktyg
+- Tvingande krav på anslutning till gemensamma lösningar (vilket sedermera föreslogs i Prop. 2025/26:244)
+
+**Notera:** Riksdagsrevisorerna avvecklades 2003. Riksrevisionen är i dag enda revisionsmyndighet med mandat att granska statliga myndigheters effektivitet — inklusive DIGG. Ingen annan aktör kan genomföra en oberoende effektivitetsgranskning av DIGG med konstitutionell tyngd.
+
+---
+
+### RiR 2025:8 — *Genomförandet av statens digitaliseringsarbete* (2025)
+
+**Typ:** Effektivitetsgranskning  
+**Fokus:** Hur regeringens digitaliseringsstrategi genomförts; DIGG:s konkreta bidrag
+
+**Centrala iakttagelser:**
+- DIGG:s bidrag till att uppnå digitaliseringsmål är oklart och svårt att följa upp
+- Kopplingen mellan DIGG:s aktiviteter och mätbara digitaliseringsutfall saknas
+- Statskontoret 2023:18 konstaterade separat att DIGG:s resultatredovisning omöjliggör oberoende effektivitetsbedömning — det går inte att avgöra om digitaliserings­insatserna ger avsedd effekt
+- Återrapporteringen till riksdag och regering ger inte tillräcklig grund för att bedöma om digitaliseringsstrategin genomförs ändamålsenligt
+
+**Bedömningskriterier:**
+- Uppnådda digitaliseringsmål mot strategi
+- Tydlig kausal kedja mellan DIGG:s insatser och utfall
+- Ändamålsenlig återrapportering som möjliggör oberoende utvärdering
+
+**Relevans:** Granskningarna RiR 2023:6 och RiR 2025:8 bildar tillsammans ett mönster: DIGG har ett brett vägledningsuppdrag men begränsade verktyg, och myndigheten lyckas inte tydliggöra sin effekt. Prop. 2025/26:244 (obligatorisk interoperabilitet, DIGG:s föreskriftsrätt) kan ses som ett svar på den strukturella brist som RiR 2023:6 pekade ut.
+
+---
+
 ### RIR 2020:22 — *Statliga myndigheters användning av artificiell intelligens* (2020)
 
 **Typ:** Effektivitetsgranskning  

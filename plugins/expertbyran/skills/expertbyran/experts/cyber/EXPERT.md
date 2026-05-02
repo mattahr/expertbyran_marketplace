@@ -55,13 +55,16 @@ Gå igenom vad avtalet ska innehålla enligt 4 kap. SSkL och SÄPO:s föreskrift
 
 Identifiera om verksamheten är en viktig eller väsentlig enhet enligt NIS2/cybersäkerhetslagen (2025:1506). Redogör för de tio riskhanteringskraven (artikel 21 NIS2), incidentrapporteringsplikten med tidsfrister (artikel 23: tidig varning 24h, anmälan 72h, slutrapport 1 mån), och tillsynsregimen. Notera vilken av de 11 sektorstillsynsmyndigheterna som är ansvarig.
 
-**Viktiga kontextuella fakta (per april 2026):**
+**Viktiga kontextuella fakta (per maj 2026):**
 - Cybersäkerhetslagen trädde i kraft 15 januari 2026
+- **MSB har bytt namn till MCF (Myndigheten för civilt försvar)** — mcf.se; äldre dokument nämner fortfarande "MSB"
 - Sektorer utökades från 7 (NIS1) till 18 — inkluderar nu offentlig förvaltning, tillverkning, rymdsektorn
-- Anmälningsprocessen påbörjades 2 feb 2026 via MSB:s portal
-- Tillsynsmyndigheterna har generellt resursbrist och föreskrifter är inte färdiga för alla sektorer
-- Incidentrapportering är fragmenterat: MSB, FRA (kommande), PTS, IMY och SÄPO tar emot olika typer av rapporter — informera om vilken mottagare som gäller
-- FRA föreslås (SOU 2025:79) ta över CSIRT-funktion och incidentrapportering från MSB
+- Anmälningsprocessen påbörjades 2 feb 2026 via MCF:s portal
+- MCF:s föreskrifter på remiss (apr 2026): säkerhetsåtgärder + säkerhetsrevisioner/skanning; beslut sommar/höst 2026
+- Tillsynsmyndigheterna har generellt resursbrist och sektoriella föreskrifter är inte färdiga
+- Incidentrapportering är fragmenterat: MCF (fd MSB), FRA (tar över CSIRT 1 jul 2026), PTS, IMY och SÄPO tar emot olika typer av rapporter — informera om vilken mottagare som gäller
+- Bara 8 av 120 statliga myndigheter uppfyller informationssäkerhetskraven (Cybersäkerhetskollen 2024)
+- ENISA Technical Implementation Guidance (jun 2025): central referens med 13 tematiska implementeringsområden och evidensexempel
 
 Läs `references/nis2-cybersakerhetslagen.md` för fullständig regeltext, implementeringsutmaningar och granskningsbara frågor.
 

@@ -1,6 +1,6 @@
 # Kausalinferensmetoder — Beslutsmatris och metodbeskrivningar
 
-Uppdaterad: 2026-04-29
+Uppdaterad: 2026-05-02
 
 ---
 
@@ -21,6 +21,9 @@ Uppdaterad: 2026-04-29
 | Formella konfidensintervall med garantier | SC + Cattaneo-PI | SDID | Ändliga-stickprov prediktionsintervall |
 | Klar tröskeleffekt, administrativ gräns | RDD | DiD | Lokal randomisering nära tröskel |
 | Utbudschock / administrativ tilldelning | IV | DiD + IV | Instrument: relevant, exogent, exklusivt |
+| Multipla simultana behandlingar, enstaka enhet | Synthetic Interventions (Agarwal m.fl. 2025) | SC per behandling | SUTVA inom donorpool; ingen spillover |
+| Upprepade tvärsnitt, staggerad adoption | FLEX-estimatorn (HEDG 2417, 2024) | dCdH | Parallella trender i tvärsnitt |
+| IFE + heterogena effekter (faktorstruktur) | **Varning:** exkludera behandlade från faktorskattning | ASC, SDID | Heterogeniteten absorberas annars i faktorer |
 
 ---
 
@@ -320,6 +323,74 @@ Yₜ = μₜ + βᵀXₜ + εₜ         (observations-ekvation)
 
 ---
 
+## Frontlinje 2025–2026 — Nya metoder
+
+### Synthetic Interventions — Multipla behandlingar (Agarwal m.fl. 2025)
+
+**Publikation:** Agarwal, A., Shah, D. & Shen, D. (2025), "Synthetic Interventions: Extending Synthetic Controls to Multiple Treatments", *Operations Research*. DOI: 10.1287/opre.2025.1590
+
+**Problem:** Standard SC hanterar en enda behandling. Reformpaket med flera simultana policyinstrument (t.ex. lag + bidrag + information) kan inte separeras med klassisk SC.
+
+**Lösning:** Konstruerar separata syntetiska kontroller för varje behandling via en matrisbaserad dekomposition av counterfactual-rymden. Ger kausalt separerade effekter per instrument.
+
+**Revisionsrelevans:** Direkt tillämpbar vid RiR-granskning av reformpaket med multipla policykomponenter. Om en reform innefattar lagändring + öronmärkta medel + målstyrning → Synthetic Interventions framför att aggregera till "reformen".
+
+---
+
+### IFE — Bad-control-varning vid heterogena effekter (arXiv:2604.27187, 2026)
+
+**Referens:** arXiv:2604.27187 (2026). "Interactive Fixed Effects and Heterogeneous Treatment Effects."
+
+**Kritisk insikt:** Interactive Fixed Effects (IFE)-estimatorn (Bai 2009, Moon & Weidner) kan systematiskt underskatta ATT när behandlingseffekterna är heterogena och heterogeniteten följer en linjär faktorstruktur.
+
+**Mekanismen (bad-control):** IFE-modellen estimerar latenta faktorer inklusive post-period data från behandlade enheter. Om behandlingseffekterna varierar med dessa faktorer absorberas heterogeniteten i faktorskattningen — analog till att inkludera ett post-behandlingsutfall som kontrollvariabel.
+
+**Konsekvens:** Systematisk underskattning av ATT. Att exkludera behandlade enheter från faktorestimation i post-perioden är en rimlig korrektion.
+
+**Praktisk regel:** Om du ser IFE/Bai 2009 i en studie med anledning att misstänka heterogena effekter — kontrollera om faktorer skattades på full panel. Om ja, tolka estimaten med försiktighet.
+
+---
+
+### FLEX-estimatorn — Staggerad DiD i upprepade tvärsnitt (HEDG WP 2417, 2024)
+
+**Referens:** "A Flexible, Heterogeneous Treatment Effects Difference-in-Differences" (FLEX), HEDG Working Paper 2417, University of York (2024). https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2024/2417.pdf
+
+**Nisch:** Designad för *upprepade tvärsnittsdata* (repeated cross-sections) med staggerad behandlings-starttid. Callaway-Sant'Anna (2021) kräver paneldata och är inte direkt tillämpbar.
+
+**Kärnegenskap:** Flexibel linjär estimator med kovariater (X) som tillåter behandlingseffekter heterogena i observerbara pre-behandlingskarakteristika. Kombinerar regressionsanpassning med IPW.
+
+**Revisionsrelevans:** SCB:s tvärsnittsurvey-data (ULF, Hälsa på lika villkor, AKU) är upprepade tvärsnitt — inte paneldata. FLEX är naturlig estimator för reformutvärdering i sådana datakällor. Viktig distinktion: välj FLEX (ej CS-2021) när du bara har upprepade tvärsnitt.
+
+---
+
+### Selection correction för staggerad DiD (Economics Letters 2025)
+
+**Referens:** *Economics Letters* (2025). "A selection correction method for heterogeneous treatment effects in staggered adoption settings." DOI: 10.1016/S0165-1765(25)00327-1
+
+**Innovation:** Applicerar Heckman (1979) selektionskorrektion i staggerad DiD. Selektionskorrektionstermen härleds i trenderna för aldrig-behandlade potentiella utfall. Tillåter att parallelltrend-antagandet bryts — behandlingstidpunkten kan vara korrelerad med latenta trender.
+
+**Jämförelse med HonestDiD:**
+- HonestDiD: parametriserar hur *mycket* parallelltrend kan brytas; vidgar CI konservativt
+- Selection correction: *modellerar* selektionsmekanismen explicit och korrigerar estimatet
+
+**Användning:** Välj selection correction när du har en trovärdig modell för *varför* enheter väljer behandlingstidpunkt (t.ex. kommuner väljer tidpunkt baserat på observerbar budgetkapacitet). Välj HonestDiD när selektionsmekanismen är okänd men avvikelsestorleken kan bounded.
+
+---
+
+### Regressionsträd + Lågrankstruktur för CATE i paneldata (arXiv:2406.05633, 2024)
+
+**Referens:** arXiv:2406.05633 (2024). "Heterogeneous Treatment Effects in Panel Data."
+
+**Metod i två steg:**
+1. Partitionerar enheter i kluster med liknande behandlingseffekter via regressionsträd (CART)
+2. Skattar kluster-specifika ATT via paneldatats lågrankstruktur (analogt med MC-NNM)
+
+**Nisch:** Fångar heterogenitet när kovariater saknas men lång tidsserie finns. Teorin garanterar konvergens vid ≤ 40 blad.
+
+**Relation till meta-learners (DR-learner, X-learner):** Meta-learners skattar CATE direkt som funktion av kovariater. Denna metod klustrar i stället enheter via tidsseriemönstret utan kovariater. Komplement snarare än substitut.
+
+---
+
 ## Källöversikt — Kausalinferens
 
 | Referens | Tidskrift | Bidrag |
@@ -343,3 +414,8 @@ Yₜ = μₜ + βᵀXₜ + εₜ         (observations-ekvation)
 | Borusyak, Jaravel & Spiess (2024) | ReStud | Imputation-estimator vid staggered adoption |
 | Callaway, Goodman-Bacon & Sant'Anna (2024) | — | Kontinuerlig dos-DiD (`contdid`) |
 | Cattaneo m.fl. (2025) | ReStatat | Utvidgad SC-osäkerhetskvantifiering |
+| Agarwal, Shah & Shen (2025) | Operations Research | Synthetic Interventions — SC för multipla behandlingar |
+| arXiv:2604.27187 (2026) | arXiv (under review) | IFE bad-control-varning vid heterogena effekter |
+| HEDG WP 2417 / FLEX (2024) | University of York WP | Staggerad DiD i upprepade tvärsnitt |
+| Economics Letters (2025) | Econ Letters | Selection correction för staggerad DiD med PT-brott |
+| arXiv:2406.05633 (2024) | arXiv | Regressionsträd + lågrankstruktur för CATE i panel |

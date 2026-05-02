@@ -94,3 +94,56 @@ Följande frågor är identifierade som granskningsbara uppföljningsfrågor:
 2. Har kapaciteten i Bops förändrats sedan granskningen?
 3. Hur hanteras det nya hotet från hybridaktörer och proxyaktörer i skyddssystemets design?
 4. Säkrar nuvarande system att hotade personer med komplexa hotbilder (kombination av statlig och kriminell hotaktör) får adekvat skydd?
+
+## Utfallsmåttramverk — hur vet vi om skyddet fungerar?
+
+*Formulerat 2026-04-28 (EXP-1090). Källor: RiR 2024:1, BRÅ återfallsstatistik 2024, RiR 2024:9 metodkapitlet.*
+
+### Kärnproblemet: "skydda-från-anmälan"-illusionen
+
+Om den skyddade personen är rädd för repressalier, tappat förtroendet för systemet eller faktiskt lämnar landet — ser Bops effektivt ut i registren, trots att hotet kvarstår. RiR 2024:9 identifierade analogt problem för unga lagöverträdare: processmåttsdominans döljer om insatserna faktiskt bryter kriminella karriärer.
+
+### Lärdom från RiR 2024:9 — metodprinciper att tillämpa
+
+1. **Programteoribaserad modell** — beskriv vad aktiviteterna förväntas leda till, jämför sedan med vad som faktiskt sker
+2. **Dubbla utfallsmått** — kort sikt (omedelbart skydd) och lång sikt (ingen ny brottsutsatthet)
+3. **Oberoende indikator** — välj mått som inte är direkt kontrollerbart av systemet (minskar risk för manipulation)
+4. **Mätproblem erkänns** — RiR 2024:9 använde misstankeregistret (ej lagföring) för att fånga faktisk brottsutsatthet
+
+### Kritisk distinktion: BRÅ:s återfallsmätning och Bops
+
+BRÅ mäter gärningspersonens återfall i ny lagföring (40 % inom 3 år, BRÅ 2024). Bops skyddar offret (målsäganden). Dessa är **olika utfallslogiker**: gärningspersonen kan dömas för brott mot en annan person → Bops-skyddet verkar ha fungerat men hotet är inte avvärjt. Gärningspersonen kan sitta häktad → skyddet verkar fungerat men beror på frihetsberövandet, inte skyddsåtgärden.
+
+### Ramverk: tre nivåer
+
+**Nivå 1 — Absoluta effektmått (hög validitet, låg tillgänglighet)**
+
+| Mått | Datakälla | Problem |
+|------|-----------|---------|
+| Ny brottsutsatthet under aktiv skyddsperiod | Bops-ärendeid ↔ polisanmälningssystem | Systemkoppling saknas; kräver ny infrastruktur |
+| Ny brottsutsatthet 12 mån efter avregistrering | Longitudinell register-match | Kräver aktiv uppföljningsrutin |
+| Gärningspersonns ny lagföring mot person | Misstankeregistret + Bops | Mest realistiska effektmåttet för Riksrevisionen |
+
+**Nivå 2 — Processmått med tolkningsvarning (måttlig validitet)**
+
+- Eskalering i skyddstrappan: kan tyda på systemfel (hotet trappas upp) ELLER att rätt nivå äntligen beviljats
+- Genomsnittlig skyddsperiod: lång period = antingen personen fortfarande hotad eller systemet orkar inte avsluta ärenden
+- Andel ärenden med felaktigt inflöde: styrningsindikator, ej effektmått
+
+**Nivå 3 — Strukturmått (hög validitet för styrningsrevision)**
+
+- Geografisk likvärdighet — andel beviljade insatser per region (RiR 2024:1 visade storstadskoncentration)
+- Exit-analys — orsak till avregistrering (hotet upphört / gärningsperson frihetsberövad / eget val / administrativt)
+- Nationell täckning — andel kommuner med fungerande remissväg till Bops
+
+### Tre tekniker mot "skydda-från-anmälan"-illusionen
+
+1. **Gärningspersonn-baserat komplement (genomförbart):** Följ gärningspersonens brottslighet parallellt med offrets anmälningshistorik. Datakälla: misstankeregistret är tillgängligt för Riksrevisionen.
+2. **Exit-intervjuer (resurskrävande, hög validitet):** Strukturerade intervjuer med avregistrerade skyddspersoner 12 månader efter avslutad insats. Svårt inom normal effektivitetsrevision — kan rekommenderas som BRÅ-uppdrag.
+3. **Tidsserieanalys av anmälningsbenägenhet (metodologiskt svagare):** Jämför anmälningsfrekvens före och efter Bops-insats. Kräver intern validering.
+
+### Nyckelinsikt för Riksrevisionen
+
+**Rekommenderad granskningsfråga:** "Kan Polismyndigheten redovisa om skyddsinsatserna leder till att hotade personer inte utsätts för de brott de skyddas ifrån?" — om svaret är nej, är det i sig ett granskningsfynd.
+
+Undvik att godta processmått (antal skyddspersoner, genomströmning, hotbildsbedömningar) som surrogat för effektmått.
