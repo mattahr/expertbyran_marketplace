@@ -20,6 +20,29 @@ Lagen gäller statliga myndigheter, kommuner, regioner och **enskilda verksamhet
 
 ---
 
+## 2 a kap. Kontrollstationer
+
+Kapitlet (infört genom Prop. 2020/21:194, i kraft 2021) reglerar den s.k. **kontrollstationsplikten** — en obligatorisk samrådsprocess innan säkerhetskänslig samverkan inleds med en enskild aktör.
+
+**Tillämpningsområde:** En verksamhetsutövare som avser att inleda samverkan med en enskild (privat) aktör i ett ärende av **särskild vikt för Sveriges säkerhet** ska anmäla detta till tillsynsmyndigheten **innan** samverkan inleds.
+
+**Tillsynsmyndighetens befogenhet:** Tillsynsmyndigheten (SÄPO för civila, MUST för militära verksamheter) kan:
+- Meddela villkor för samverkan.
+- **Förbjuda samverkan** helt om riskerna bedöms som oacceptabla.
+
+**Vem berörs:** Alla verksamhetsutövare som bedriver säkerhetskänslig verksamhet och avser anlita externa aktörer med tillgång till säkerhetsskyddsklassificerade uppgifter eller säkerhetskänslig verksamhet. Kontrollstationsplikten kompletterar SSA-kravet i 4 kap. — SSA-avtal ska tecknas *efter* att kontrollstationen genomförts.
+
+**SÄPO:s tillsynsrätt hos SSA-motparter:** SÄPO kan bedriva tillsyn direkt hos den privata aktör som tecknat SSA (leverantören) — inte enbart hos den upphandlande myndigheten. RiR 2024:24 fann att denna tillsyn tenderade att fokusera på formalia (avtalsdokumentation) snarare än faktiska säkerhetsåtgärder hos SSA-motparten.
+
+**SOU 2024:88** — utredning om stärkt tillsyn av SSA-kedjan: analyserar hur SÄPO:s tillsynsbefogenheter kan effektiviseras, inklusive möjligheten till direkta revisioner hos underleverantörer i SSA-kedjor.
+
+**Riksrevisionens granskningsmöjligheter:** Riksrevisionen kan granska:
+- Om statliga myndigheter följt kontrollstationsproceduren i 2 a kap. (procedurrevision).
+- Om SÄPO genomfört ändamålsenlig tillsyn hos SSA-motparter — inte bara dokumentkontroll (RiR 2024:24).
+- Om kontrollstationsprocessens kvalitet varierar systematiskt mellan sektorer.
+
+---
+
 ## 2 kap. Säkerhetsskyddsåtgärder
 
 **§ 1** — Tre typer av obligatoriska säkerhetsskyddsåtgärder:
@@ -82,9 +105,10 @@ Brott mot säkerhetsskyddslagen kan leda till **sanktionsavgifter**. Beslut av t
 ## Viktiga förarbeten och kompletterande Källor
 
 - **Prop. 2017/18:89** "En ny säkerhetsskyddslag" — ursprungsproposition
-- **Prop. 2020/21:194** "Ett starkare skydd för Sveriges säkerhet" — kontrollstationer, SSA-förbud, skärpta krav
+- **Prop. 2020/21:194** "Ett starkare skydd för Sveriges säkerhet" — kontrollstationer (2 a kap.), SSA-förbud, skärpta krav; central källa för kontrollstationsplikten
+- **SOU 2024:88** — utredning om stärkt tillsyn av SSA-kedjan: analys av SÄPO:s befogenheter mot SSA-motparter och underleverantörer
 - **SOU 2018:82** "Juridik som stöd för förvaltningens digitalisering" (bakgrund)
 - **SOU 2025:42** "Ytterligare kompletteringar till säkerhetsskyddslagen" — pågående lagstiftningsarbete, kan påverka reglerna
-- **RiR 2024:24** "Säkerhetspolisens verksamhet" — Riksrevisionens granskning av SÄPO:s tillsynsarbete
+- **RiR 2024:24** "Säkerhetspolisens verksamhet" — Riksrevisionens granskning av SÄPO:s tillsynsarbete; fann formaliafokus i stället för faktisk kontroll av säkerhetsåtgärder hos SSA-motparter
 - **SÄPO:s föreskrifter (PMFS 2019:2)** — detaljregler om säkerhetsskyddsanalys och säkerhetsskyddsåtgärder
 - **FFS 2019:2** — Försvarsmaktens föreskrifter (militär sektor)

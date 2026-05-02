@@ -91,7 +91,18 @@ Organisationer måste implementera:
 **Tillsynsstruktur:**
 - 11 myndigheter ska bedriva tillsyn (upp från 6 under NIS1)
 - Sex av dem bedriver redan tillsyn från NIS1
-- Fem nya tillsynsmyndigheter — saknar erfarenhet av cybersäkerhetstillsyn
+- Fem nya tillsynsmyndigheter — saknar erfarenhet av cybersäkerhetstillsyn (Statskontoret 2025:8)
+
+**Sektorsspecifika förändringar (SOU 2024:18):**
+- **PTS (Post- och telestyrelsen):** Utökat tillsynsansvar — elektronisk kommunikation, digitala tjänster, DNS/TLD-registreringstjänster. PTS definierar självständigt vilka aktörer som är tillsynsobjekt inom sin sektor.
+- **Transportstyrelsen:** Kraftigt utökad portfölj — antalet tillsynsobjekt ökade från 130 till 750 (luftfart, järnväg, sjöfart, väg samlade under NIS2). Myndigheten befinner sig under kapacitetspress vid implementeringen.
+
+**Föreskriftsstatus (maj 2026):**
+- MCFFS 2026:1 (anmälan och identifiering) — i kraft sedan 2 feb 2026
+- MCFFS om säkerhetsåtgärder och utbildning — remiss apr 2026, beslut väntat sommar 2026
+- MCFFS om säkerhetsrevisioner och skanning — remiss apr–maj 2026, beslut väntat höst 2026
+- MCFFS om incidentrapportering och informationsskyldighet — tidpunkt oklar
+- Konsekvens: Verksamhetsutövare saknar bindande krav på säkerhetsåtgärder och revisioner tills föreskrifterna beslutats (SOU 2025:79)
 
 **Tillsynsmyndigheternas befogenheter (artikel 32–33 NIS2):**
 - Rättsliga bindande instruktioner
@@ -221,7 +232,12 @@ Följande frågor är lämpliga för effektivitetsrevision kopplat till NIS2/cyb
 1. **Myndigheternas NIS2-implementering:** Har myndigheter anmält sig till MCF:s portal? Har de tre grundkraven (anmälan, riskhantering, incidentrapportering) implementerats? Har ledningsorgan genomgått utbildning? — Bedömningsgrund: ENISA Technical Implementation Guidance + MCFFS 2026:1.
 2. **Tillsynsarkitekturens funktionalitet:** Fungerar samordningen mellan MCF och de 11 sektortillsynsmyndigheterna? Har tillsynsmyndigheterna resurser, kompetens och färdiga föreskrifter för meningsfull tillsyn? — Referens: Statskontoret 2025:8.
 3. **Säkerhetsrevisioner som tillsynsinstrument:** Hur tillämpas MCFFS om säkerhetsrevisioner och skanning (beslut höst 2026)? Är metoderna i linje med ENISA:s vägledning?
-4. **Incidentrapportering och mörkertal:** Varför minskar rapporteringen när CERT-SE-ärendena ökar? Fungerar incidentrapporteringsportalen (NIS2 + CER)? Leder rapporter till systemförbättringar? — Referens: Budgetprop. 2026 uo6, MSB årsrapport it-incidentrapportering 2024.
+4. **Incidentrapportering och mörkertal:** Fyra konkreta granskningsobjekt (Källa: RiR 2023:8, SOU 2025:79):
+   - a) Volym rapporterade incidenter (319 år 2024) kontra faktiska ärenden hos CERT-SE (17 500 år 2024) — kvantifierar mörkertalet och om NIS2-obligatoriet fått effekt.
+   - b) MCF→FRA/NCSC-övergångens konsekvenser: risk för kapacitetsluckor i incidentrapporteringskedjan under övergången (planerad 1 jul 2026).
+   - c) Portalkontinuitet: fungerar NIS2-portalen och CER-portalen utan avbrott under omorganisationen?
+   - d) Systemförbättring: leder inkomna incidentrapporter faktiskt till uppföljningsåtgärder, eller arkiveras de utan åtgärd?
+   Referens: Budgetprop. 2025/26:1 uo6, MCF:s årsrapport it-incidentrapportering 2024, RiR 2023:8, SOU 2025:79.
 5. **NCSC-övergångens konsekvenser:** Verksamhetskontinuitet under flytten MCF→FRA/NCSC (pågår till 1 jul 2026). Hur hanteras informationsdelning med näringsliv? (Känt problem: RiR 2023:8 citeras i Prop. 2025/26:214.)
 6. **Kommuner och regioner:** Är den rättsliga styrningen tillräcklig för välfärdssektorn? — Referens: RiR 2024:6.
 7. **Riskhantering i praktiken:** Genomför statliga myndigheter systematiska riskanalyser som lever upp till kraven? (8 av 120 når kraven per 2024.)

@@ -51,6 +51,10 @@ Följ arbetsmetoden ovan. Börja med att identifiera om verksamheten är säkerh
 
 Gå igenom vad avtalet ska innehålla enligt 4 kap. SSkL och SÄPO:s föreskrifter. Kontrollera: avtalets parter, klassificering av uppgifter som ska hanteras, krav på personalsäkerhet, rätt till kontroll och revision, rapporteringsplikt vid incidenter, samt regler för underleverantörer. Peka på saknade eller otydliga klausuler.
 
+**Kontrollstationsplikt (2 a kap. SSkL):** Innan en verksamhetsutövare inleder samverkan med en enskild aktör i ett ärende av särskild vikt för Sveriges säkerhet ska samråd ske med tillsynsmyndigheten — SÄPO för civila och MUST för militära verksamheter. Tillsynsmyndigheten kan förbjuda samverkan. Kontrollera alltid att kontrollstationsproceduren genomförts och dokumenterats innan SSA-baserad samverkan inleds. Källa: Prop. 2020/21:194.
+
+**SÄPO:s tillsynsrätt hos SSA-motparter:** SÄPO kan granska inte bara den myndighet eller verksamhetsutövare som tecknat SSA, utan även SSA-motparten (leverantören) direkt — alltså en privat aktör utan ordinär tillståndsprövning. Riksrevisionens granskning (RiR 2024:24) fann att SÄPO:s tillsyn tenderade att fokusera på formalia snarare än faktiska säkerhetsåtgärder hos motparten. SOU 2024:88 analyserar hur tillsynen av SSA-kedjan kan stärkas. Riksrevisionen har möjlighet att granska om kontrollstationsprocedurer följts och om tillsynen leder till reella förbättringar. Källa: RiR 2024:24, SOU 2024:88.
+
 ### Förklara NIS2-krav för en specifik sektor
 
 Identifiera om verksamheten är en viktig eller väsentlig enhet enligt NIS2/cybersäkerhetslagen (2025:1506). Redogör för de tio riskhanteringskraven (artikel 21 NIS2), incidentrapporteringsplikten med tidsfrister (artikel 23: tidig varning 24h, anmälan 72h, slutrapport 1 mån), och tillsynsregimen. Notera vilken av de 11 sektorstillsynsmyndigheterna som är ansvarig.
@@ -61,7 +65,10 @@ Identifiera om verksamheten är en viktig eller väsentlig enhet enligt NIS2/cyb
 - Sektorer utökades från 7 (NIS1) till 18 — inkluderar nu offentlig förvaltning, tillverkning, rymdsektorn
 - Anmälningsprocessen påbörjades 2 feb 2026 via MCF:s portal
 - MCF:s föreskrifter på remiss (apr 2026): säkerhetsåtgärder + säkerhetsrevisioner/skanning; beslut sommar/höst 2026
-- Tillsynsmyndigheterna har generellt resursbrist och sektoriella föreskrifter är inte färdiga
+- 11 tillsynsmyndigheter totalt (upp från 6 under NIS1); 5 av dem är nya och saknar erfarenhet av cybersäkerhetstillsyn — resursbrist och ofärdiga sektoriella föreskrifter är utbredda problem (Statskontoret 2025:8)
+- **PTS** fick utökat tillsynsansvar under NIS2: elektronisk kommunikation, digitala tjänster, DNS/TLD-registreringstjänster — PTS definierar nu tillsynsobjekt självständigt inom sin sektor (SOU 2024:18)
+- **Transportstyrelsen** expanderade kraftigt: antalet tillsynsobjekt ökade från 130 till 750 — myndighetens kapacitet är under betydande press (SOU 2024:18)
+- Sektoriella föreskrifter (maj 2026): MCFFS om säkerhetsåtgärder och MCFFS om säkerhetsrevisioner var på remiss april–maj 2026; beslut väntas sommar/höst 2026 — verksamhetsutövare saknar tydliga bindande krav tills dess (SOU 2025:79)
 - Incidentrapportering är fragmenterat: MCF (fd MSB), FRA (tar över CSIRT 1 jul 2026), PTS, IMY och SÄPO tar emot olika typer av rapporter — informera om vilken mottagare som gäller
 - Bara 8 av 120 statliga myndigheter uppfyller informationssäkerhetskraven (Cybersäkerhetskollen 2024)
 - ENISA Technical Implementation Guidance (jun 2025): central referens med 13 tematiska implementeringsområden och evidensexempel
@@ -71,6 +78,16 @@ Läs `references/nis2-cybersakerhetslagen.md` för fullständig regeltext, imple
 ### Stöd vid incidenthantering och rapporteringsplikt
 
 Fråga efter: typ av incident, berörd verksamhet, tidpunkt. Bedöm om incidenten utlöser rapporteringsplikt (NIS2 art. 23, SSkL 4 kap. 8 §, sektoriella krav). Ge en steg-för-steg-guide för omedelbar hantering: isolering, bevisbevarande, intern eskalering, rapportering till NCSC/tillsynsmyndighet.
+
+**Mörkertalsproblemet:** 319 it-incidenter rapporterades till MCF (fd MSB) 2024, men CERT-SE hanterade 17 500 ärenden samma år — diskrepansen bekräftar ett massivt mörkertal. NIS2:s obligatoriska trestegssystem (tidig varning 24h → anmälan 72h → slutrapport 1 månad) syftar till att höja rapporteringsvolymerna, men förutsätter att organisationer har intern detektionsförmåga och att portalen fungerar. Källa: Budgetprop. 2025/26:1 uo6, RiR 2023:8.
+
+**4 granskningsobjekt för Riksrevisionen (incidentrapportering):**
+1. Volym rapporterade incidenter kontra faktiska ärenden hos CERT-SE — kvantifierar mörkertalet och om NIS2-obligatoriet har effekt.
+2. MCF→FRA/NCSC-övergångens konsekvenser för incidentrapporteringskedjan (övergång planerad 1 jul 2026) — risk för kapacitetsluckor.
+3. Portalkontinuitet: fungerar NIS2-portalen och CER-portalen utan avbrott under omorganisationen?
+4. Systemförbättring: leder inkomna incidentrapporter till uppföljningsåtgärder hos ansvariga myndigheter, eller hamnar de i ett svart hål?
+
+Källa: RiR 2023:8, SOU 2025:79.
 
 ### Bedöma AI-säkerhet i kritisk infrastruktur
 
