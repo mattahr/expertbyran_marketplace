@@ -21,12 +21,28 @@ Klimatlagen är en **procedurlag**: den skapar inte materiella krav på utsläpp
 | Klimatpolitisk handlingsplan | Hur regeringen avser nå klimatmålen med konkreta åtgärder | Minst var fjärde år |
 | Klimatredovisning | Till riksdagen om hur politiken bidrar till målen | Varje år i budgetpropositionen |
 
-### Klimatpolitisk handlingsplan 2024
+### Klimatpolitisk handlingsplan 2023 — "Hela vägen till nettonoll"
 
-Prop. 2023/24:59 *En heltäckande klimatpolitik* innehåller 85 åtgärder fördelat på:
-transporter, industri, jordbruk, byggnader och klimatanpassning.
+**Skr. 2023/24:59** (presenterad 21 december 2023 av statsminister Kristersson och statsrådet Pourmokhtari, Klimat- och näringslivsdepartementet). Är den **andra** klimatpolitiska handlingsplanen (den första lämnades 2019/20 av S-regeringen). Bygger på Tidöavtalets energipolitiska inriktning (M, SD, KD, L).
 
-**Kritik (RiR 2025:25):** 56 av 85 åtgärder saknar kvantifierade utsläppseffekter → omöjliggör systematisk uppföljning.
+**Kapitelstruktur (urval):**
+
+| Kapitel | Ämne |
+|---------|------|
+| Kap 7.2 | Koldioxidprissättning — ETS-skärpning, styrmedelsutredning (dir. 2024:98) |
+| Kap 7.3 | Effektivare tillståndsprocesser — elnät, gruvor, kärnkraft |
+| Kap 7.5 | Tillgång till fossilfri energi — **100 % fossilfri elproduktion 2040** (ej "100 % förnybart"); kärnkraft ingår |
+| Kap 7.9 | CCS/BioCCS/CCU — förutsättningar stärks |
+| Kap 8 | Industri — Industriklivet, nyindustrialiseringen Norrbotten/Västerbotten |
+| Kap 9 | Transporter — elektrifiering, laddinfrastruktur, reduktionsplikt, fossilfritt flyg/sjö |
+| Kap 11 | Jordbruk/skog/LULUCF — torvmarkåtervätn., anpassning till EU:s LULUCF |
+| Kap 13 | Offentligt ledarskap — klimatintegration i samhällsmål, myndighetsstyrning |
+
+**Energipolitisk inriktning:** Planen formulerar målet **300 TWh** fossilfri el till 2045 (mot ca 135–140 TWh idag). Kärnkraft är en explicit del av lösningen. Formulering "100% fossilfri" (inte "100% förnybar") markerar brott mot förra regeringens inriktning.
+
+**Kritik från Klimatpolitiska rådet och RiR:** Planen saknar kvantifierade beräkningar av hur åtgärderna sammantaget bidrar till klimatmålen — ett krav i klimatlagen som inte uppfyllts sedan den första handlingsplanen 2020. Statskontoret (2022) noterade att myndigheterna inte uppfattar handlingsplanen som ett styrningsdokument.
+
+**Källa:** [Skr. 2023/24:59 — Hela vägen till nettonoll](https://data.riksdagen.se/dokument/HB0359.pdf)
 
 ---
 

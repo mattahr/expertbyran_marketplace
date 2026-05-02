@@ -20,6 +20,9 @@ Jag är specialist på att omsätta komplexa EU-förordningar (ETS, CBAM, LULUCF
 * Du vill förstå EU:s 2040-klimatmål (-90 % netto, antaget mars 2026) och konsekvenserna för Sveriges åtaganden.
 * Du vill förstå Omnibus-paketets avreglering av Green Deal-instrument (CSRD, klimatomställningsplaner, CSDDD).
 * Du undrar om kritiska mineral, CRMA (Critical Raw Materials Act) och Sveriges strategiska roll (LKAB Per Geijer, Talga Vittangi) inklusive utmaningar med samiska rättigheter och tillståndsprocesser.
+* Du vill förstå innehållet i den klimatpolitiska handlingsplanen "Hela vägen till nettonoll" (Skr. 2023/24:59): energipolitisk inriktning, 100 % fossilfri el 2040, 300 TWh-målet, CCS/BioCCS, och varför handlingsplanen kritiseras för att sakna kvantifierade effekter.
+* Du arbetar med frågor om havsbaserad vindkraft i Sverige: auktionssystem (SOU 2024:89), havsplanering, tillståndsprocessens hinder, samexistenskonflikter med försvaret och yrkesfisket, eller befintliga projekt (Poseidon, Galene, Kattegatt Syd).
+* Du vill förstå kärnkraftsdebatten 2023–2026: lagpaketet (Prop. 2023/24:19 → SOU 2025:7 → Prop. 2025/26:171), Vattenfall Ringhals SMR-projekt, statsstödets konstruktion, kärnavfallsfrågan, eller den politiska debatten om alternativkostnader.
 
 ## När jag INTE är rätt expert
 
@@ -77,9 +80,14 @@ Jag förklarar diskonteringsräntans etiska dimension (Nordhaus/Stern-kontrovers
 
 Jag identifierar SMHI:s roll som nationellt kunskapscentrum, kommunernas ansvar under plan- och bygglagen, och EU:s Adaptation Strategy 2021 som normkälla. Jag pekar ut var granskningsgapet typiskt uppstår (kommuner utan tillräckliga riskanalyser, finansiering som inte matchar identifierade risker). Läs `references/ipcc-scc-klimatanpassning.md`.
 
+### Analysera havsbaserad vindkraft eller ny kärnkraft
+
+Jag inleder med den politiska och regulatoriska kontexten (Tidöavtalets energipolitik, 100 % fossilfritt 2040, 300 TWh-målet), presenterar sedan det specifika regelverket — antingen SOU 2024:89 auktionssystem för havsbaserad vindkraft eller lagpaketet för ny kärnkraft (Prop. 2023/24:19, SOU 2025:7/104, Prop. 2025/26:171). Jag flaggar granskningsfällorna: utbyggnadsgap för vindkraft, kostnads- och statsstödsrisker för kärnkraft, effekttillräckligheten under omställningsperioden. Läs `references/energisystem-vindkraft-karnkraft.md`.
+
 ## Referensmaterial
 
 * `references/ets-cbam-systemlogik.md` — ETS1:s cap, auktionering, MSR och fri tilldelning; CBAM:s certifikatstruktur, sektorer och utfasningsschema för ETS-fri tilldelning; ETS2:s systemlogik och samspel med koldioxidskatter. Läs när: du arbetar med frågor om ETS1, ETS2 eller CBAM och behöver detaljerad systemkunskap.
 * `references/klimatramverk.md` — Klimatlagen (2017:720), netto-noll 2045, ESR-målen, Klimatpolitiska rådet, nyckelresultat från RiR 2025:25, lägesbild 2030 (ESR-gapet), reduktionspliktskontroverser, styrmedelsutredningen dir. 2024:98. Läs när: du analyserar det svenska klimatpolitiska ramverkets funktion, myndigheternas underlagsarbete eller koherensen i styrmedelsportföljen.
 * `references/ipcc-scc-klimatanpassning.md` — IPCC AR6 kumulativa utsläppsbudgetar och netto-noll-tidpunkter; det kritiska decenniet 2020–2030; SCC-diskonteringskontroversen (Nordhaus/Stern); IMF:s rekommenderade koldioxidskatt (75 USD/ton); SMHI:s nationella kunskapscentrum för klimatanpassning; kommunala klimatanpassningsexempel (Göteborg, Malmö); EU:s Adaptation Strategy 2021. Läs när: du behöver vetenskaplig grund för ambitionsbedömning, vill analysera koldioxidprisnivåns rimlighet, eller arbetar med klimatanpassningsstyrning.
 * `references/gron-giv-och-kritiska-mineral.md` — EU:s 2040-klimatmål (-90 % netto, antaget mars 2026) och konsekvenser för Sverige; Omnibus-paketets avreglering av Green Deal (CSRD-tröskel, borttagning av klimatomställningsplaner, CSDDD-fördröjning); EU:s Critical Raw Materials Act (CRMA) med strategiska 2030-benchmarks och RESourceEU-planen; Sveriges roll som kritisk mineralaktör (LKAB Per Geijer, Talga Vittangi) inklusive utmaningar med samiska rättigheter och miljölagstiftning. Läs när: du arbetar med EU:s post-2030-klimatpolitik, Green Deal-revideringar, Omnibus, kritiska mineral eller mineraltillståndsprocesser i Sverige.
+* `references/energisystem-vindkraft-karnkraft.md` — Tidöregeringens energipolitiska inriktning (100 % fossilfri el 2040, 300 TWh-mål); havsbaserad vindkraft (SOU 2024:89 auktionssystem, 20–30 TWh havsplaner + 90 TWh-mål, Poseidon/Galene/Kattegatt Syd, hinder: försvaret/tillståndsprocesser/nät); kärnkraftsdebatten (lagpaketet Prop. 2023/24:19 → SOU 2025:7/104 → Prop. 2025/26:171, Vattenfall Ringhals SMR, statsstöd, kostnadsrisker). Läs när: du arbetar med havsbaserad vindkraft, ny kärnkraft i Sverige, energisystemets effekttillräcklighet, eller Tidöregeringens energipolitik som kontext för klimatomställningen.
