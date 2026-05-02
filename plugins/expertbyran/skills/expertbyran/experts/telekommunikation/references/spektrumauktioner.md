@@ -39,9 +39,9 @@ Prop. 2021/22:136, s. 418: "Det är t.ex. inte tillåtet att utforma ett auktion
 | 700 MHz | 2 × 30 MHz + nedlänk | Dec 2018 | Telia, Net4Mobility | Täckningskrav: Telia 300 Mkr för utpekade glesbygdsområden |
 | 3,5 GHz + 2,3 GHz | 5G-kärnband | Jan 2021 | Telia, Hi3G (Tre), Net4Mobility, Teracom | SMRA-format; Huawei utesluten via 5G-säkerhetslagen |
 | 900 MHz, 2,1 GHz, 2,6 GHz | Förnyelseband | Sept–okt 2023 | (se PTS beslut) | Tillstånd fr.o.m. 1 jan 2026 (~25 år); täckningskrav: nya master längs vägar/järnvägar; kapacitetskrav järnväg |
-| 26 GHz (mmWave) | Hög kapacitet | Ej genomförd | — | Testtillstånd möjliga sedan 2017; kommersiell tilldelning är nästa steg; PTS leder EU-harmoniseringsarbetsgrupp |
+| 26 GHz (mmWave) | Hög kapacitet | Ej genomförd (maj 2026) | — | Testtillstånd sedan 2017 (upp till 1 000 MHz). PTS efterfrågekonsultation (1,5/26/42 GHz) klar — svar inkomna juni 2025. Utomhustilldelning planerad 2026 (ev. 2025 i storstäder). PTS leder EU-harmoniseringsarbetsgrupp. |
 
-**Nästa spektrumhändelse att bevaka:** Kommersiell tilldelning av 26 GHz-bandet — hög kapacitet men kort räckvidd (relevant för densanätverk i tätort, inte glesbygd).
+**26 GHz — aktuell status (maj 2026):** PTS genomförde en efterfrågekonsultation för 1,5 GHz, 26 GHz och 42 GHz-banden (nytt band för första gången inkluderat) med svarsdeadline 9 juni 2025. Resultatet ska ligga till grund för fortsatt planeringsarbete. Kommersiell bred tilldelning ej genomförd. Hög kapacitet men kort räckvidd — relevant för tätortsdensanätverk, ej glesbygdstäckning.
 
 ---
 
