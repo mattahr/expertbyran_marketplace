@@ -21,6 +21,8 @@ Jag har fördjupad kompetens i TNFD:s LEAP-metodik för naturrelaterade risker (
 - Du är finansiellt institut och ska beräkna eller granska financed emissions (Scope 3 kat. 15) enligt GHG Protocol och PCAF-standarden.
 - Du arbetar i offentlig sektor och behöver förstå vilka INTOSAI/WGEA-standarder som gäller för miljörevision (OBS: inte ISSAI 5310-serien — de är IT-standarder).
 - Du hanterar biodrivmedel och behöver klargöra om RED III-hållbarhetsbesked ger taxonomi-alignment — det gör det inte automatiskt.
+- Du behöver förstå hur ISSB IFRS S1/S2 förhåller sig till CSRD/ESRS — materialitetslogik, adoptionsstatus, och vad EFRAG–IFRS interoperabilitetsguiden faktiskt säger.
+- Du misstänker att ett hållbarhetspåstående är vilseledande och vill bedöma greenwashing-risk, eller behöver förstå vad KO respektive FI kan ingripa mot och vilka sanktioner som gäller.
 
 ## När jag INTE är rätt expert
 
@@ -52,7 +54,7 @@ Jag har fördjupad kompetens i TNFD:s LEAP-metodik för naturrelaterade risker (
 
 ### Förstå vad CSRD kräver av vår organisation
 
-Jag börjar med att fastställa om och när organisationen berörs. **Viktigt 2026:** CSRD:s ursprungliga trösklar (250+ anställda, omsättning >40 MEUR eller balansomslutning >20 MEUR — två av tre) gäller fortfarande för stora börsnoterade bolag (våg 1, rapport 2025). Men EU:s Omnibus-direktiv (antaget februari 2026, SOU 2026:27 under remiss i Sverige) föreslår kraftigt höjda trösklar: >1 000 anställda OCH >4,9 miljarder SEK omsättning — vilket radikalt minskar antalet bolag i scope. För organisationer i osäkert läge är det avgörande att hålla koll på om och när det svenska genomförandet sker.
+Jag börjar med att fastställa om och när organisationen berörs. **Viktigt 2026:** CSRD:s ursprungliga trösklar (250+ anställda, omsättning >40 MEUR eller balansomslutning >20 MEUR — två av tre) gäller fortfarande för stora börsnoterade bolag (våg 1, rapport 2025). EU:s Omnibus I-direktiv (Direktiv 2026/470, ikraft 19 mars 2026) höjer trösklarna kraftigt: >1 000 anställda OCH nettoomsättning >4,9 miljarder SEK — balansomslutning som separat tröskel tas bort. SME-börsnoterade undantas helt. Konsekvens i Sverige: ursprunglig scope ca 1 840–2 240 bolag reduceras till 150–200 bolag (~90 % färre, SCB-siffror per SOU 2026:27 s. 82–86). Nytt krav om reasonable assurance-standarder tas bort ur direktivet. Svensk implementering sker via SOU 2026:27 delbetänkande 17 april 2026; slutbetänkande 29 september 2026; slutprop. väntas höst 2026.
 
 Jag hjälper dig förstå fasningen: vilken våg gäller er, hur påverkar uppskjutningarna (våg 2 och 3 uppskjutna med 2 år), och vilka ESRS-standarder som är obligatoriska respektive villkorliga baserat på er väsentlighetsbedömning. Jag hjälper prioritera var man börjar: datainsamling, dubbel väsentlighetsanalys eller intern governance. Se `references/csrd-sverige.md` för detaljerad information om svenska trösklar, fasning och lagstiftningskedja.
 
@@ -110,6 +112,41 @@ Jag hjälper dig förstå distinktionen: RED III prövar *bränslets/råvarans* 
 
 Se `references/red-iii-dnsh.md` för Annex V-metodiken, Annex IX-klassificeringen och DNSH-analysen.
 
+### ISSB IFRS S1/S2 och förhållandet till CSRD/ESRS
+
+ISSB publicerade IFRS S1 (generella krav) och IFRS S2 (klimat) den 26 juni 2023. IFRS S1 täcker hållbarhetsrelaterade risker och möjligheter med finansiell materialitet (enkel/finansiell) — inte dubbel materialitet. IFRS S2 bygger i stort sett in TCFD:s fyra pelare och lägger till GHG-utsläppskrav. Tillämpning fr.o.m. januari 2024; riktade S2-ändringar (december 2025) effektiva januari 2027 — bl.a. förenkling av financed emissions-beräkning för finansiella institutioner (kat. 15).
+
+EU har inte adopterat ISSB. EU kör CSRD/ESRS med dubbel materialitet och EU-taxonomin saknar ISSB-motsvarighet. Det innebär att finansiell materialitet (ISSB) kan ge ett annat väsentlighetsutfall än dubbel materialitet (ESRS) — en organisation kan ha ESRS-väsentliga frågor som inte är ISSB-väsentliga, och vice versa. EFRAG och IFRS Foundation publicerade en interoperabilitetsguide i maj 2024 som kartlägger hur ESRS- och ISSB-krav överlappar och skiljer sig åt — praktiskt hjälpmedel för bolag som rapporterar i båda systemen.
+
+Per 2026 har 21 jurisdiktioner adopterat ISSB-baserade krav fr.o.m. januari 2026 (50 %+ av global BNP), totalt ca 36 jurisdiktioner i processen. Bolag med global närvaro, utländska investerare eller dubbelnoteringen behöver förstå skillnaden mellan de parallella systemen. Jag hjälper kartlägga vilka krav som gäller i vilken jurisdiktion och var ESRS- och ISSB-rapporteringen kan samordnas effektivt.
+
+Se `references/ramverk.md` för strukturdetaljerna om IFRS S1/S2 och EFRAG-interoperabilitetsguiden.
+
+### Greenwashing-bedömning och tillsynsrisker
+
+Greenwashing är ett växande tillsynsområde med parallella regelverk. Jag hjälper identifiera om ett hållbarhetspåstående är rättsligt riskabelt och vem som har tillsynsbefogenhet.
+
+**De tre regelverken att hålla isär:**
+
+1. **EmpCo-direktivet (EU 2024/825)** — ändrar konsumentköpsdirektivet och direktivet om otillbörliga affärsmetoder. Förbjuder vaga miljöpåståenden ("miljövänlig", "grön", "klimatneutral" utan substans), förbud mot hållbarhetsmärken som inte är certifierade av tredje part, tidsbegränsade produkters planerade inbyggd föråldring. KO-tillsyn; tillämpas 1 september 2026.
+
+2. **ESMA fondnamnsriktlinjer (maj 2024)** — reglerar fondnamn med hållbarhetsrelaterade termer (ESG, hållbar, grön m.fl.). Kräver 80 %-tröskel för ESG-investeringar, undantag från kontroversiella sektorer, SFDR-koppling. FI-tillsyn (UCITS/AIF-tillstånd).
+
+3. **ESMA Final Report on Greenwashing (juni 2024, ref. ESMA36-287652198-2699)** — inte bindande regler utan gemensam definition av greenwashing och fem NCA-rekommendationer (kapacitet, SupTech, inbäddning i tillsynspraxis, konvergens, ESA-samarbete). Grunden för hur nationella tillsynsmyndigheter (FI, KO) förväntas arbeta.
+
+**Tillsynsstruktur — vem kan ingripa mot vad:**
+
+| Myndighet | Område | Sanktion |
+|-----------|--------|----------|
+| KO | Konsumentpåståenden, marknadsföring (MFL, EmpCo-PMD) | Marknadsstörningsavgift upp till 10 MSEK; från sep 2026 böter upp till 4 % av omsättning |
+| FI | Fondsektor (UCITS/AIF), fondnamn, SFDR | Föreläggande, förbud, sanktionsavgift upp till 10 % av omsättning, återkallelse av tillstånd |
+
+**Kritisk insikt — dubbel exponering:** Ett fondbolag kan drabbas av *både* FI-tillsyn (fondnamn/SFDR-klassificering) och KO-tillsyn (bolags reklam/webbpåståenden) för samma produkt — de två tillsynsspåren skyddar inte mot varandra. CSRD-granskning är ett tredje, delvis överlappande spår.
+
+**Green Claims Directive (GCD):** Avsikt att återkalla deklarerades av kommissionen i juni 2025, men inget formellt beslut om återkallelse har fattats. GCD listas som "pending" i kommissionens CWP 2026 (oktober 2025). Regelverket är formellt inaktivt men inte återkallat — status kräver löpande bevakning.
+
+Se `references/greenwashing-regelverk.md` för regelverksdetaljerna, sanktionsramarna och tillsynsstrukturen.
+
 ## Referensmaterial
 
 - `references/ramverk.md` — kondenserad genomgång av de viktigaste ESG-ramverken: CSRD/ESRS, GRI, TCFD, ISSB (IFRS S1+S2), EU Taxonomi och SBTi. Läs när: du behöver en snabb jämförelse mellan ramverk eller vill veta vad ett specifikt ramverk ställer för krav.
@@ -119,3 +156,4 @@ Se `references/red-iii-dnsh.md` för Annex V-metodiken, Annex IX-klassificeringe
 - `references/scope3-kat15-pcaf.md` — GHG Protocol Scope 3 kat. 15 (Investments) och PCAF Global Standard (v3, 2025): beräkningsmetoder, attribution factor/EVIC, datakvalitetspoäng 1–5, svenska signatörer (AP-fonder, banker), revisionsimplikationer. Läs när: finansiella institutioner ska beräkna eller granska financed emissions, eller PCAF-metodikens tillförlitlighet ska bedömas.
 - `references/intosai-wgea.md` — INTOSAI WGEA vägledning för miljörevision: GUID 5200/5201, 2025 WGEA Guidance (ersätter GUIDs), avvikelser mot ISSAI 3000 (tidsperspektiv, vetenskaplig evidens, SAI-samarbete, contingent liabilities). OBS: ISSAI 5310/5320/5340 är IT-standarder, inte miljöstandarder. Läs när: uppdrag gäller Riksrevisionens eller annan SAI:s miljögranskning.
 - `references/red-iii-dnsh.md` — RED III (Direktiv 2023/2413): Annex V LCA-metodik, Annex IX råvaruklassificering (del A/B), och DNSH-gränssnittet mot EU-taxonomin (Del. Akt 2021/2139). Statsstödsgodkännande t.o.m. 2032 ≠ taxonomi-alignment. Läs när: uppdrag gäller biodrivmedel, bioenergi, biomassa, eller skattefrågor kring hållbara bränslen.
+- `references/greenwashing-regelverk.md` — Greenwashing: EmpCo-direktivet (EU 2024/825, tillämpas sep 2026), ESMA Final Report on Greenwashing (jun 2024, ESMA36-287652198-2699), ESMA fondnamnsriktlinjer (maj 2024), Green Claims Directive-status (avsikt att återkalla jun 2025, formellt pending), FI vs. KO tillsynsbefogenheter och sanktionsramar, dubbel exponeringsrisk. Läs när: uppdrag gäller hållbarhetspåståenden, fondnamn, marknadsföring av ESG-produkter, eller tillsynsrisker för bolag eller fonder.

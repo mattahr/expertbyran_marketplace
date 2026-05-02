@@ -29,11 +29,31 @@
 - Nettoomsättning >40 MEUR (ca 440 MSEK)
 - Balansomslutning >20 MEUR (ca 220 MSEK)
 
-### Föreslagna trösklar efter Omnibus (SOU 2026:27, ändringsdirektivet antaget 24 feb 2026)
+### Omnibus I — nya trösklar (Direktiv 2026/470, ikraft 19 mars 2026)
+
+**Direktiv (EU) 2026/470** (Omnibus I) antogs 19 mars 2026 och ändrar CSRD-trösklarna:
 
 - Fler än **1 000 anställda** OCH nettoomsättning >**4,9 miljarder SEK**
-- SME-börsnoterade undantas helt
-- Konsekvens: radikalt färre bolag om förslaget genomförs (utredning; ännu ej antaget i Sverige)
+- Balansomslutning tas bort som separat tröskelkriterie
+- SME-börsnoterade undantas helt (tidigare: tillämpning 2026/2028)
+
+**Kvantitativ påverkan i Sverige (SCB-siffror, SOU 2026:27 s. 82–86):**
+
+| | Antal bolag |
+|--|--|
+| Ursprunglig CSRD-scope (250+ anst.) | ca 1 840–2 240 |
+| Ny Omnibus-scope (>1 000 anst. + >4,9 mdr SEK) | **ca 150–200** |
+| Reduktion | ~90 % |
+
+**Konsekvenser:**
+- SME i värdekedjor påverkas indirekt (stora bolag kan begära hållbarhetsdata från leverantörer)
+- Civila samhällets och investerares tillgång till hållbarhetsdata från medelstora bolag minskar kraftigt
+- Kravet om att kommissionen ska anta reasonable assurance-standarder tas bort ur direktivet
+
+**Svensk implementeringstidplan:**
+- SOU 2026:27 delbetänkande: 17 april 2026
+- SOU 2026:27 slutbetänkande: 29 september 2026
+- Slutprop. väntas: höst 2026
 
 ---
 
@@ -140,6 +160,26 @@ Bokföringsnämnden (BFN)
 ```
 
 **ESMA-dimension:** ESMA har publicerat uttalanden om tillsyn av noterade bolags hållbarhetsrapportering. FI och Nämnden för svensk redovisningstillsyn är berörda nationellt.
+
+---
+
+## Förenklade ESRS (under framtagning 2026)
+
+EFRAG:s tekniska råd för förenklade ESRS är klart (maj 2026). Nyckeltal:
+- **61 % minskning** av obligatoriska datapunkter jämfört med ursprungliga ESRS
+- Delegerad akt väntas mitten av 2026
+- Tillämpning: **obligatoriskt fr.o.m. FY 2027**, frivilligt fr.o.m. FY 2026
+
+Revisionsimplikation: bolag som redan börjat datainsamling enligt ursprungliga ESRS bör avvakta delegerad akt innan de låser format och system.
+
+---
+
+## ESG-betygsförordningen (EU 2024/3005)
+
+**Ikraft:** 2 juli 2026 (tillståndsplikt fr.o.m. detta datum)  
+**Behörig myndighet Sverige:** Finansinspektionen (FI), Prop. 2025/26:94 (ikraft 2 april 2026)
+
+ESG-betygsleverantörer som verkar i EU måste ha tillstånd av sin nationella tillsynsmyndighet. Krav: integritet, transparens, metodik, oberoende. Påverkar hur Sustainalytics, MSCI ESG, S&P Global Ratings och liknande aktörer kan marknadsföra och leverera betyg i EU.
 
 ---
 

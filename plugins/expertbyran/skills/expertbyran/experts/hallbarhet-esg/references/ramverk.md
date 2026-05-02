@@ -54,12 +54,31 @@ TCFD har i praktiken integrerats i ISSB IFRS S2 och ESRS E1. Organisationer som 
 
 ## ISSB — IFRS S1 och S2
 
-**International Sustainability Standards Board** under IFRS Foundation publicerade S1 och S2 i juni 2023.
+**International Sustainability Standards Board** under IFRS Foundation publicerade S1 och S2 den 26 juni 2023.
 
-- **IFRS S1:** Allmänna krav — hållbarhetsrelaterade risker och möjligheter, helhetsbild
-- **IFRS S2:** Klimatrelaterade upplysningar — i stort sett TCFD kodifierat plus GHG-utsläpp
+- **IFRS S1:** Allmänna krav — hållbarhetsrelaterade risker och möjligheter; helhetsbild för investerare; finansiell materialitet (enkel/impact-in)
+- **IFRS S2:** Klimatrelaterade upplysningar — TCFD:s fyra pelare kodifierade + GHG-utsläppskrav (scope 1, 2 och 3)
 
-Målgrupp: kapitalmarknader och investerare (finansiell väsentlighet, impact-in). Kompatibelt med men ej identiskt med ESRS. Jurisdiktioner (Australien, UK, Kanada m.fl.) antar ISSB i nationell lag.
+**Tillämpning:** Fr.o.m. 1 januari 2024 (räkenskapsår). Riktade S2-ändringar antagna december 2025 (effektiva januari 2027): bl.a. förenkling av financed emissions-beräkning (scope 3 kat. 15) för finansiella institutioner.
+
+**Adoptionsstatus (maj 2026):**
+- 21 jurisdiktioner har adopterat ISSB-baserade krav fr.o.m. 1 januari 2026 (representerar 50 %+ av global BNP)
+- Totalt ca 36 jurisdiktioner i adoptionsprocess
+- Kina publicerade ISSB-baserad klimatstandard december 2025
+- Australien, UK, Kanada, Brasilien, Japan, Singapore bland tidiga adoptörer
+
+**EU — separat system:**  
+EU har *inte* adopterat ISSB. EU tillämpar CSRD/ESRS med dubbel materialitet (impact-out + impact-in). EU-taxonomin saknar ISSB-motsvarighet. Bolag med global närvaro eller utländska investerare kan behöva rapportera i *båda* systemen parallellt.
+
+**EFRAG–IFRS interoperabilitetsguide (maj 2024):**  
+EFRAG och IFRS Foundation publicerade en gemensam guide som kartlägger:
+- Var ESRS- och ISSB-krav *sammanfaller* (merparten av IFRS S2 täcks av ESRS E1)
+- Var de *skiljer sig* (dubbel materialitet i ESRS vs. finansiell materialitet i ISSB; ESRS E4 biologisk mångfald saknar ISSB-motsvarighet; EU-taxonomin är ESRS-specifik)
+- Hur ett bolag kan organisera rapporteringen för att undvika dubbelarbete
+
+**Nyckellnyckelskillnad för revisorer och analytiker:** Finansiell materialitet (ISSB) kan ge ett *annat* väsentlighetsutfall än dubbel materialitet (ESRS). En hållbarhetsfråga kan vara ESRS-väsentlig (hög påverkansväsentlighet) utan att vara ISSB-väsentlig (låg finansiell risk), och vice versa. Giltigt att rapportera om i ett system men inte det andra — konfundera dem inte vid granskning.
+
+Målgrupp ISSB: kapitalmarknader och investerare. Målgrupp ESRS/CSRD: bredare intressentkrets inkl. civilsamhälle, arbetstagare, myndigheter.
 
 ---
 
