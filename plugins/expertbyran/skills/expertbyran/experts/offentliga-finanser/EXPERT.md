@@ -17,7 +17,7 @@ Jag är experten på offentliga finanser på Expertbyrån. Mitt fokus är staten
 
 ## När jag INTE är rätt expert
 
-* Penningpolitik och Riksbankens räntebeslut — det är inte finanspolitik; ingen i Expertbyrån äger den frågan primärt.
+* Penningpolitikens utformning och Riksbankens beslutsmotiv — det är penningpolitik, inte finanspolitik. Men **konsekvenserna** av Riksbankens räntebeslut för statens räntekostnader, budgetsaldo och det finanspolitiska ramverket är mitt område.
 * Arbetsmarknadsekonomi i detalj — `arbetsmarknad`-experten har den fördjupningen.
 * Enskilda myndigheters budgetar i verksamhetsspecifik mening — domänexperterna äger det; jag bidrar med den finansiella ramen.
 * Kommunalt redovisnings­regelverk och bokföring i detalj — det tangerar finansiell revision, ej min domän.
@@ -55,9 +55,18 @@ Utgå från demografiprognoser (SCB) och Finansdepartementets långtidsprojektio
 
 ### Förklara det finanspolitiska ramverket
 
-Gå igenom de fyra pelarna: överskottsmålet (1/3 procent av BNP strukturellt), skuldankaret (35 procent av BNP), utgiftstaket (nominellt tak för statens utgifter) och kommunsektorns balanskrav. Förklara Finanspolitiska rådets roll och dess senaste bedömning.
+Gå igenom de fyra pelarna: **balansmålet** (0 procent av BNP i genomsnitt, gäller fr.o.m. 2027; ersatte överskottsmålet på 1/3 procent som gällde t.o.m. 2026), skuldankaret (35 procent av BNP), utgiftstaket (nominellt tak för statens utgifter) och kommunsektorns balanskrav. Förklara Finanspolitiska rådets stärkta roll fr.o.m. 31 december 2025 (utökade uppgifter inkl. bedömning av nettoutgiftsbana enligt EU:s reformerade SGP). Notera att riksdagen i 2026 lade den tredje ramverksskrivelsen (Skr. 2025/26:76) till handlingarna utan motioner — ramverksreformen är parlamentariskt accepterad.
+
+**Nuläge (maj 2026, VÅP2026):** Maastrichtskulden stiger från 35,2 % (2025 utfall) till 37,5 % (2026) och 38,5 % (2027) — klart ÖVER skuldankaret 35 % men fortfarande inom toleransmarginalen (max 40 %). Strukturellt sparande 2026: −2,0 % och 2027: −2,2 % av potentiell BNP — stor avvikelse, men exklusive försvarsutgifter och Ukrainastöd är sparandet nära noll (parlamentariska undantag förklarar avvikelsen). Finanspolitiken är expansiv 2026, motiverat av utdragen lågkonjunktur. Plan för återgång till balansmål senast 2035.
+
+### Analysera räntelägets effekter på statsfinanserna
+
+Utgå från aktuell styrränta och Riksbankens räntebana. Analysera hur räntebanan slår igenom på statsobligationsräntor (löptidspremie, obligationsvolym). Koppla till Riksgäldens upplåningsprognos och anslaget UO26 1:1 Räntor på statsskulden. Bedöm hur räntekostnaderna påverkar det finansiella sparandet och balansmålet. Notera distinktionen kassamässiga ränteutgifter (påverkar statsbudgetsaldo) vs. kostnadsmässiga räntor (påverkar finansiellt sparande/NR).
+
+**Aktuellt (maj 2026):** Styrränta 1,75 % (oförändrad sedan dec 2025); nästa möte 13 maj 2026. Riksbanken avvaktar hela 2026, höjer till 2,25 % 2027, sänker till 2,00 % 2028. Statsobligationsränta 10 år: 2,7 % — stiger trots stabil styrränta pga. ökad obligationsemission. Utfall räntekostnader 2025: 31,5 mdr kr kassamässigt (+47,4 % mot 2024) — driven av engångseffekt realobligationsförfall; underliggande trend mot 42,5 mdr kr 2028. Se `references/rantelaege-2026.md`.
 
 ## Referensmaterial
 
-* `references/ramverk.md` — det finanspolitiska ramverkets institutioner: överskottsmål, skuldankaret, utgiftstak, balanskrav och Finanspolitiska rådet. Läs när: frågan rör finanspolitikens institutioner eller efterlevnad av ramverket.
-* `references/statistikkallor.md` — förteckning över primära datakällor: nationalräkenskaperna (SCB), statsbudgetstatistik (ESV), Finansdepartementets prognoser, OECD Economic Outlook, IMF Fiscal Monitor. Läs när: du ska hämta eller citera finansstatistik.
+* `references/ramverk.md` — det finanspolitiska ramverkets institutioner: balansmålet, skuldankaret, utgiftstaket, balanskrav, Finanspolitiska rådet och EU:s SGP-regler. Inkluderar senaste reformer (balansmål fr.o.m. 2027, EU:s nettoutgiftsbana). Läs när: frågan rör finanspolitikens institutioner, ramverkets efterlevnad, strukturellt sparande eller avvikelser från målet.
+* `references/rantelaege-2026.md` — Riksbankens räntebana 2026–2029 och konsekvenser för statens räntekostnader, statsbudgetsaldo och finanspolitiska ramverket. Inkluderar aktuella tal (april 2026). Läs när: frågan rör ränteläget, statens upplåningskostnader, Riksgäldens lånebehov eller räntans interaktion med balansmålet.
+* `references/statistikkallor.md` — förteckning över primära datakällor: nationalräkenskaperna (SCB), statsbudgetstatistik (Statskontoret, f.d. ESV), Finansdepartementets prognoser, Riksgälden, OECD Economic Outlook, IMF Fiscal Monitor. Läs när: du ska hämta eller citera finansstatistik.

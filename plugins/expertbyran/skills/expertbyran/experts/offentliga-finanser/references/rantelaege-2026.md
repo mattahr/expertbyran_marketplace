@@ -1,6 +1,6 @@
 # Ränteläget och statens räntekostnader 2026–2029
 
-*Senast uppdaterad: 2026-04-28. Baseras på PPR mars 2026, VÅP 2026 (Prop. 2025/26:100), BP2026 (Prop. 2025/26:1) och Riksgäldens prognoser.*
+*Senast uppdaterad: 2026-05-02. Baseras på PPR mars 2026, VÅP 2026 (Prop. 2025/26:100), BP2026 (Prop. 2025/26:1), Riksgäldens prognoser, Statskontoret STK-2026-9 (utfallet 2025), STK-2026-10 (prognos mars 2026) och Skr. 2025/26:104 (upplåningsutvärdering 2021–2025).*
 
 ---
 
@@ -59,21 +59,24 @@ Riksbanken beslutade senast i **mars 2026** (PPR mars 2026, publicerad 2026-03-1
 | Kassamässiga ränteutgifter (UO26 anslag 1:1) | Faktiska kassautflöden: kupongbetalningar, kurseffekter, valutaeffekter | Statsbudgetsaldo, statsskuldens storlek |
 | Kostnadsmässiga räntor | Periodiserade räntor exkl. realiserade kurseffekter | Finansiellt sparande (NR), balansmålet |
 
-Diskrepansen kan vara stor. År 2025: 30,5 mdkr kassamässigt vs. 15,7 mdkr kostnadsmässigt — förklaras av överkurser, valutakurs och räntenetto.
+Diskrepansen kan vara stor. Utfall 2025: kassamässigt 31,5 mdkr vs. kostnadsmässigt 20 mdkr — förklaras av inflationskompensation på realobligation, överkurser, valutakurs och räntenetto.
 
 ### Anslagsutveckling UO26 1:1 Räntor på statsskulden
 
-Från Budgetpropositionen för 2025 (Prop. 2024/25:1):
+Uppdaterade tal per Statskontoret STK-2026-9 (utfall) och VÅP2026 (prognos):
 
-| År | Kassamässiga ränteutgifter |
-|---|---|
-| 2023 (utfall) | 31,6 mdkr |
-| 2024 (prognos) | 21,8 mdkr |
-| 2025 (förslag) | 28,6 mdkr |
-| 2026 (beräknat) | 23,2 mdkr |
-| 2027 (beräknat) | 18,8 mdkr |
+| År | Kassamässiga ränteutgifter | Förändring | Anm. |
+|---|---|---|---|
+| 2023 (utfall) | 31,6 mdkr | — | |
+| 2024 (utfall) | 21,4 mdkr | −32 % | Lägre inflation, starkare krona |
+| 2025 (utfall) | 31,5 mdkr | +47,4 % | Engångseffekt: inflationskompensation realobligation fr. 1999 |
+| 2026 (prognos VÅP2026) | 26,8 mdkr | −14,9 % | Inga stora realobligationsförfall |
+| 2027 (prognos) | 32,0 mdkr | +19,4 % | Skulden växer + refinansiering |
+| 2028 (prognos) | 42,5 mdkr | +32,8 % | Äldre realobligation förfaller; ny topp |
 
-**Obs:** Räntekostnaderna stiger dramatiskt på längre sikt till 42,5 mdkr år 2028 pga. växande statsskuld (17 → 20 % BNP) och att obligationer refinansieras till det högre ränteläget.
+**Varningssignal 2025:** Ökningen med 47,4 % är delvis ett engångsfenomen (inflationskompensation vid realobligationsförfall) och ger en missvisande bild av trendökning. Den *underliggande* ökningstakten mot 2028 är strukturell — driven av ökad skuld och normaliserade marknadsräntor vid refinansiering.
+
+**Kostnadsmässiga räntor** (NR-mässigt, ingår i det finansiella sparandet): 20 mdkr 2025 — minskade med ~2 mdkr vs. 2024 pga. lägre inflation och starkare krona. Kostnadsmässiga räntor är jämnare och påverkas ej av engångseffekterna i de kassamässiga.
 
 ### Drivkrafter bakom stigande statsobligationsräntor trots stabil styrränta
 
@@ -92,17 +95,19 @@ Statslåneräntan (5-årig statsobligation) steg från ~2,0 % (2024) till 2,58 %
 
 Balansmålet mäter finansiellt sparande **inklusive** räntekostnader. Stigande räntor försämrar det finansiella sparandet direkt — utan primär budgetanpassning leder det till avvikelse från balansmålet.
 
-**Nuläge (VÅP2026 prognos):**
+**Nuläge (VÅP2026 / Statskontoret STK-2026-10, maj 2026):**
 
-| År | Finansiellt sparande | Strukturellt sparande | Exkl. försvar/Ukraina |
+| År | Finansiellt sparande % BNP | Strukturellt sparande % pot. BNP | Budgetsaldo (statens budget, mdr kr) |
 |---|---|---|---|
-| 2025 | −1,3 % | −0,3 % | +0,2 % |
-| 2026 | −2,6 % | −1,9 % | −0,6 % |
-| 2027 | −2,0 % | −1,6 % | −0,3 % |
-| 2028 | −0,7 % | −0,6 % | 0,0 % |
-| 2029 | −0,2 % | −0,2 % | +0,2 % |
+| 2025 (utfall) | −1,5 % | −0,7 % | −102 mdr |
+| 2026 (prognos) | −2,6 % | −2,0 % | −184 mdr |
+| 2027 (prognos) | −2,1 % | −2,2 % | −174 mdr |
+| 2028 (prognos) | −0,7 % | −0,8 % | −62 mdr |
+| 2029 (prognos) | −0,4 % | −0,4 % | −60 mdr |
 
-Exklusive nya försvarsutgifter och Ukrainastöd är strukturellt sparande nära noll — avvikelse från balansmålet förklaras i sin helhet av parlamentariska undantag.
+**Obs:** Statskontorets strukturella sparande (STK-2026-10) är mer pessimistiskt än regeringens, eftersom Statskontoret ej antar ny finanspolitik bortom det beslutade. Avvikelsen 2026–2027 är alltså till stor del *strukturell*, ej enbart konjunkturell.
+
+Exklusive nya försvarsutgifter och Ukrainastöd är strukturellt sparande nära noll — avvikelse från balansmålet förklaras i sin helhet av parlamentariska undantag (överenskommelse juni 2025). Plan: balansmål (exkl. undantag) nås 2028; fullt måluppfyllelse senast 2035.
 
 ### Ränteutgifters bidrag till Maastrichtskulden
 
@@ -150,5 +155,10 @@ Samstämmigheten är ovanligt hög. BNP-tillväxten var 3,1 % i BP2026 (hösten 
 | BP 2026, Prop. 2025/26:1 | Ekonomisk proposition | Budgetproposition med UO26 räntekostnader och Maastrichtskuld |
 | Statskontoret STK-2026-10 | Rapport | Prognos statens budget mars 2026; styrränta och obligationsräntor |
 | Riksgälden "Statsupplåning 2025:2" | Rapport | Lånebehov och skuld 2026 (nov 2025) |
-| Skr. 2023/24:104 | Skrivelse | Utvärdering statens upplåning 2019–2023 (Finansdepartementet) |
+| Skr. 2025/26:104 | Skrivelse | Utvärdering statens upplåning och skuldförvaltning 2021–2025 (Statskontoret/Finansdep.) |
+| Statskontoret STK-2026-9 | Rapport | Utfallet för statens budget 2025 — kassamässiga räntor 31,5 mdr kr |
+| Statskontoret STK-2026-8 | Rapport | Statens resultaträkning, balansräkning 2025 — statsskuld 1 156 mdr kr |
+| Statskontoret STK-2026-4 | Rapport | Underlag finansiellt sparande 2025 kv4 — statens sparande −96 mdr helår |
+| FiU23 Betänkande 2026 (HD01FiU23) | Betänkande | Riksbankens verksamhet 2025; räntebeslut, KPIF 2,6 %, förtroende 57 % |
 | Bet. HD01FiU14 (2026) | Betänkande | Riksdagsbehandling av Skr. 2025/26:76 om ramverket |
+| Skr. 2025/26:241 | Skrivelse | Regeringens svar på RiR 2025:36 — ramverksefterlevnad, avvikelsemotivering |

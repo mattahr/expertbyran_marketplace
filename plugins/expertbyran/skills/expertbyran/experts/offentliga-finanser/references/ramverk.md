@@ -32,15 +32,18 @@ Ramverket regleras i **budgetlagen (2011:203)**, som ändrades 2025 (ikraftträd
 - Tillåten avvikelse: 5 procentenheter åt vardera hållet (30–40 % av BNP).
 - Om skulden avviker mer än 5 procentenheter ska regeringen lämna skrivelse till riksdagen om orsaker och åtgärder.
 
-**Nuläge (april 2026):**
+**Nuläge (maj 2026 — baserat på VÅP2026, Prop. 2025/26:100 och Statskontoret STK-2026-10):**
 | År | Maastrichtskuld % BNP | Kommentar |
 |---|---|---|
 | 2024 (utfall) | 33,9 % | Under ankaret |
-| 2025 (utfall) | 35,1 % | Exakt vid ankaret — första gången i ramverkets historia |
-| 2026 (prognos BP2026) | 35,8 % | Marginellt över, inom toleransmarginalen |
-| 2027 (prognos BP2026) | 36,8 % | Fortsatt inom toleransmarginalen |
+| 2025 (utfall) | 35,2 % | Exakt vid ankaret — nytt utfall per STK-2026-10 |
+| 2026 (prognos VÅP2026) | 37,5 % | Klart ÖVER ankaret men inom toleransmarginalen (max 40 %) |
+| 2027 (prognos VÅP2026) | 38,5 % | Fortfarande under 40 %-taket; kräver ej skrivelse |
+| 2028 (prognos) | 38,5 % | Planar ut |
 
-Skulden stiger pga. försvarsutgifter, Ukrainastöd och stigande räntekostnader. Statskontoret och RiR (RiR 2025:36) konstaterar att skulden är inom toleransmarginalen och inte kräver skrivelse.
+Skulden stiger pga. kraftigt expansiv finanspolitik (budgetunderskott ~184 mdr kr 2026), försvarsutgifter, Ukrainastöd och stigande räntekostnader. **Statskontoret konstaterar att skulden är inom toleransmarginalen** — men tangerar 40 %-taket under prognosperioden om finanspolitiken inte korrigeras.
+
+**Jämfört med BP2026 (höst 2025):** Skulden reviderades upp med 121 mdr kr 2026 och 281 mdr kr 2027 jämfört med VÅP25-bedömningen, pga. åtgärderna i budgetpropositionen för 2026. Källa: RiR 2025:36 / Skr. 2025/26:241 bilaga diagram 6.
 
 ---
 
@@ -96,7 +99,22 @@ Regeringens svar: Skr. 2024/25:120 (3 april 2025).
 
 ## Granskning 2025 (RiR 2025:36)
 
-Riksrevisionens rapport om tillämpningen 2025. Slutsats: transparensen godtagbar. Konstaterar att upplåningsökningen skapar strukturell sårbarhet vid skuldankaret. Källa: Skr. 2025/26:241.
+Riksrevisionens rapport om tillämpningen av det finanspolitiska ramverket 2025.
+
+**Slutsatser:**
+- Skuldankarets uppföljning bedöms "tillräckligt transparent"
+- Riksrevisionen menar att regeringen **inte redovisar effekten på BNP-gapet** av aktiv finanspolitik — omöjligt att bedöma om stimulansen var väl avvägd
+- Riksrevisionen kritiserar brister i redovisningen av det strukturella sparandets förändring (automatisk budgetförstärkning redovisas ej separat)
+- Finanspolitiska rådet bedömde finanspolitiken 2026 som "för expansiv"
+
+**Riksrevisionens rekommendationer:**
+1. Beräkna och redovisa effekten av den föreslagna finanspolitiken på konjunkturläget (BNP-gapet)
+2. Öka transparensen kring vilka faktorer som påverkar förändringen i det strukturella sparandet
+
+**Regeringens svar (Skr. 2025/26:241):**
+- Regeringen **delar inte** Riksrevisionens slutsats att finanspolitiken inte respekterar ramverket
+- Regeringen **delar inte** Finanspolitiska rådets bedömning att finanspolitiken är för expansiv 2026
+- Avvikelsen motiveras av lågkonjunktur och parlamentariska undantag (försvar/Ukraina)
 
 ---
 
