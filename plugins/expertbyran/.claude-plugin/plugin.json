@@ -1,7 +1,7 @@
 {
   "name": "expertbyran",
   "description": "Expertbyrån — paraply-skill som routar din uppgift till rätt domänexpert (klarspråk, juridik, korrektur m.fl.).",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "author": {
     "name": "Mattias Ahrens",
     "email": "mattias@ahrens.nu"
