@@ -62,11 +62,17 @@ till underhållsskuld och kapacitetsbrist. Från 2023 positiv trend.
 
 ## Nollvisionen — trafiksäkerhet
 
-Nollvisionen antogs av riksdagen 1997: ingen ska dödas eller allvarligt skadas
-i trafiken. Är ett normativt mål, inte ett kvantitativt kortsiktsmål.
+Nollvisionen antogs av riksdagen 1997 (prop. 1996/97:137): ingen ska dödas
+eller allvarligt skadas i trafiken. Normativt mål, inte ett kvantitativt
+kortsiktsmål.
 
-**Nuläge**: Ca 200–230 döda per år i vägtrafikolyckor (2020-2024). Trenden
-är vikande sedan 2000 men planar ut. 
+**Etappmål 2030**: max 133 omkomna (halvering jämfört med 2017 års 266 omkomna).
+
+**Nuläge**: 213 omkomna 2024, 208 omkomna 2025 (prelim.). Trenden är vikande
+sedan 2000 men planar ut — gapet till etappmålet är stort.
+
+**Fullständig analys**: Se `references/nollvisionen-trafiksakerhet.md` för
+olycksstatistik 2013–2025, utmaningar, reformdebatt och TU-betänkanden.
 
 **Primärkälla**: Transportstyrelsen (officiell statistik), Trafikanalys
 (analyser och uppföljning), STRADA-databasen.

@@ -6,6 +6,8 @@
 
 Riksrevisionens rapporter i digitalt format — PDF på webb, HTML-version, interaktiva sammanfattningar — omfattas av DOS-lagen.
 
+**WCAG 2.2 — rättslig status:** WCAG 2.1 nivå AA är det formellt tillämpliga kravet via EN 301 549 v3.2.1. Europeisk harmoniserad standard EN 301 549 v4.1.1, som inkluderar WCAG 2.2, planeras 2026 och förväntas bli formellt krav via DOS-lagen. DIGG publicerade vägledning om WCAG 2.2 i augusti 2024. Proaktiv implementering av WCAG 2.2 rekommenderas redan nu. Källa: W3C WAI; DIGG aug 2024.
+
 ## Skrivregler för digital tillgänglighet (DT-1–DT-7)
 
 **Regel DT-1: Semantisk rubrikhierarki**
@@ -65,3 +67,17 @@ Skriv ut förkortningen första gången: "Myndigheten för digital förvaltning 
 **Regel DT-8: EAA i upphandlad digital service**
 När en myndighet upphandlar digitala tjänster som medborgare ska interagera med (e-handelslösning, bokningssystem, e-posttjänst, e-bok) ska förfrågningsunderlaget inkludera krav på EAA-överensstämmelse med hänvisning till Lagen (2023:254) och Förordningen (2023:676). Myndighetens egna dokument och webbplatser täcks av DOS-lagen — DT-1–DT-7 gäller oförändrat.
 *Stöd i EAA art. 14; Tillgänglighetslagen 6 §; prop. 2022/23:42*
+
+## WCAG 2.2 — Konsistent hjälp (DT-9)
+
+WCAG 2.2 antogs av W3C i oktober 2023 och introducerar 9 nya framgångskriterier jämfört med WCAG 2.1. Av dessa har **3.2.6 Consistent Help (nivå A)** direkt relevans för textredaktörer och dokumentutgivare — övriga rör interaktionsdesign och UI-mönster utanför textredaktörens ansvarsområde.
+
+**Regel DT-9: Konsistent hjälp och kontaktinformation (WCAG 2.2)**
+Om ett dokument eller en webbsida innehåller mekanismer för hjälp — kontaktuppgifter, länk till supportfunktion, FAQ-länk, chatbot-länk — ska dessa förekomma på samma plats och i samma ordning i hela dokumentet eller tjänsten. Inkonsekvent placering av hjälplänkar bryter läsarens förväntningar och skapar tillgänglighetshinder, i synnerhet för personer med kognitiva funktionsnedsättningar.
+
+Praktisk tillämpning för myndighetsdokument:
+- Om en rapport innehåller kontaktuppgifter (för frågor om granskningen) ska dessa vara placerade konsekvent — t.ex. alltid i sidfoten, alltid på samma sida.
+- Om en webbpublicerad rapport har en "Kontakta oss"-länk ska den återkomma på varje sida/avsnitt i samma position.
+- Regeln gäller *mekanismer för hjälp*, inte all kontaktinformation — löpande avsändaruppgifter i brödtext berörs inte.
+
+*WCAG 2.2, 3.2.6 Consistent Help (A). Rättslig status: proaktiv bästa praxis; formellt krav väntas via EN 301 549 v4.1.1 (planeras 2026).*

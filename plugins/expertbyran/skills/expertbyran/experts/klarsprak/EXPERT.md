@@ -71,9 +71,9 @@ Läs `references/ai-genererade-texter.md`. Tillämpa checklistan i ordning:
 2. AI-2–AI-9 — systematiskt igenom, markera fynd med referens till punkten
 Visa före/efter för de tre vanligaste problemen i den aktuella texten.
 
-### Granska digital tillgänglighet (DOS-lagen / EAA)
+### Granska digital tillgänglighet (DOS-lagen / EAA / WCAG 2.2)
 
-Läs `references/digital-tillganglighet.md`. Tillämpa DT-1–DT-7 för myndighetens egna publicerade dokument. Tillämpa DT-8 om uppdraget gäller upphandlad digital service. Markera vilken WCAG-regel som motiverar varje anmärkning.
+Läs `references/digital-tillganglighet.md`. Tillämpa DT-1–DT-7 för myndighetens egna publicerade dokument. Tillämpa DT-8 om uppdraget gäller upphandlad digital service. Tillämpa DT-9 om uppdraget rör WCAG 2.2 (3.2.6 Consistent Help) — konsistent placering av hjälp och kontaktinformation i digitala dokument. Markera vilken WCAG-regel som motiverar varje anmärkning. Notera att WCAG 2.1 AA är formellt krav i dag; WCAG 2.2 är proaktiv bästa praxis i väntan på EN 301 549 v4.1.1 (planeras 2026).
 
 ### Bedöma EU-lagspråk (redigerbart vs fastlåst)
 
@@ -95,7 +95,7 @@ Svara kort: är det nödvändigt fackspråk eller onödigt krångel? Föreslå a
 
 - `references/riktlinjer.md` — kondenserade klarspråksriktlinjer från Språkrådet och Klarspråksgruppen, med tabell över vanliga byråkratismer och checklista. Läs när du behöver påminna dig om de vedertagna principerna eller citera en auktoritativ källa till författaren.
 - `references/ai-genererade-texter.md` — 9-punktschecklista (AI-1–AI-9) för granskning av AI-genererade myndighetstexter; fyra typer av faktafel; AI-specifika komplement utöver Språkrådets standardriktlinjer; Riksrevisionens principer för AI-stödd rapportskrivning. Läs när texten är AI-genererad eller misstänkts vara det.
-- `references/digital-tillganglighet.md` — 8 skrivregler (DT-1–DT-8) för digitalt publicerade myndighetstexter; DOS-lagen (2018:1937) och WCAG AA; EAA/Tillgänglighetslagen (2023:254) och upphandlingskrav. Läs när texten ska publiceras digitalt eller upphandling av digital service granskas.
+- `references/digital-tillganglighet.md` — 9 skrivregler (DT-1–DT-9) för digitalt publicerade myndighetstexter; DOS-lagen (2018:1937) och WCAG 2.1 AA (formellt krav); WCAG 2.2 rättslig statusbild och DT-9 (3.2.6 Consistent Help — konsistent hjälp/kontakt); EAA/Tillgänglighetslagen (2023:254) och upphandlingskrav (DT-8); EN 301 549 v4.1.1 med WCAG 2.2 planeras 2026. Läs när texten ska publiceras digitalt, upphandling av digital service granskas, eller WCAG 2.2-krav diskuteras.
 - `references/eu-lagsprak.md` — taxonomi i fyra kategorier (fritt/direktiv/förordning/EU-institution); tre vanliga fallgropar; stöd i Ds 2019:28. Läs när texten innehåller EU-förordningscitat, direktiv-terminologi eller nationell implementeringslagstiftning.
 - `references/begriplighetsanalys.md` — LIX-formel (Björnsson 1968) och OVIX-formel (Holmberg/Språkbanken) med tolkningsskalor och metodbegränsningar (Lundberg & Reichenberg 2013); praktiskt mätexempel på FK-beslut med omskrivning. Läs när LIX-mätning begärs eller när texten behöver en kvantitativ komplexitetsbedömning.
 - `references/kognitiv-tillganglighet.md` — internationell plain language-standard CAN-ASC-3.1:2025; WCAG 3.0/COGA-arbetet; riksdagens ställning om lättläst-krav; RiR 2026:2 om språkhinder. Läs när uppdraget rör kognitiv tillgänglighet, lättläst-anpassning eller internationell jämförelse.

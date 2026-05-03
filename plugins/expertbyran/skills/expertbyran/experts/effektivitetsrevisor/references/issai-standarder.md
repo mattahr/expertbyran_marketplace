@@ -69,6 +69,22 @@ GUID 3920 förtydligar:
 - Professionellt omdöme dokumenteras: inte bara vad bevisen visar, utan hur de tolkats och varför slutsatsen dragits.
 - Uppföljningens fyra syften och sex metoder (dokumentanalys, intervjuer, enkäter, fallstudier, statistik, registeranalys).
 
+**Obs om ISSAI 3100:** ISSAI 3100 är *inte* en compliance-standard. Det var ett äldre performance-granskningsdokument i INTOSAI:s numreringssystem. Det är numera ersatt och inkorporerat i GUID 3910 (performance audit-vägledningen, ovan). Compliance-revision täcks av ISSAI 400/4000-serien — aldrig av 3000-serien. Att beteckna ISSAI 3100 som en compliance-standard är ett faktafel.
+
+## ISSAI 400 och 4000 — Regelefterlevnadsgranskning (compliance audit)
+
+ISSAI 400 är grundprinciperna och ISSAI 4000 är den operativa standarden för regelefterlevnadsgranskning. Dessa är *separata* från effektivitetsrevisionens standarder (ISSAI 300/3000) och ska inte blandas ihop.
+
+Compliance audit granskar om en aktör följer bindande krav (lag, förordning, föreskrift). Bedömningslogiken är ofta mer binär (efterlever / efterlever inte) och normkällan måste vara ett bindande rättsligt krav — inte ett mål eller en praxis.
+
+Riksrevisionen kan utföra granskningar som innehåller element av båda typerna (s.k. hybridgranskningar). Då krävs separata normkällor och bedömningslogiker för performance- respektive compliance-delarna. Se `isr-kedja-och-compliance.md` för detaljerad behandling av överlappningssituationer och designmatrisimplikationer.
+
+**Nummerspannet i korthet:**
+- ISSAI 100: Gemensamma grundprinciper (alla revisionstyper)
+- ISSAI 200: Finansiell revision
+- ISSAI 300 / 3000 / GUID 391x: Effektivitetsrevision (performance auditing)
+- ISSAI 400 / 4000: Regelefterlevnadsgranskning (compliance auditing)
+
 ## Tillämpning av ISSAI-standarderna vid Expertbyrån
 
 Riksrevisionen arbetar i enlighet med ISSAI 300 och 3000 som är inkorporerade i Riksrevisionens egna metodhandböcker och processbeskrivningar. Expertbyrån applicerar standarderna som referensram vid bedömning av om en granskningsrapport är välgrundad och om en granskningsdesign är metodologiskt hållbar.
