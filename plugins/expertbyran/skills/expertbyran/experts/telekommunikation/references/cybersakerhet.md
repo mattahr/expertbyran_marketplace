@@ -76,6 +76,10 @@ Stärkt lagstiftning fr.o.m. 1 maj 2024 — PTS kan besluta om deltagandekrav.
 
 **Paketet presenterades:** 20 januari 2026.
 
+**Lagstiftningsstatus (maj 2026):**
+- **CSA2 + NIS2-revisionen:** Trialogförhandlingar (rådet–parlamentet–kommissionen) pågår; politisk överenskommelse väntas **tidigt 2027**.
+- **CRA:** Rapporteringskrav fr.o.m. **11 september 2026**; övriga produktkrav fr.o.m. **11 december 2027**.
+
 **Två delar:**
 1. Reviderad Cybersecurity Act (CSA2)
 2. Direktiv med riktade NIS2-förenklingar

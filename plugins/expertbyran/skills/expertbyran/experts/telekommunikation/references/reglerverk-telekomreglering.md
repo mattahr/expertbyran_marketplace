@@ -34,6 +34,14 @@ Ersätter Utbyggnadsdirektivet (2014/61/EU) och i sak Bredbandslagen (2016:534).
 - *Tvistlösningsorgan* för tillträde, samordning och öppenhetstvister
 - *Tillsynsmyndighet* för GIA-efterlevnad (14 Mkr/år); sanktionsinstrument: vitesförelägganden
 
+**Kommunernas skyldigheter (art. 3–6):**
+- **Art. 3** — Kommuner (och andra offentliga organ) ska ge tillträde till sin fysiska infrastruktur (ledningsrör, master, brunnar, kabelskåp) för bredbandsutbyggnad på rimliga och icke-diskriminerande villkor.
+- **Art. 4** — Kommuner ska lämna information om sin infrastruktur till den centrala informationspunkten (SIP/PTS-portalen); informationen ska vara uppdaterad och tillgänglig digitalt.
+- **Art. 5** — Kommuner ska besvara platsundersökning (on-site survey request) inom **1 månad** från begäran.
+- **Art. 6** — Kommuner ska samordna markarbeten med berörda nätoperatörer och informera SIP i förväg så att samförläggning möjliggörs.
+- **Undantag:** Kommuner med färre än **3 500 invånare** kan beviljas undantag i upp till **12 månader** för att uppfylla skyldigheter i art. 3–6 (proportionalitetsventilen för små kommuner).
+- **PTS ny tillsynsroll mot kommuner:** GIA ger PTS befogenhet att utöva tillsyn och ta emot klagomål mot kommuner som inte uppfyller sina skyldigheter i art. 3–6. Tillsynsinstrument: vitesförelägganden.
+
 **Genomförandestatus Sverige (april 2026):**
 - Nov 2025: GIA direkt tillämplig; Bredbandslagen obsolet för överlappande delar
 - Feb 2026: Art. 10 (fiberinfrastruktur i byggnader) tillämpas
@@ -75,6 +83,10 @@ Ersätter Utbyggnadsdirektivet (2014/61/EU) och i sak Bredbandslagen (2016:534).
 - Källa: SOU 2024:18 (DocRec HCB318, 522 s.); sid. 80–109 för övergripande bild; sid. 84 tillsynstabellen; sid. 107–108 telekomoperatörers status
 
 ## EU Cybersecurity Package 2026
+
+**Lagstiftningsstatus (maj 2026):**
+- **CSA2 + NIS2-revisionen:** Trialogförhandlingar (rådet–parlamentet–kommissionen) pågår; politisk överenskommelse väntas **tidigt 2027**.
+- **CRA:** I kraft dec 2024; rapporteringskrav gäller fr.o.m. **11 september 2026**; övriga produktkrav gäller fr.o.m. **11 december 2027**.
 
 **Paketet (20 jan 2026) — två delar:**
 1. Reviderad Cybersecurity Act (CSA2)

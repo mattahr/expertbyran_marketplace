@@ -23,7 +23,9 @@ Senast uppdaterad: 2026-04-29
 - Total budget: €1,8 miljarder 2021–2027 (€900M EU + €900M industri)
 - Call 1–3: 80+ projekt finansierade
 - Call 4 (maj 2025): €104M, öppen t.o.m. sept 2025
-- Call 5 / Work Programme 2026: €116M till 20 projekt + €22M till 5 projekt (annonserat MWC 2026)
+- **Call 5 / Work Programme 2026:** €116M till 20 projekt + €22M till 5 projekt (annonserat MWC, mars 2026)
+- **Portfölj totalt (mars 2026):** ca **100 projekt / €630M** sedan start
+- **2027 — flaggskeppanrop:** >**€230M** planerat för storskaliga demonstrationer/flaggskeppsprojekt
 - Fokus: teknologisk suveränitet, säkerhet, samverkan med partner (USA, Japan, Sydkorea)
 
 **Källa:** smart-networks.europa.eu; digital-strategy.ec.europa.eu/en/policies/6g
@@ -52,7 +54,31 @@ Senast uppdaterad: 2026-04-29
 
 **Internationell samverkan:** EU, USA, Kanada, UK, Japan, Sydkorea, Singapore
 
+**Svenska 6G-aktörer och projekt (2025–2026):**
+
+| Aktör/projekt | Finansiering | Start | Fokus |
+|---|---|---|---|
+| **KTH 6G Center** | 60 Mkr (SSF) | Jan 2025 | Grundforskning 6G — kommunikationssystem, arkitektur, AI-integrering |
+| **VICTOR6G** (KTH/Ericsson m.fl.) | €5,4M (SNS JU) | Jan 2026 | 6G virtuell infrastruktur och resursoptimering |
+| **Chalmers/Saab/SweGaN** | (Vinnova/SNS JU) | Pågående | GaN-halvledarteknik för 6G-basstation — stärker EU:s halvledarbas |
+
+- SSF = Stiftelsen för strategisk forskning
+- SweGaN är ett Linköping-baserat fabless-bolag specialiserat på galliumnitrid (GaN) för RF-komponenter
+
 ---
+
+## Global kapplöpning — aktörsbild och halvledarsårbarhet
+
+**Kina:**
+- Ledande nation i 6G-investering: >**1 miljard USD** i statligt finansierad FoU
+- >**12 000 patent** kopplade till 6G-teknik (inkl. 5G-NR-evolution mot 6G)
+- Statliga champion: Huawei, ZTE, CAICT (China Academy of Information and Communications Technology)
+- Risken för EU: standardiseringsinfluens om Kina driver fler patent i 3GPP/ITU
+
+**EU — styrkor och sårbarhet:**
+- Stark FoU-position: SNS JU-portfölj, Ericsson, Nokia Bell Labs, akademisk kapacitet
+- **Halvledarsårbarhet:** EU saknar inhemsk GaN- och avancerad chipstillverkning i tillräcklig skala. 6G-basstation-chipp är beroende av icke-EU-fabriker (TSMC, GlobalFoundries). Chalmers/Saab/SweGaN-projektet är ett direkt svar på denna sårbarhet.
+- EU Chips Act (2023) adresserar på lång sikt, men 6G-tidslinjen (2030) är kort
 
 ## Risk: Svensk eftersläpning
 
