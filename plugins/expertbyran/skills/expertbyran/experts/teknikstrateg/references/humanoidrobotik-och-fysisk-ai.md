@@ -140,3 +140,56 @@ Breakeven mot mänsklig arbetstagare i tillverkning: analytiker estimerar 3–5 
 
 - Export av humanoid-AI till Kina: USA-exportkontroller kan komplicera internationell marknadsföring
 - Kinesiska humanoidrobotar i västerländska fabriker: supply chain security-frågor
+
+---
+
+## Marknadsvolymer och Aktörer 2026
+
+### Leveransvolymer
+
+Branschanalytiker räknar med **50 000–100 000 humanoidrobotleveranser** under 2026 (konservativa estimat: 30 000). Storskalig ramp beräknas 2027. Priser faller mot $15 000–$20 000 per enhet i takt med volymproduktion.
+
+### Kompletterande Aktörer (utöver Atlas, Figure, Digit)
+
+**Tesla Optimus Gen 3:**
+- Driftsatt i Fremonts fabrik för materialhantering och monteringsassistans
+- Tesla planerar intern ramp till 10 000+ enheter 2026 (intern användning primärt)
+- Direkt driven av Tesla FSD-teknik och Dojo-supercomputer
+
+**Amazon + Agility Robotics Digit:**
+- Digit deployad i Amazons distributionscenter för tote-hantering och hyllpåfyllning
+- Amazon investerade i Agility Robotics 2023; kommersialiseringspartner
+- Komplement till Amazons befintliga Kiva/Sequoia-robotflotta
+
+---
+
+## Arbetsmarknadseffekter — Scenarier och Tidplan
+
+### Kvantitativa Scenarier
+
+| Källa | Prognos | Tidhorisont |
+|-------|---------|-------------|
+| McKinsey Global Institute | 400–800M jobb förflyttade (14% av global arbetskraft byter yrke) | Till 2030 |
+| WEF Future of Jobs Report 2025 | +170M nya jobb, −92M försvinner, netto +78M | Till 2030 |
+
+**Nyckelinsikt om scenariospridning:** Divergensen beror primärt på antaganden om anpassningshastighet, utbildningssystem och arbetsmarknadspolitik — inte på teknologisk oenighet. Humanoidrobotik tillkommer ovanpå generativ AI-automation; kombinationseffekten är svårmodellerad och innebär att McKinseys störande scenario är mer sannolikt vid låg politisk anpassning.
+
+### Realistisk Tidplan för Marknadspenetration
+
+| Sektor | Storskalig penetration |
+|--------|----------------------|
+| Tillverkning (industri, logistik) | 2028–2032 |
+| Tjänstesektorn (sjukvård, detaljhandel) | 2030–2035 |
+
+De flesta driftsättningar 2025–2026 är tidig fas med tung mänsklig övervakning. Kommersiell skalning kräver regulatoriska vägar, certifieringsregimer och arbetsplatsgodkännanden — inte primärt tekniska genombrott.
+
+### Politiska Konsekvenser
+
+- Fackförbund kräver transparens och förhandlingsrätt vid robotintroduktion
+- EU AI Act och kommande reglering av autonoma fysiska system
+- Diskussion om "robot tax" och omfördelningsmekanismer
+- Omskolningsbehov i offentlig sektor: AMS, komvux, yrkesutbildning behöver anpassas för humanoidrobotikens arbetsmarknadseffekter
+
+### Implikation för Offentlig Sektor i Sverige
+
+Humanoidrobotikens primära omedelbara påverkan på svenska myndigheter är indirekt: arbetsmarknadspolitik, omställningsstöd och yrkesutbildningarnas dimensionering. Direkt robotik-adoption i offentlig verksamhet (sjukvård, äldreomsorg) ligger på 2030+ horisont med osäker regulatorisk bana.

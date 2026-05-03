@@ -1,6 +1,6 @@
 # Suverän AI och Geopolitik 2026 — Referensmaterial
 
-*Källa: omvärldsbevakning april 2026. Data från Euronews, S&P Global, IDC, IBM, Scalefocus, WEF.*
+*Källa: omvärldsbevakning april–maj 2026. Data från Euronews, S&P Global, IDC, IBM, Scalefocus, WEF, Europeiska kommissionen, Regeringen.se, AI Sweden.*
 
 ---
 
@@ -61,9 +61,27 @@ Konsekvens för globala aktörer: allt fler organisationer tvingas välja camp (
 
 ## Europeiska Suveränitetsinitiativ — Detaljdata
 
+### EU AI Continent Action Plan (2025–2027)
+
+**Investeringsmål:** €200 miljarder totalt (offentligt + privat). Fokus: beräkningskraft, data, talang, regulatorisk miljö.
+
+**AI Factories:** 13 fabriker valda, verksamma i 17 medlemsstater. Varje fabrik kombinerar AI-optimerade superdatorer, dataresurser och kompetenscenter.
+
+**EuroHPC-expansion:** 9 nya AI-optimerade superdatorer upphandlas och driftsätts 2025–2026. Befintlig kapacitet mer än tredubblas.
+
+**Konkreta infrastruktursatsningar (urval):**
+- **EURO-3C** (Telefónica + EU): €75M federerat molnnätverk som kopplar ihop nationella noder — implementering av den federerade infrastrukturmodell som Gaia-X misslyckades leverera
+- Mistral Paris data center: €830M
+- Deutsche Telekom Industrial AI Cloud: 0,5 ExaFLOPS
+- EU Cloud and AI Development Act (CADA): förenklar tillståndsgivning för datacenter
+
+**Summit om digital suveränitet (november 2025):** Frankrike och Tyskland kallade till gemensamt toppmöte. Slutsats: joint task force som rapporterar 2026. Agenda: AI, data, offentlig infrastruktur.
+
+**Marknadssignal:** 61% av europeiska CIO:er planerar att öka beroendet av lokala moln- och AI-leverantörer (Gartner 2025 CIO Survey).
+
 ### EU InvestAI (2026)
 
-- **Volym**: €200 miljarder total
+- **Volym**: €200 miljarder total (ingår i AI Continent Action Plan ovan)
 - **Fokusområden**: compute-infrastruktur, europeiska foundational models, AI-kompetens, demokratiserat high-performance computing-tillgång
 - Kanaliserat via: EIB (Europeiska investeringsbanken), InvestEU-programmet, nationella kofinansieringar
 
@@ -156,6 +174,26 @@ NVIDIA kontrollerar ~80% av AI-accelerator-marknaden (H100/H200/B200-familjen). 
 | AWS Trainium 2 | Kostnadseffektiv för AWS-träning | Låst till AWS |
 | Huawei Ascend 910B | Kinas svar, ~60–70% av H100 | Geopolitisk exponering, låst ekosystem |
 
-### Strategisk Rekommendation
+---
+
+## Sveriges Nationella AI-Strategi (februari 2026)
+
+Sveriges regering antog landets första samlade AI-strategi i februari 2026.
+
+**Nyckeldelar:**
+- **Nationellt AI-verkstad** för offentlig förvaltning — ska vara operativt 2030, erbjuder gemensam infrastruktur och lösningsdelning för myndigheter
+- Investering i svenska språkmodeller tränade på svenska data (juridisk precision, kulturell kontext, minskad geopolitisk sårbarhet)
+- Digitalisering av nationalarkiv för inhemskt modellträning
+- Minst ~$11M/år till nya AI-forskningsinstitut och excellenskluster
+
+**Styrkor att bygga på:** Världsledande forskning i ML, språkmodeller, datorseende och AI-säkerhet. Tillgång till fossilfri el och gynnsamt klimat för beräkningsintensiv infrastruktur.
+
+**Privat momentum:** Svenska AI-startups reste €454M i 2025 — mer än tredubbelt mot föregående år.
+
+**Implikation för myndigheter:** Det nationella AI-verkstadet innebär att myndigheter 2026–2030 befinner sig i en uppbyggnadsfas. Strategiska beslut om AI-infrastruktur idag bör beakta kompatibilitet med det kommande gemensamma verkstadet för att undvika framtida konvergenskostnader.
+
+---
+
+## Strategisk Rekommendation
 
 Organisationer bör designa AI-infrastruktur med multi-vendor-approach: primärt NVIDIA, men med förmåga att skifta till AMD/TPU/Trainium vid supply chain-störning. AMD ROCm-ekosystem mognar snabbt och är den realistiska backup-planen för 2027+.

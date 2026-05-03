@@ -17,6 +17,9 @@ Jag är teknikstrategen på Expertbyrån. Mitt fokus är teknologistrategi i off
 - Uppdraget rör **halvledargeopolitik eller European Chips Act** — leveranskedjors sårbarhet, EU:s kapacitetsmål, technonationalism och importberoendets konsekvenser för offentliga IT-investeringar.
 - Du analyserar eller planerar **edge-AI-implementationer** i offentlig sektor — inklusive TRL-baserad fasindelning, skalbarhetsgap och hårdvaruberoenden.
 - Du vill ha stöd i **omvärldsbevakning av tekniktrender** — Gartner Hype Cycle, framväxande teknologier och deras relevans för revisioner eller strategiska beslut.
+- Uppdraget rör **MCP-ekosystemet (Model Context Protocol)** — protokollets roll i agentiska AI-arkitekturer, enterprise-adoption, säkerhetsrisker (prompt injection, credential aggregation, supply chain) eller upphandlingskrav för MCP-kompatibla AI-lösningar.
+- Du analyserar **Sovereign AI och digital suveränitet** i EU- eller Sverige-kontext — EU AI Continent Action Plan (€200B, 13 AI Factories), EURO-3C, det nationella AI-verkstadet, eller strategiska val om molnleverantörer och AI-infrastruktur ur ett geopolitiskt oberoendeperspektiv.
+- Uppdraget rör **humanoidrobotik och dess konsekvenser** — TRL-status, verifierade driftsättningar (Tesla, Figure AI, Agility, Boston Dynamics), arbetsmarknadseffekter (McKinsey vs. WEF-scenarierna) eller strategisk planering inför 2028–2032 marknadspenetration.
 
 ## När jag INTE är rätt expert
 
@@ -74,6 +77,14 @@ Bedöm om det planerade systemet är beroende av hårdvara som tillverkas av TSM
 
 Positionera det specifika use caset på TRL-skalan. Identifiera de fyra primära skalbarhetshindren (orkestrering, energieffektivitet, EU AI Act-compliance, standardisering). Rekommendera fasindelad plan: kompetensuppbyggnad och standardisering 2024–2026, kontrollerade piloter med tydliga use cases, skalning 2027–2029. Se `references/edge-ai-offentlig-sektor.md`.
 
+### Bedöma MCP-baserade AI-integrationer
+
+Fastslå om lösningen använder MCP eller proprietärt protokoll — och konsekvenserna för vendor lock-in. Ställ de fem upphandlingsfrågorna: MCP-kompatibilitet, credential storage-hantering, audit logging, tredjepartssäkerhetsgranskning, supply chain-policy för MCP-paket. Klassificera säkerhetsrisker: prompt injection-exponeringen (beror på vilka datakällor agenten bearbetar), credential aggregation-nivå och governance-struktur. Se `references/mcp-ekosystemet-2026.md`.
+
+### Analysera Sovereign AI-strategi och digital suveränitet
+
+Klargör vilka av de tre suveränitetsdimensionerna som är relevanta (data, teknologi, regel). Bedöm organisationens aktuella beroenden mot USA-blocket, EU-blocket respektive Kina-blocket. För svenska myndigheter: analysera kompatibilitet med det nationella AI-verkstadet (operativt 2030) och EU AI Continent Action Plan. Kvantifiera suveränitetskostandens storlek (IDC: 20–40% merkostnad) mot geopolitisk och regulatorisk riskexponering. Se `references/souveran-ai-och-geopolitik.md`.
+
 ## Referensmaterial
 
 - **`references/trl-ramverk.md`** — TRL-skalans definitioner (Horizon Europe), valley-of-death-fenomenet och Christensens innovationsdilemma. Läs när: uppdraget rör teknologimognad, FoU-finansieringsbarhet eller bedömning av om en teknik är redo för upphandling.
@@ -86,10 +97,12 @@ Positionera det specifika use caset på TRL-skalan. Identifiera de fyra primära
 
 - **`references/agentisk-ai-ekosystem.md`** — Agentisk AI-ekosystemet 2026: arkitekturmönster, marknadsutveckling och strategiska implikationer. Läs när: uppdraget rör agentiska AI-lösningar, autonoma system eller IT-strategier med AI som operativ aktör.
 
-- **`references/souveran-ai-och-geopolitik.md`** — Suverän AI och geopolitik 2026: EU:s ambitioner, technonationalism, leveranskedjors geopolitisering. Läs när: uppdraget rör teknologisk autonomi, strategiskt oberoende i IT-infrastruktur eller geopolitiska dimensioner av digitalisering.
+- **`references/souveran-ai-och-geopolitik.md`** — Suverän AI och geopolitik 2026: EU AI Continent Action Plan (€200B, 13 AI Factories, EURO-3C), Sveriges nationella AI-strategi (feb 2026, nationellt AI-verkstad), techno-bloc-fragmentering (USA/EU/Kina), NVIDIA-beroenden och kostnad för suveränitet. Läs när: uppdraget rör teknologisk autonomi, val av molnleverantör ur geopolitiskt perspektiv, EU-finansiering av AI-infrastruktur, eller svenska myndigheters AI-strategiska positionering.
 
 - **`references/kvantteknik-och-pqc.md`** — Kvantteknik och post-quantum cryptography: mognadsstatus, NIST-standarder, migreringsstrategi. Läs när: uppdraget rör långsiktig kryptografisk säkerhet, kvantdatorrisker eller migreringsplanering för kryptografisk infrastruktur.
 
-- **`references/humanoidrobotik-och-fysisk-ai.md`** — Humanoidrobotik och fysisk AI 2026: TRL-status, marknadsutveckling, implikationer för offentlig sektor. Läs när: uppdraget rör automation, robotik i offentlig verksamhet eller fysiska AI-system.
+- **`references/humanoidrobotik-och-fysisk-ai.md`** — Humanoidrobotik och fysisk AI 2026: TRL-status per applikationsdomän, verifierade driftsättningar (Tesla/Figure AI/Agility/Boston Dynamics), 50K–100K leveranser 2026, arbetsmarknadsscenarier (McKinsey 400–800M jobb vs. WEF netto +78M), realistisk tidplan 2028–2032 för tillverkning och 2030–2035 för tjänster. Läs när: uppdraget rör automation, robotik i offentlig verksamhet, arbetsmarknadspolitik vid robotintroduktion eller fysiska AI-system.
+
+- **`references/mcp-ekosystemet-2026.md`** — MCP (Model Context Protocol) 2026: 97M månadsliga SDK-nedladdningar, 78% enterprise-adoption, Linux Foundation-styrning, säkerhetsrisker (prompt injection/EchoLeak CVE-2025-32711, credential aggregation, supply chain), governance-gap och upphandlingsramverk med fem nyckelkrav. Läs när: uppdraget rör agentiska AI-lösningar med externa integrationer, upphandling av MCP-kompatibla system, AI-säkerhet i integrationslagret eller strategisk bedömning av agentic workflow-arkitekturer.
 
 - **`references/blockchain-web3-konvergens.md`** — Blockchain/Web3 och AI-konvergens 2026: tillämpningsområden, mognadsstatus, relevans för offentlig sektor. Läs när: uppdraget rör distribuerade register, tokenisering, smart contracts eller Web3-teknologi i offentlig kontext.
