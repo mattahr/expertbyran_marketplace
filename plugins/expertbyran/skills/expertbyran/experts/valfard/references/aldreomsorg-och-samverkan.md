@@ -150,6 +150,54 @@ konstitutionellt problematisk.
 
 ---
 
+## Kompetensförsörjning — strukturellt underskott och Äldreomsorgslyftet
+
+### Strukturellt underskott
+
+Äldreomsorgen möter ett strukturellt kompetensförsörjningsproblem:
+
+- Demografidrivna krav ökar — fler äldre med komplexa vårdbehov
+- Rekryteringsunderskott: brist på undersköterskor med godkänd examen
+- Låg lönattraktivitet och hög sjukfrånvaro inom sektorn
+- Undersköterskeyrket reglerades (Prop. 2020/21:175): skyddad yrkestitel fr.o.m.
+  2025 — de utan godkänd examen får inte använda titeln
+
+### Äldreomsorgslyftet (2020–2026)
+
+Statlig satsning för att höja kompetensnivån bland personal i kommunal vård
+och omsorg.
+
+| Period | Finansiering |
+|---|---|
+| 2020–2023 | ~7,3 mdr kr (statsbidrag via Socialstyrelsen) |
+| 2024–2026 | 1,7 mdr kr/år |
+
+**Uppdrag:** Kommunerna (och fr.o.m. 2024 privata utförare) erbjuder personal att
+delta i utbildning på betald arbetstid. Statsbidraget täcker vikariatkostnader
+och kursavgifter.
+
+**Resultat 2022** (SOU 2024:78 s. 92; bet. HB01SoU20):
+- ~5 100 anställda påbörjade undersköterska-utbildning
+- ~3 000 avslutade utbildningen med godkänt resultat
+- Avbrottsfrekvens ca 40 % — huvudsakligen p.g.a. vikariatssvårigheter och
+  dubbelarbete
+
+**Utvidgning 2024** (HSLF-FS 2023:14): Satsningen utvidgades till att inkludera:
+- Valideringsinsatser (bedömning av reell kompetens)
+- Språkutveckling i svenska för yrkesändamål
+- Privata utförare fick ta del av statsbidraget
+
+### Granskningsbara frågor
+
+1. Ger Äldreomsorgslyftet varaktig kompetensnivåhöjning eller är det
+   kortsiktig genomströmning?
+2. Hur hanteras avbrottsproblemet — är 40 % avbrottsfrekvens systemisk
+   och vad förklarar den?
+3. Håller kommunerna kompetensen efter det att statsbidraget löper ut 2026?
+4. Är valideringsinsatserna jämförbara i rigor med den formella utbildningsvägen?
+
+---
+
 ## Centrala källtexter
 
 | Källa | År | Vad den ger |

@@ -110,3 +110,55 @@ Djup yrkesomskolning tar 1–2 år. Under den perioden uppfylls inte aktivitetsk
 ### Gap 7 — Brist på samordning och individperspektiv
 
 Fyra–fem parallella system med överlappande målgrupper skapar informationsasymmetrier. ESO 2022:2: avtalsförsäkringar (inkl. omställning) är "dolda och okända för individen". AI-kommissionen (SOU 2025:12) efterlyser partsgemensam diskussion om ansvarsfördelning men ingen koordineringsstruktur finns.
+
+---
+
+## KOK (Offentliga omställningsstödet) — Utvärderingsstatus 2024–2026
+
+### SOU 2025:74 — Ny reglering för arbetsmarknadspolitisk verksamhet
+
+**SOU 2025:74**
+- PDF: https://data.riksdagen.se/dokument/HDB374.pdf
+- Vad: Utredning om ny lagstiftning och struktur för hela den arbetsmarknadspolitiska verksamheten. Innehåller ingående beskrivning av KOK:s systemdesign och nuläge.
+- Relevanta avsnitt: s. 102 (Kammarkollegiets datainsamlingsuppdrag); s. 417 (KOK:s tjänster och flöden)
+
+### KOK:s tre huvudtjänster (per SOU 2025:74)
+
+| Tjänst | Aktiveras av | Innehåll |
+|--------|-------------|----------|
+| Rådgivning för anställda (kompetensstöd) | Pågående anställning | Vägledning och rådgivning, proaktivt |
+| Rådgivning + yttrande för uppsagda (omställningsstöd) | Anställning upphört p.g.a. arbetsbrist | Coachning, rådgivning, max 12 mån |
+| Yttrande inför CSN | Individ ansöker om omställningsstudiestöd | Omställningsorganisationen bedömer ändamålsenlighet |
+
+**Leverantörssystemet:** KOK:s tjänster utförs av *upphandlade leverantörer* (ej statliga utförare) som rapporterar månadsvis till Kammarkollegiet om genomförda aktiviteter.
+
+**Täckning:** Riktar sig till anställda och uppsagda *utan* kollektivavtal — dvs. den grupp som de tre stora kollektivavtalade systemen (TRR, TRS, Omställningsfonden) inte når.
+
+### Kammarkollegiets datainsamlingsuppdrag — juni 2024
+
+**Bakgrund:** Regeringen gav Kammarkollegiet ett uppdrag den 13 juni 2024 att samla in data för *analys, uppföljning och utvärdering* av KOK-stödet.
+
+**Vad detta innebär:**
+- Formella förberedelser för en framtida effektutvärdering har inletts
+- Men per 2026 saknas fortfarande formell IFAU-studie eller annan effektstudie
+- KOK är ur effektperspektiv fortfarande ett "black box" — ingen vet om det faktiskt stärker de stödtagnas arbetsmarknadsposition
+
+### KOK vs. kollektivavtalad omställning — jämförelse
+
+| Dimension | KOK (Kammarkollegiet) | Kollektivavtalad (TRR, TRS) |
+|-----------|----------------------|------------------------------|
+| Volymer | Okänt — ingen offentlig statistik | TRR: ~80 000/år; TRS: ~10 000/år |
+| Finansiering | Statlig, via anslag | Arbetsgivar- och löntagaravgifter |
+| Kvalitet/effekt | Okänd (ingen effektstudie) | TRR-studier finns men äldre |
+| Täckning | Anst. utan koll.avtal + utanför RaM | ~90% kollektivavtalade (tillsv. ≥12 mån) |
+
+**Kritisk fråga (ännu obesvarad):** Når KOK de individer som kollektivavtalad omställning *inte* når? SOU 2025:74 beskriver systemet men ger inga svar på denna fråga.
+
+### Implikation för analys
+
+Omställningssystemets fem delar ser ut att täcka det flesta fall på pappret. Men KOK:s roll i helheten är oklart ur tre perspektiv:
+1. **Volym** — hur många individer faktiskt nås
+2. **Effekt** — om stödet faktiskt förbättrar arbetsmarknadsutfall
+3. **Samordning** — om KOK-stödet är koordinerat med a-kassa, omställningsstudiestöd och RaM för den enskilde
+
+Denna trippla osäkerhet gör det svårt att hävda att systemet som helhet täcker gapet för kollektivavtalslösa — det *kan* göra det, men evidens saknas.

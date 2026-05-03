@@ -245,7 +245,52 @@ Ledningsorgan (styrelse/generaldirektör) ska genomgå utbildning om cybersäker
 
 Inkluderar: böter, förelägganden, förbud mot ledningsfunktion (kan träffa generaldirektörer och styrelseledamöter personligen).
 
-### 6.6 Parallell tillämpning med AI-förordningen
+### 6.6 Tre granskningsobjekt ur riksrevisionsperspektiv
+
+NIS2/cybersäkerhetslagen ger upphov till tre distinkta granskningsobjekt — Riksrevisionen väljer nivå beroende på syfte:
+
+| Granskningsobjekt | Beskrivning | Bedömningsgrund | Rekommendationsmottagare |
+|-------------------|-------------|-----------------|--------------------------|
+| **1. Verksamhetsutövare** | Uppfyller de berörda myndigheterna och organisationerna de tio säkerhetsåtgärdskategorierna (NIS2 art. 21)? Har de ledningsutbildning? Rapporterar de incidenter i tid? | Cybersäkerhetslagen + NIS2 art. 21 + förordningens krav på respektive sektor | Berörda myndigheter/verksamhetsutövare |
+| **2. Tillsynsmyndigheter** | Utövar de sektoriella tillsynsmyndigheterna tillsyn i enlighet med sina befogenheter? Är tillsynen riskbaserad och proportionerlig? | Cybersäkerhetslagen + respektive sektorslag + tillsynsmyndighetens instruktion | Respektive tillsynsmyndighet och/eller regeringen |
+| **3. Regeringsstyrning** | Har regeringen inrättat en sammanhängande och effektiv tillsynsstruktur? Koordineras de sektoriella tillsynsmyndigheterna? Är NIS2:s nationella strategi genomförd? | NIS2 art. 7 (nationell strategi), art. 8 (behöriga myndigheter), art. 14 (nationell ram) | Regeringen (Finansdepartementet/DIGG) |
+
+**Riksrevisionen undantas** som myndighet under riksdagen — Riksrevisionen är inte verksamhetsutövare i NIS2:s mening och kan alltså granska utan att vara granskningsobjekt.
+
+### 6.7 Sektoriella tillsynsmyndigheter under cybersäkerhetslagen
+
+| Sektor | Tillsynsmyndighet | Anmärkning |
+|--------|-------------------|------------|
+| Elektronisk kommunikation / digital infrastruktur | PTS (Post- och telestyrelsen) | Primär NIS2-tillsynsmyndighet |
+| Energi (el, gas, fjärrvärme) | Energimarknadsinspektionen (Ei) | |
+| Transport (väg, järnväg, luftfart, sjöfart) | Transportstyrelsen | |
+| Hälso- och sjukvård | IVO (Inspektionen för vård och omsorg) | |
+| Bank och finansmarknadsinfrastruktur | Finansinspektionen (FI) | |
+| Digitala tjänster (molntjänster, sökmotorer, plattformar) | PTS | Sektorsövergripande digitala tjänster |
+| Dricksvatten | Livsmedelsverket + kommunal tillsyn | Delad tillsyn |
+| Avloppsvatten | Naturvårdsverket + kommunal tillsyn | Delad tillsyn |
+| Rymden | Rymdstyrelsen (SNSA) | |
+| Offentlig förvaltning | MSB / DIGG (samordning) | Statliga myndigheter under regeringen |
+| Post | PTS | |
+| Produktion och distribution av livsmedel | Livsmedelsverket | |
+
+**Övergripande koordinering:** NCSC (Nationellt cybersäkerhetscenter) — tvärfunktionellt organ med SÄPO, FRA, FMV, MSB. Uppgift: operativ koordinering av cyberhot och vägledning till tillsynsmyndigheter.
+
+**Portalövergång 2026:** MCF (Myndigheten för cybersäkerhet och integritetsskydd, fd MSB:s del) övergår till FRA-led NCSC-struktur under 2026. Konsekvens för incidentrapporteringskedjan är ett aktivt osäkerhetsmoment vid granskningar under 2026.
+
+### 6.8 Sanktionssystem
+
+| Typ av åtgärd | Tillämpning |
+|---------------|-------------|
+| Böter (viktiga entiteter) | Upp till 10 MEUR eller 2 % av global omsättning (det högsta beloppet) |
+| Böter (viktiga tjänster — lägre kategori) | Upp till 7 MEUR eller 1,4 % av global omsättning |
+| Föreläggande | Kräva att specifika åtgärder vidtas; kan kombineras med löpande vite |
+| Förbud att utöva ledningsfunktion | Personligt ansvar för GD/VD/styrelseledamöter — kan riktas individuellt |
+| Offentliggörande | Tillsynsmyndigheten kan offentliggöra identitet på överträdare (NIS2 art. 32.4 g) |
+
+**Mandatanalys:** Riksrevisionen kan granska *om* tillsynsmyndigheterna använder sina sanktionsbefogenheter — men kan inte rekommendera ett specifikt sanktionsbeslut. Rekommendationen riktas mot tillsynsmyndigheten om sanktionsbefogenheterna underutnyttjas strukturellt.
+
+### 6.9 Parallell tillämpning med AI-förordningen
 
 Myndigheter i känsliga sektorer (t.ex. energi, transport, hälsa) som också deployar bilaga III högrisk-AI-system kan stå under *dubbelt tryck*: cybersäkerhetslagens krav + AI-förordningens deployer-skyldigheter. Revisionsfrågebanken (avsnitt 3) och cybersäkerhetsanalys bör genomföras parallellt.
 

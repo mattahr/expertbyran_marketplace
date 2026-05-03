@@ -105,9 +105,34 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 - Sverige: tapp 2000–2012, återhämtning 2015–2022. År 2022: matematik 482p (OECD-snitt 472), läsning 497p.
 - Varning: sammansättningseffekter (invandring, andel i gymnasiet) påverkar trender; Gustafsson & Yang-Hansen (2017) analyserar detta.
 - Relevant för: internationella jämförelser, systemöverblick.
+- **OBS: PISA 2025** — resultaten publiceras 8 september 2026.
+
+**Skolverket: "PISA 2022 och betygen"** (april 2025)
+- Analyserar kopplingen mellan betygssättning och PISA-resultat på skol- och individnivå.
+- Fynd 1: Stark korrelation betyg–PISA på skolnivå, men stora individuella avvikelser — betyg och PISA mäter delvis olika saker.
+- Fynd 2: Tydliga könsskillnader — flickor har systematiskt högre betyg relativt PISA-resultat; pojkar minskar gapet i PISA-matematik men inte i betyg.
+- Fynd 3: Socioekonomisk genomslagseffekt: 2022-nedgången förklaras delvis av faktisk kunskapsutveckling, inte enbart betygsinflation — frikopplar inflationsberättelsen från all nedgång.
+- Relevant för: betygsinflationsgranskningar, könsanalys i betyg, PISA-tolkning, likvärdighetsgranskning.
 
 **Gustafsson, J-E & Yang-Hansen, K. (2017): "Changes in the impact of family education on student achievement in Swedish schools 1998–2014"** (Scandinavian Journal of Educational Research)
 - Visar att familjebakgrundens effekt på skolresultat ökade under perioden — relevant för likvärdighets­diskussionen.
+
+---
+
+## Friskolor och reglering
+
+### SOU:er
+
+**SOU 2025:37 — delbetänkande, Utredningen om vinst i skolan (U 2022:08)**
+- Föreslår värdeöverföringsförbud (vinster får ej tas ut ur verksamheten), skärpta ekonomikrav för att få och behålla tillstånd, utökade sanktionsmöjligheter för Skolinspektionen.
+- Kontext: Friskolesektorn 2025 — ca 423 000 elever i friskolor (grundskola + gymnasium), 74 % drivs av aktiebolag, 43 % av friskoleeleverna går i skola som tillhör topp-10-koncernerna.
+- Relevant för: friskoleregleringsgranskningar, tillståndssystem, ägarstrukturer, vinstuttagsproblematiken.
+
+**SOU 2025:123 — slutbetänkande, Utredningen om vinst i skolan (U 2022:08)**
+- Föreslår karenssystem: skolhuvudmän som drabbas av tillsynsingripanden (föreläggande, återkallat tillstånd) beläggs med karens som hindrar expansion under en period.
+- Förvärvsförbud: aktörer med allvarliga brister får inte förvärva ytterligare skolor.
+- Ny prövning vid väsentliga ägarförändringar: Skolinspektionen ska pröva om ny ägare uppfyller lämplighetskraven.
+- Relevant för: reglering av expansion, tillsynseffektivitet, ägarkoncentration i sektorn.
 
 ---
 
@@ -136,6 +161,8 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 | Likvärdighet/segregation | SOU 2020:28, RiR 2019:6 | IFAU 2014:12 |
 | Betygsinflation | RiR 2022:15, Vlachos 2018 | `metoder.md` → SALSA |
 | Friskolors effekter | IFAU 2014:12, IFAU 2016:9 | `metoder.md` → IV |
+| Friskola — reglering | SOU 2025:37, SOU 2025:123 | SOU 2020:28 (kontext) |
 | Styrning/statsbidrag | RiR 2017:18, RiR 2015:18 | SOU 2022:53 |
 | PISA-tolkning | OECD PISA 2022 | Gustafsson & Yang-Hansen 2017 |
+| Betyg–PISA-koppling | Skolverket "PISA 2022 och betygen" (2025) | `metoder.md` → SALSA |
 | Förskola | SOU 2024:1, Skolverket lägesbedömning | IFAU (förskoleintensitet) |

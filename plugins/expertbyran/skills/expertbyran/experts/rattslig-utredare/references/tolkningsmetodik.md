@@ -251,4 +251,69 @@ Steg 3: Statsskadeståndsansvar? (Francovich-principen)
 
 ---
 
-*Källor: FL 5 §; RF 2:15, 2:21, 8 kap.; Prop. 2016/17:180; Prop. 2017/18:235; SOU 2024:52; SOU 2025:2; SOU 2026:20; Prop. 2025/26:224; RÅ 1999 ref. 76; HFD 2022 ref. 10; C-26/62 Van Gend en Loos; C-14/83 Von Colson; C-106/89 Marleasing; Mål 283/81 CILFIT; C-713/23 Wojewoda Mazowiecki; C-4/23 Mirin; Art. 267 FEUF; Art. 5.4 EU-fördraget; Art. 52.1 EU-stadgan; RiR 2025:21; Skr. 2024/25:115; Lag (2006:502) med vissa bestämmelser om förhandsavgörande från EU-domstolen.*
+## 8. EU-förordningars direkta tillämplighet — bedömningsgrundsstrategi
+
+### 8.1 Rättslig grund: art. 288 TFEU
+
+EU-förordningar (till skillnad från direktiv) är **direkt tillämpliga** i alla EU:s medlemsstater. De träder i kraft utan nationellt genomförande och skapar omedelbart rättigheter och skyldigheter för myndigheter, företag och enskilda (art. 288 stycke 2 TFEU).
+
+**Konsekvens för revisionsarbete:** En EU-förordning kan alltid användas som primär bedömningsgrund — utan att man behöver leta efter en genomförandelag. Det som krävs är att identifiera vilken artikel som gäller, att förordningen är ikraftträdd, och att den nationella aktören faller inom tillämpningsområdet.
+
+### 8.2 Spärrverkan — nationella föreskrifter som är förbjudna
+
+EU-domstolen har slagit fast att nationell lagstiftning som **täcker om** (repeats/covers) eller **strider mot** en EU-förordnings regler är förbjuden — även om den formellt inte avviker (C-39/72 kommissionen mot Italien; C-272/83 kommissionen mot Italien):
+
+- Nationella regler som upprepar en förordnings innehåll är otillåtna, eftersom de skapar en risk för att den nationella versionen tolkas självständigt och avviker från EU:s autonoma tolkning.
+- Nationella regler som strider mot förordningens bestämmelser är ogiltiga (EU-rätten har direkt företräde).
+- Nationella regler som hindrar förordningens fulla verkan (effet utile) är förbjudna.
+
+**Revisionsrelevans:** Om en nationell myndighet tillämpar nationella regler i stället för en EU-förordning vars tillämpningsområde täcker situationen, kan det utgöra en rättslig brist — oavsett om den nationella regeln formellt verkar tillåten.
+
+### 8.3 Tre kategorier av nationella föreskrifter i relation till en EU-förordning
+
+| Kategori | Beskrivning | Bedömning |
+|----------|-------------|-----------|
+| **1. Förbjudna** | Nationella regler som strider mot förordningens krav, eller som täcker om dess innehåll | Ogiltiga — ska lämnas utan tillämpning (EU-rättens direkta effekt och företräde) |
+| **2. Tillåtna kompletteringar** | Nationella regler i utrymmen som förordningen *lämnar öppna* — explicit skönsmässigt utrymme ("member state discretion") | Giltiga om de rymms inom det delegerade utrymmet och är förenliga med EU-rättens syfte |
+| **3. Tillåtna tillämpningsföreskrifter** | Nationella verkställighetsregler som styr hur förordningens krav praktiskt genomförs (avgifter, register, rapporteringsformat) | Giltiga om de inte inskränker förordningens materiella krav |
+
+### 8.4 Lojalitetsplikten — art. 4.3 FEU
+
+Artikel 4.3 FEU (principen om lojalt samarbete) ålägger nationella myndigheter att:
+1. vidta alla åtgärder som är ägnade att säkerställa att EU-rättsliga skyldigheter fullgörs,
+2. avstå från åtgärder som äventyrar EU-rättens mål,
+3. aktivt stödja EU-institutionernas arbete.
+
+**Revisionsrelevans:** En myndighet som passivt underlåter att tillämpa en EU-förordning kan brista i lojalitetsplikten — inte enbart i förordningens bokstav. Riksrevisionen kan använda art. 4.3 FEU som kompletterande bedömningsgrund vid granskningar av bristande tillämpning av EU-förordningar.
+
+### 8.5 Tre granskningsstrategier för EU-förordning som bedömningsgrund (A/B/C)
+
+| Strategi | Granskningsobjekt | Bedömningsgrund | Riksrevisionens mandat |
+|----------|------------------|-----------------|------------------------|
+| **A — Direkt mot förordningen** | Myndighetens tillämpning av EU-förordningens artiklar | EU-förordningens krav (art. 288 TFEU: direkt tillämplig) | JA — fullständigt mandat |
+| **B — Mot nationell komplettering** | Hur nationell kompletteringslagstiftning/föreskrift förhåller sig till förordningens skönsmässiga utrymme | EU-förordningen som tolkningsram + nationell kompletteringsnorm | JA — rekommendation riktas till myndigheten/regeringen beroende på normhierarkisk nivå |
+| **C — Proportionalitet inom skönsmässigt utrymme** | Om nationella val inom förordningens utrymme är proportionerliga och ändamålsenliga | EU-rätten (art. 5.4 EU-fördraget), FL 5 § 3 st. och förordningens syfte | JA om det rör myndigheten — NEJ om det rör om Sverige borde ha valt annorlunda på politisk nivå (KU-fråga) |
+
+**Viktig distinktion gentemot direktiv-strategin (avsnitt 6):**
+- Vid direktiv: bedömningsgrunden är alltid den *nationella genomförandelagen*, inte direktivet direkt.
+- Vid EU-förordning: bedömningsgrunden är förordningen *direkt* (strategi A) eller den nationella kompletteringen *inom förordningens utrymme* (strategi B/C).
+
+### 8.6 Praktisk tillämpningsguide
+
+**Steg 1 — Identifiera om en EU-förordning gäller:**
+Kontrollera om EU-förordningen är ikraftträdd och om aktörens situation faller inom tillämpningsområdet (ratione personae, ratione materiae, ikraftträdandedatum).
+
+**Steg 2 — Klassificera nationell rätt i kategori 1/2/3 (avsnitt 8.3):**
+Finns nationell reglering på samma område? Är den en förbjuden täckningsregel, en tillåten komplettering, eller en verkställighetsföreskrift?
+
+**Steg 3 — Välj granskningsstrategi (A/B/C):**
+- Fokus på myndighetens tillämpning av förordningens krav → strategi A.
+- Fokus på nationell kompletteringslagstiftning → strategi B.
+- Fokus på om nationella val inom skönsmässigt utrymme är proportionerliga → strategi C.
+
+**Steg 4 — Fastslå mandatnivå:**
+Identifiera vem som kan åtgärda brist: myndigheten (A, B om föreskriftsnivå), regeringen (B om förordningsnivå), riksdagen (B om lagnivå).
+
+---
+
+*Källor: FL 5 §; RF 2:15, 2:21, 8 kap.; Prop. 2016/17:180; Prop. 2017/18:235; SOU 2024:52; SOU 2025:2; SOU 2026:20; Prop. 2025/26:224; RÅ 1999 ref. 76; HFD 2022 ref. 10; C-26/62 Van Gend en Loos; C-14/83 Von Colson; C-106/89 Marleasing; C-39/72 kommissionen mot Italien; C-272/83 kommissionen mot Italien; Mål 283/81 CILFIT; C-713/23 Wojewoda Mazowiecki; C-4/23 Mirin; Art. 267 FEUF; Art. 5.4 EU-fördraget; Art. 52.1 EU-stadgan; Art. 4.3 FEU; Art. 288 TFEU; RiR 2025:21; Skr. 2024/25:115; Lag (2006:502) med vissa bestämmelser om förhandsavgörande från EU-domstolen.*

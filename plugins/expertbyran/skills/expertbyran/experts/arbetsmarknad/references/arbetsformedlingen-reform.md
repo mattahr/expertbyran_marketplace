@@ -97,3 +97,68 @@ Ds 2021:27 och lagstiftning 2022 etablerade "förmedlingsinsatser" som formell a
 **IFAU 2018:9** — Arbetsförmedlarna och deras arbetsmarknad:
 - Under 2016: knappt 200 kompletterande aktörer med ~100 000 deltagare
 - Antalet aktörer minskade kraftigt 2015–2016 (från ~1 100 till ~200)
+
+---
+
+## RaM 2025–2026: kostnadseffektivitet, hybridmodell och aktörskontroll
+
+### IFAU 2024:9 — Kvalitativ studie av vad som händer hos privata RaM-leverantörer
+
+**IFAU Rapport 2024:9**
+- PDF: https://www.ifau.se/globalassets/pdf/se/2024/2024-9-rusta-och-matcha.pdf
+- Vad: Kvalitativ/enkätstudie av deltagarupplevelse och insatsinnehåll i RaM. Komplement till IFAU 2024:17 (effektstudien).
+
+**Nyckelresultat:**
+- Deltagare i RaM får mer *intensivt* stöd jämfört med JOB-gruppen (kvarstående i Jobbgarantin)
+- Kontakterna med handledare är regelbundna men varierande i kvalitet
+- Val av leverantör påverkas av rating men *geografisk närhet* är viktigare för deltagarna
+
+**Metodologisk insikt:** Trots mer intensiva insatser hittar IFAU 2024:17 inte positiva effekter. IFAU 2024:9 ger möjliga förklaringar på mekanismnivå:
+- AF:s register mäter *avregistrering* snarare än jobbkvalitet → leverantörer optimerar för avregistrering
+- Vinstmaximeringsbeteende: leverantörer väljer deltagare som är lättplacerade (cream-skimming)
+- Insatsernas *innehåll* är rätt men tidpunkt och träffsäkerhet kan vara fel
+
+### AF:s redovisning februari 2026 — kostnadseffektivitet i matchningstjänster
+
+**Regleringsbrevs-uppdrag 2025:** AF fick direktiv om att (a) ge leverantörerna starkare resultatincitament och (b) *påtagligt minska kostnaden per deltagare*.
+
+**Redovisning:** "Ökad kostnadseffektivitet i matchningstjänsterna" (Af-2025/0025 4337), februari 2026.
+
+**Nyckelpoäng:** Redovisningen signalerar att regeringen prioriterar kostnadseffektivitet i RaM-systemet — en reaktion på kritiken i Statskontoret 2025:2 om för dyra och fragmenterade insatser.
+
+### AU9-utskottets ståndpunkt 2026 — signal om hybridmodell
+
+**Betänkande HD01AU9 (2025/26:AU9)**, s. 48–52
+- PDF: https://data.riksdagen.se/dokument/HD01AU9.pdf
+
+**Utskottets formulering:** *"Matchningstjänster i fristående regi är i många fall inte rätt väg att gå, utan det behövs mer av insatser direkt från AF."*
+
+**Analytisk tyngd:** Detta är den tydligaste riksdagssignalen hittills om att beställarmodellen kan luckras upp. Utskottets ståndpunkter är inte bindande men ger politisk vägledning till regeringen.
+
+**AF:s svar — sammanhållet matchningsstöd (2026):** AF bygger ut direkt matchning vid sidan av RaM. Det framväxande systemet är en *hybridmodell*: kollektiva och privata leverantörer i RaM + direkta AF-insatser för svårare fall.
+
+**Jämförelse med de tre strukturella alternativen:**
+
+| Alternativ | Status 2026 |
+|-----------|-------------|
+| Beställarmodellen (status quo förbättrad) | Kvarstår formellt men Statskontorets kritik inte fullt implementerad |
+| Ny analys-/tillsynsmyndighet | Politiskt diskuterat (M/KD) men ingen proposition |
+| Återstatisering | V:s linje; riksdagsmajoritet saknas; men hybridmodellen är ett partiellt steg i riktningen |
+
+### Konkurrensverket-uppdrag juni 2025 — oseriösa aktörer i valfrihetssystem
+
+**Uppdrag (juni 2025):** Konkurrensverket fick i uppdrag att föreslå åtgärder mot *kriminella och oseriösa aktörer* i LOV-baserade valfrihetssystem, inklusive RaM.
+
+**Bakgrund:** Kritik under 2023–2025 om att aktörer med bristfällig kvalitet eller rent av bedrägliga metoder verkar inom RaM. Statskontoret 2025:2 konstaterade att "lågt presterande leverantörer kvar för länge" i systemet.
+
+**Förväntade åtgärder:** Förslag till LOV-ändringar som skärper kraven för inträde och kvarstående i systemet; bättre kontrollinstrument för AF som beställarmyndighet.
+
+**Konsekvens för analysen:** RaM:s grundläggande legitimitetsproblem är inte bara effektivitet utan *systemintegritet*. Om oseriösa aktörer systematiskt cream-skimat och bidragit till avregistreringsinflation, är det svårt att tolka historiska effektdata rättvisande.
+
+### Nyckelkällor för RaM 2025–2026
+
+- **IFAU 2024:9:** https://www.ifau.se/globalassets/pdf/se/2024/2024-9-rusta-och-matcha.pdf
+- **IFAU 2024:17 (effektstudien):** Ingår i Nyckelresultat ovan
+- **Betänkande HC01AU6 (2024/25):** https://data.riksdagen.se/dokument/HC01AU6.pdf (s. 26–27)
+- **Betänkande HD01AU9 (2025/26):** https://data.riksdagen.se/dokument/HD01AU9.pdf (s. 48–52)
+- **AF-redovisning feb 2026:** Af-2025/0025 4337 (ej direkt länk tillgänglig; refereras i HD01AU9)
