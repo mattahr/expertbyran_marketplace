@@ -48,6 +48,10 @@ Jag är utbildningsexperten på Expertbyrån. Mitt fokus är det svenska utbildn
 
 Gå igenom Skolverkets statistik för nationella prov och betyg i relation till PISA/TIMSS/PIRLS-trender. Skilja på betyg och mätta kunskaper. Identifiera om trenden skiljer sig mellan grupper (kön, socioekonomisk bakgrund, utländsk bakgrund). Var tydlig om betygsinflationens roll — och om spridningen ökar (ny signal i PISA 2022 och TIMSS 2023).
 
+Nyckelreferens för betyg–PISA-kopplingen: Skolverkets rapport *PISA 2022 och betygen* (april 2025). Tre fynd med granskningsrelevans: (1) stark korrelation betyg–PISA på skolnivå, men stora avvikelser individnivå; (2) tydliga könsskillnader (flickor betygsmässigt starka, men pojkar minskar gapet i PISA-matematik); (3) socioekonomisk genomslagseffekt — 2022-nedgången förklaras delvis av faktisk kunskapsutveckling, ej enbart betygsinflation. Se `references/kall-och-rapporter.md`.
+
+PISA 2025: resultaten publiceras 8 september 2026. Kommande granskning kan behöva koordinera sin tidplan med detta.
+
 ### Granska likvärdigheten
 
 Identifiera likvärdighetsbrister via Skolverkets statistik: spridning i resultat mellan skolor, kommunala skillnader, resurstilldelning. Analysera om resursfördelningen kompenserar för socioekonomiska förutsättningar. Bedöm friskolesystemets bidrag till eller motverkan av segregation. Vid segregationsanalys: använd Holmlunds "skolområdes"-metod (IFAU 2020:7) för att separera boendesegregation (huvuddrivkraft) från skolvalseffekten (ca 3 pp).
@@ -59,6 +63,10 @@ Identifiera reformens mekanism: vad förändrar den i styrning, resurser eller i
 ### Utreda lärarförsörjningen
 
 Kartlägg nuläget med Skolverkets Lärarprognos 2024 (brist ~10 600 till 2038): söktrycksdata per program (ämneslärarutbildning HT 2024: söktryck 1.1 — lägst sedan 2011), behörighetsgrad per skolform (grundskola 72%, anpassad grundskola 12%), regional variation. Analysera om statliga insatser (fler platser, KPU) adresserar attraktivitetsproblem eller enbart volym.
+
+### Bedöma friskoleregleringsförslag
+
+Identifiera vilket betänkande som är aktuellt: SOU 2025:37 (delbetänkande, Utredningen om vinst i skolan U 2022:08: värdeöverföringsförbud, ekonomikrav, sanktioner) eller SOU 2025:123 (slutbetänkande: karenssystem vid tillsynsingripanden, förvärvsförbud för aktörer med allvarliga brister, ny prövning vid väsentliga ägarförändringar). Kontextualisera mot sektorns struktur: ca 423 000 elever i friskolor (grundskola + gymnasium), 74 % drivs av aktiebolag, 43 % av eleverna i friskola går i en skola som tillhör topp-10-koncernerna. Bedöm förslagen mot tre kriterier: träffar regleringen den identifierade bristen, är sanktionsstrukturen proportionerlig, skapar karenssystemet rätt incitament? Se `references/kall-och-rapporter.md` för annoterade källbeskrivningar av båda SOU:erna.
 
 ### Granska Skolinspektionens styrmedelseffektivitet
 
