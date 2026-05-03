@@ -59,7 +59,9 @@ Utgå från demografiprognoser (SCB) och Finansdepartementets långtidsprojektio
 
 Gå igenom de fyra pelarna: **balansmålet** (0 procent av BNP i genomsnitt, gäller fr.o.m. 2027; ersatte överskottsmålet på 1/3 procent som gällde t.o.m. 2026), skuldankaret (35 procent av BNP, toleransmarginal upp till 40 %), utgiftstaket (nominellt tak för statens utgifter) och kommunsektorns balanskrav. Förklara Finanspolitiska rådets stärkta roll fr.o.m. 31 december 2025 (utökade uppgifter inkl. bedömning av nettoutgiftsbana enligt EU:s reformerade SGP). Notera att riksdagen i 2026 lade den tredje ramverksskrivelsen (Skr. 2025/26:76) till handlingarna utan motioner — ramverksreformen är parlamentariskt accepterad.
 
-**Nuläge (maj 2026, VÅP2026):** Maastrichtskulden stiger från 35,2 % (2025 utfall) till 37,5 % (2026) och 38,5 % (2027) — klart ÖVER skuldankaret 35 % men fortfarande inom toleransmarginalen (max 40 %). Strukturellt sparande 2026: −2,0 % och 2027: −2,2 % av potentiell BNP — stor avvikelse, men exklusive försvarsutgifter och Ukrainastöd är sparandet nära noll (parlamentariska undantag förklarar avvikelsen). Finanspolitiken är expansiv 2026, motiverat av utdragen lågkonjunktur. Plan för återgång till balansmål senast 2035.
+**Nuläge (maj 2026, VÅP2026):** Maastrichtskulden stiger från 35,2 % (2025 utfall) till 37,5 % (2026) och 38,5 % (2027) — klart ÖVER skuldankaret 35 % men fortfarande inom toleransmarginalen (max 40 %). Strukturellt sparande 2026: −2,0 % och 2027: −2,2 % av potentiell BNP — stor avvikelse, men exklusive försvarsutgifter och Ukrainastöd är sparandet nära noll (parlamentariska undantag förklarar avvikelsen). Finanspolitiken är expansiv 2026, motiverat av utdragen lågkonjunktur. Plan för återgång till balansmål senast 2035. **Skulddynamik 2034 (vid skuldankaret):** Maastrichtskulden beräknas sjunka tillbaka till ca 35,5 % av BNP — i linje med skuldankaret — om finanspolitiken lyckas konsolidera fr.o.m. 2028.
+
+**Paradox med balansmålet:** övergången från överskottsmål (1/3 % av BNP) till balansmål (0 %) ger mer formellt utrymme att ha noll i sparande, men minskar den självuppbyggda bufferten. Definition på manöverutrymme: strukturellt sparande > 0 %. Med balansmål finns ingen inbyggd marginal — vid en konjunkturnedgång riskerar sparandet omedelbart att bli negativt utan regelbrott.
 
 ### Analysera räntelägets effekter på statsfinanserna
 
@@ -70,6 +72,10 @@ Utgå från aktuell styrränta och Riksbankens räntebana. Analysera hur ränteb
 ### Analysera S2-indikatorn och långsiktig hållbarhet
 
 Klargör S2-metodikens komponenter (IBP + CoA) och förklara varför EU-kommissionen beräknar S2 = 2,6 (förhöjd risk) medan Finansdepartementet beräknar S2 = 0,4 (låg risk). Skillnaden är ett metodantagande om IBP-startläget, inte en oenighet om demografins effekter. Läs `references/s2-hallbarhet.md`.
+
+### Analysera pensionssystemets finansiella ställning
+
+Klargör vilket system som avses: det inkomstgrundade pensionssystemet (IPP) är fristående och självbalanserat; garantipensionen belastar statsbudgeten. Förklara bromsmekanism och dämpningsformel `(bt−1)/3+1`. Redovisa balanstal december 2024 (1,1695) och överskottet (1 897 mdr kr). Notera att inga bromsar aktiveras 2026–2028. Förklara gasregleringen fr.o.m. 2027 (balanstal ≥ 1,15 utlöser utdelning; pensionsskuld till staten kan skrivas av). Läs `references/pensionssystem.md`.
 
 ### Förklara det kommunala utjämningssystemet
 
@@ -82,3 +88,4 @@ Beskriv systemets fem delar och inkomstutjämningens mekanik: 115%-garantin för
 * `references/statistikkallor.md` — förteckning över primära datakällor: nationalräkenskaperna (SCB), statsbudgetstatistik (Statskontoret, f.d. ESV), Finansdepartementets prognoser, Riksgälden, OECD Economic Outlook, IMF Fiscal Monitor. Läs när: du ska hämta eller citera finansstatistik.
 * `references/s2-hallbarhet.md` — S2-indikatorns komponenter (IBP+CoA), skillnaden EU-kommissionen vs Finansdepartementet, demografiska antaganden VP2026, skuldutveckling 2025–2090. Läs när: frågan rör hållbarhetsindikatorer, S1/S2-metodiken eller långsiktig skuldutveckling.
 * `references/kommunalt-utjamningssystem.md` — systemets fem delar, skattekraftutjämningens mekanik (115%-garantin, kompensationsgrad, regleringspost), politiska frihetsgrader, RiR 2020:11 om tillväxthämmande incitament, SOU 2024:50. Läs när: frågan rör kommunal inkomstutjämning, statsbidragets fördelning eller utjämningssystemets incitamentsstruktur.
+* `references/pensionssystem.md` — inkomstpensionssystemets bromsmekanism och dämpningsformel, balanstal december 2024 (1,1695), överskott (1 897 mdr kr), gasreglering fr.o.m. 2027. Läs när: frågan rör pensionssystemets finansiella ställning, bromsar/gas, balanstal eller pensionsskuldens effekt på statens nettoförmögenhet.
