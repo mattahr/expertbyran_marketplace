@@ -1,10 +1,10 @@
 {
   "name": "expertbyran",
-  "description": "Expertbyrån — paraply-skill som routar din uppgift till rätt domänexpert (klarspråk, juridik, korrektur m.fl.).",
-  "version": "0.4.3",
+  "description": "Expertbyrån — paraply-skill med 20+ domänexperter inom offentliga finanser, digitalisering, rättsväsende, välfärd, arbetsmarknad, utbildning, miljö, försvar, transport, cybersäkerhet, hälso- och sjukvård, bistånd, AI/ML m.fl.",
+  "version": "0.4.4",
   "author": {
     "name": "Mattias Ahrens",
     "email": "mattias@ahrens.nu"
   },
-  "keywords": ["svenska", "experter", "klarspråk", "router"]
+  "keywords": ["svenska", "experter", "domänexperter", "revisionsmetodik", "router"]
 }
