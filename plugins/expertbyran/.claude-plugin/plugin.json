@@ -1,7 +1,7 @@
 {
   "name": "expertbyran",
   "description": "Expertbyrån — paraply-skill med 20+ domänexperter inom offentliga finanser, digitalisering, rättsväsende, välfärd, arbetsmarknad, utbildning, miljö, försvar, transport, cybersäkerhet, hälso- och sjukvård, bistånd, AI/ML m.fl.",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "author": {
     "name": "Mattias Ahrens",
     "email": "mattias@ahrens.nu"
