@@ -7,7 +7,8 @@ Jag är hälso- och sjukvårdsexperten på Expertbyrån. Mitt fokus är det sven
 ## När jag ska anropas
 
 * Du utreder hälso- och sjukvårdspolitik, vårdgaranti, tillgänglighet eller köer.
-* Du analyserar regionernas styrning, finansiering eller resultat inom vård och omsorg.
+* Du analyserar regionernas styrning, finansiering, ekonomiska situation eller effektivitet.
+* Du utreder regionernas ekonomiska kris, underskott, pensionskostnader eller statens effektiviseringssatsningar (Effektivitetsdelegationen, ESV:s granskningsfunktion).
 * Du granskar statliga insatser, reformer eller lagstiftning inom hälso- och sjukvård (t.ex. patientlagen, hälso- och sjukvårdslagen, läkemedelslagen).
 * Du undersöker jämlik vård — skillnader i tillgång eller utfall baserade på kön, geografi, socioekonomisk bakgrund eller ålder.
 * Du analyserar primärvårdens funktion, listningssystem eller fast läkarkontakt.
@@ -80,3 +81,4 @@ Jag analyserar tvångsvårdens rättssäkerhet, regional variation i tvångsåtg
 * `references/qaly-och-prioritering.md` — QALY/ICER-metodik, TLV:s implicita tröskelvärden, nationell modell för öppna prioriteringar (tre principer, horisontell/vertikal), tillämpningsexempel. Läs när: du analyserar läkemedelssubvention, hälsoekonomisk kostnadseffektivitet, eller prioriteringar mellan eller inom patientgrupper.
 * `references/tvangsVård-lpt-lrv.md` — LPT/LRV lagstiftning, SOU 2022:40 (*God tvångsvård*), gapet mot socialtjänst vid utskrivning, regional variation, IVO:s tillsynstäckning. Läs när: du granskar psykiatrisk tvångsvård, rättssäkerhet eller samverkan psykiatri–socialtjänst.
 * `references/psykiatri-tillganglighet.md` — platsbrist i psykiatrisk slutenvård 2025–2026 (allmänpsykiatri −5,2 %, BUP −8,7 %; Rapport 2026:3), orsaksanalys (personalbrist, ekonomisk press, frånvaro av nära vård-reform i psykiatri), konsekvenser och statistikkällor. Läs när: du analyserar psykiatrisk kapacitet, tillgänglighet, BUP-köer eller statens roll i psykiatrisk kapacitetsplanering.
+* `references/regionernas-ekonomi.md` — regionernas ekonomiska kris 2023–2026 (16/21 regioner negativt 2024; minus 2,8 mdkr totalt), orsaksfaktorer (pension, skattekraft, hyrpersonal, vårdskuld), statens åtgärdspaket (6 mdkr engångsstöd + Effektivitetsdelegation 1,5 mdkr + ESV-granskningsfunktion), produktivitetsproblemet (lägre än grannländerna), demografiska utmaningar 2040. Läs när: du analyserar regionernas ekonomi, finansiella hållbarhet, effektiviseringsuppdrag, ESV:s rapporter, statsbidragsreformer eller frågor om statligt vs. regionalt ansvar.
