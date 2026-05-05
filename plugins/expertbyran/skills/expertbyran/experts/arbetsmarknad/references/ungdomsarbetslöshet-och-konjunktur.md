@@ -66,13 +66,37 @@ Varsel är en ledande indikator — varslade arbetstagare sägs inte alltid upp,
 - Bygg och anläggning
 - (Positiva: privata tjänster, IT-sektorn)
 
-### Konjunkturläget 2023–2025
+### Konjunkturläget 2023–2026 (uppdaterat maj 2026)
 
 - 2023: Lågkonjunktur inleddes; total arbetslöshet steg från 7,5% till 7,7%
 - 2024: Fortsatt ökande arbetslöshet till ~8,3%; varsel historiskt höga; konkurser höga
-- 2025: Återhämtning väntad; sysselsättningen börjar öka; men stark osäkerhet kring handelspolitik (globala tullar) dämpar tempot
+- 2025: Svag återhämtning; sysselsättningen börjar öka; osäkerhet kring handelspolitik (globala tullar) dämpar tempot
+- 2026 mars: **SCB AKU 8,7% (säsongrensat och utjämnat)** — sjunkande trend bekräftar prognos
 
 Den ökade 2024-arbetslösheten bedömdes *primärt konjunkturell* (Budgetprop. 2025, UO14 s. 13): de flesta nya arbetslösa tillhörde inte Arbetsförmedlingens "svag konkurrensförmåga"-grupper → borde återgå i jobb när efterfrågan ökar.
+
+#### Prognos 2026–2027
+
+**KI:s prognos (december 2025 / mars 2026):**
+
+| Indikator | 2025 | 2026P | 2027P |
+|-----------|------|-------|-------|
+| Arbetslöshet (AKU/SCB) | 8,8% | 8,5% | 7,5% |
+| Sysselsättning (förändring) | +0,3% | +1,0% | +1,4% |
+
+- Jämviktsnivå (~7%) nås inte förrän slutet av 2027
+- Sysselsättningsuppgång väntas vara starkast under H2 2026 och in i 2027
+- Tjänstesektorn återhämtar sig bredare; konjunkturbarometern mars 2026 = normaltstarkt
+
+**AF:s prognos (hösten 2025, inskrivna vid AF — lägre mått):**
+
+| Indikator | 2025 | 2026P | 2027P |
+|-----------|------|-------|-------|
+| Inskrivna arbetslösa | 367 000 (6,9%) | 345 000 (6,5%) | 328 000 (6,2%) |
+
+Notera: AF-måttet är lägre än SCB/AKU-måttet (ca 1,5–2 pp skillnad) eftersom det mäter inskrivna, inte hela AKU-populationen.
+
+**Nyckelinsikt om fördröjningen:** Arbetsmarknaden laggar BNP med 6–18 månader. BNP vände uppåt under 2025; sysselsättningen börjar tydligt öka H2 2026; arbetslösheten faller sist. Volym arbetssökande håller sig hög under hela 2026 trots ekonomisk återhämtning — viktigt för AMMA-kapacitetsplanering.
 
 ---
 
@@ -105,3 +129,23 @@ Sverige har internationellt sett extremt låg andel jobb utan utbildningskrav (<
 **IFAU Rapport 2016:1 — En förlorad generation?**
 - PDF: https://www.ifau.se/globalassets/pdf/se/2016/r-2016-01-en_forlorad_generation_om_ungas_etablering_pa_arbetsmarknaden.pdf
 - Analyserar ungdomsarbetslöshetens mätproblem och historiska trend; bra för metodkritik
+
+**KI Konjunkturläget december 2025** — "Konjunkturåterhämtningen på fastare mark"
+- URL: https://www.konj.se/publikationer/konjunkturlaget/2025-12-19-konjunkturaterhamtningen-pa-fastare-mark/
+- Fullständig prognos 2025–2027 för arbetslöshet, sysselsättning och BNP
+
+**KI Konjunkturläget mars 2026**
+- PDF: https://www.konj.se/media/11qjtgkg/konjunkturlaget-mars-2026.pdf
+- Uppdaterad prognos; bekräftar gradvis förstärkning H2 2026
+
+**KI Konjunkturbarometern mars 2026**
+- URL: https://www.konj.se/publikationer/konjunkturbarometern/2026-03-25-fortsatt-normaltstarkt-stamningslage/
+- Stämningsläge = normaltstarkt; sysselsättningsplaner nära normala; liten förstärkning kommande kvartal
+
+**SCB AKU mars 2026**
+- URL: https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/arbetskraftsundersokningarna-aku/
+- Säsongrensat och utjämnat: 8,7% mars 2026; trend sjunkande
+
+**AF Arbetsmarknadsutsikterna hösten 2025**
+- URL: https://arbetsformedlingen.se/statistik/analyser-och-prognoser/arbetsmarknadsprognoser/arbetsmarknadsutsikterna-hosten-2025
+- AF:s prognos för inskrivna: 6,9% (2025) → 6,5% (2026) → 6,2% (2027)

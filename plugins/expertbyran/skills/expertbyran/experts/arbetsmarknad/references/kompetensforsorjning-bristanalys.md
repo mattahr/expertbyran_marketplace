@@ -54,20 +54,36 @@ Tre iakttagelser upprepas i granskningarna 2019–2025:
 
 ---
 
-## Omställningsstudiestödets träffsäkerhet — Fredriksson m.fl. (2023)
+## Omställningsstudiestödets träffsäkerhet — Fredriksson m.fl.
 
-**Fredriksson, P., Johansson, P. & Skans, O.N. (2023)** — refererade i Tillväxtanalys 2024:01
+### SNS Konjunkturråd 2023 (Fredriksson, Graetz, Hensvik & Seim)
 
-**Tes:** Omställningsstudiestödet riskerar att missa de mest utsatta individerna — de med lägst utbildning och störst omvandlingsbehov.
+**Rapport:** SNS Konjunkturrådsrapport 2023 — "Strukturomvandling på svensk arbetsmarknad: konsekvenser och åtgärder"
+**Författare:** Peter Fredriksson (ordf.), Georg Graetz, Lena Hensvik, David Seim
+**Källa:** https://www.sns.se/artiklar/sns-konjunkturrad-2023-ge-mer-stod-till-dem-som-drabbas-hardast-nar-jobben-forsvinner/
 
-**Argument:**
-1. **Studiebenägenhet:** Individer med låg utbildning söker i lägre utsträckning ytterligare utbildning, även när stöd erbjuds. Informationsbarriärer och dåliga erfarenheter från tidigare skolgång spelar in.
-2. **Antagningskrav:** Stödet kräver att individen faktiskt antas till en utbildning — de som saknar förkunskaper kan inte söka stödet för t.ex. gymnasial vuxenutbildning utan att genomföra den länken separat (studiemotiverande folkhögskola → komvux → yrkesinriktad utbildning).
-3. **Selektionssnedbias:** Tidiga volymsiffror tyder på att stödet i hög grad tas av redan välutbildade som vill vidareutbilda sig snarare än av kortutbildade med störst omvandlingsbehov.
+Övergripande slutsats om omställningsstudiestödet: Stödet är för brett och når inte de hårdast drabbade av strukturomvandling. Stödet bör riktas om mot individer med störst omvandlingsbehov. Refererade i Tillväxtanalys 2024:01 s. 35 som underlag för träffsäkerhetsskepticism.
 
-**Analytisk konsekvens:** Att volymen omställningsstudiestöd ökar (34 000 ansökningar år 1) behöver inte vara ett tecken på att stödet når rätt individer. Utan målgruppsanalys av faktisk kompetens hos stödsökande är det svårt att bedöma om systemet adresserar strukturell kompetensbrist eller primärt ger välutbildade ännu mer utbildning.
+### SNS Analys 104 (Fredriksson & Seim, 2024) — EMPIRISK TRÄFFSÄKERHETSSTUDIE
 
-**Observation:** Fredriksson m.fl.:s (2023) skepticism har ännu inte testats empiriskt — IFAU:s effektstudie saknas (se `references/omstallningssystemet.md`). Tillväxtanalys betraktar skepticismen som en välgrundad hypotes, inte ett bevisat faktum.
+**Rapport:** SNS Analys 104 — "Vilka får omställningsstudiestödet? En empirisk analys av de två första ansökningsperioderna"
+**Författare:** Peter Fredriksson & David Seim (Stockholms universitet)
+**Data:** Ansökningsperioderna höst 2022 och vår 2023
+**Källa:** https://www.sns.se/artiklar/sns-analys-104-vilka-far-omstallningsstudiestodet-en-empirisk-analys-av-de-tva-forsta-ansokningsperioderna/
+
+**Empiriska fynd:**
+
+1. **Vilka söker:** Framför allt högskoleutbildade. Individer i automatiseringsriskyrken och lågutbildade söker i oproportionerligt lägre utsträckning.
+2. **"First come, first served"-problemet (CSN):** Högskoleutbildade ansöker snabbare och har därigenom oproportionerlig fördel i ett behovs­neutralt handläggningssystem.
+3. **Vilka beviljas:** Beviljade har i genomsnitt högre utbildning och lägre arbetslöshetsrisk än de som får avslag — stödet träffar de med minst behov ur strukturomvandlingsperspektiv.
+4. **Kausalt fynd (additionalitet):** Inkomsterna minskar lika mycket för beviljad- och avslagsgruppen vid terminsstart — stödet finansierar studier som individerna *hade gjort ändå*. Liten additionalitet.
+
+**Rekommendationer från SNS Analys 104:**
+- Begränsa stödet till varslade arbetstagare (inte öppet för alla)
+- Subventionsnivån bör bero av omvandlingsbehov, inte enbart inkomst
+- Sänk stödets nivå ur samhällsekonomisk synvinkel givet låg additionalitet
+
+**Analytisk konsekvens:** Att volymen ökar (34 000 ansökningar år 1; 44 000 planerade 2026) behöver inte tyda på att stödet når rätt individer. SNS Analys 104 är hittills det starkaste empiriska stödet för träffsäkerhetskritiken. En IFAU-effektstudie saknas — Fredriksson & Seims studie mäter vem som söker och kortsiktig additionalitet, inte långsiktig sysselsättnings- eller löneeffekt.
 
 ---
 
