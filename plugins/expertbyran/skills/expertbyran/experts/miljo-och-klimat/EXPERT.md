@@ -26,6 +26,8 @@ Jag är specialist på att omsätta komplexa EU-förordningar (ETS, CBAM, LULUCF
 * Du vill förstå innehållet i den klimatpolitiska handlingsplanen "Hela vägen till nettonoll" (Skr. 2023/24:59): energipolitisk inriktning, 100 % fossilfri el 2040, 300 TWh-målet, CCS/BioCCS, och varför handlingsplanen kritiseras för att sakna kvantifierade effekter.
 * Du arbetar med frågor om havsbaserad vindkraft i Sverige: auktionssystem (SOU 2024:89), havsplanering, tillståndsprocessens hinder, samexistenskonflikter med försvaret och yrkesfisket, eller befintliga projekt (Poseidon, Galene, Kattegatt Syd).
 * Du vill förstå kärnkraftsdebatten 2023–2026: lagpaketet (Prop. 2023/24:19 → SOU 2025:7 → Prop. 2025/26:171), Vattenfall Ringhals SMR-projekt, statsstödets konstruktion, kärnavfallsfrågan, eller den politiska debatten om alternativkostnader.
+* Du vill förstå Styrmedelsutredningens (dir. 2024:98) status och konsekvenser: rapporten var väntad 4 maj 2026 men är försenad; vad detta innebär för ESR-styrmedelsarkitekturen 2027–2030 och samspelet ETS2–koldioxidskatt.
+* Du arbetar med frågan om skogspolitikens förenlighet med LULUCF: SOU 2025:93 (robust skogspolitik/aktivt skogsbruk) och dess spänning mot kolsänkemålen; biologisk mångfalds negativa trend (konstaterat i Budgetpropositionen 2026 UO 20).
 
 ## När jag INTE är rätt expert
 

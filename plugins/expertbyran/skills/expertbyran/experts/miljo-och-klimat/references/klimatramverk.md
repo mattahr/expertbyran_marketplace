@@ -146,9 +146,31 @@ Miljömålsberedningen föreslog i oktober 2025 att ändra basår från 1990 →
 
 ---
 
+## Styrmedelsutredningen — status maj 2026
+
+**Utredning:** dir. 2024:98, "Styrmedel för att bidra till en utfasning av fossila bränslen och att nå Sveriges klimatåtaganden i EU." Tillsatt oktober 2024. Utredare: Svante Mandell, Konjunkturinstitutet.
+
+**Mandat i korthet:**
+- Föreslå hur reduktionsplikten ska utvecklas
+- Analysera vilka andra kostnadseffektiva styrmedel som säkerställer ESR-åtagandet (-50 % till 2030 vs. 2005) och utfasning av fossila bränslen senast 2045
+- Ta fram principer för samordning av koldioxidskatt och ETS2
+
+**Rapport var ursprungligen väntad 4 maj 2026.** Försenad — rapporten är ej levererad och ingen officiell ny tidplan har kommunicerats (per maj 2026). Uppgifter (Aktuell Hållbarhet, april 2026) tyder på att regeringen valde att skjuta upp överlämnandedatumet.
+
+**Konsekvenser för granskning:**
+- Sverige saknar beslutad styrmedelsarkitektur för ESR-sektorer (transporter, byggnader, jordbruk) inför perioden 2027–2030
+- ETS2 startar handel 2027 utan att samspelet med den svenska koldioxidskatten är fastställt — risk för dubbelreglering eller att styrsignalen urvattnas
+- Riksdagsprocessen för eventuell lagstiftning 2026 omöjliggörs om rapporten inte presenteras snarast
+- Jämförbara EU-länder har redan beslutade styrmedelsportföljer för 2030 — Sverige riskerar att halka efter
+
+**Granskningsfråga:** Har regeringen en rimlig plan för styrmedelsarkitekturen 2027–2030, och ökar förseningen risken för att ESR-åtagandena inte nås?
+
+---
+
 ## Granskningsfällor
 
 1. **Procedurlag ≠ materiellt mål:** Klimatlagen säkrar redovisning, inte resultat. En regering kan uppfylla lagen med en handlingsplan som är otillräcklig för att nå målen.
 2. **Netto-noll med kompletterande åtgärder:** Tillåtna kompletterande åtgärder (upp till 15 pp av 1990-utsläpp) innebär att netto-noll 2045 kan nås med kvarvarande fossila utsläpp — bedöm om detta är politiskt accepterat och transparent kommunicerat.
 3. **ESR-flexibilitetsmekanismer:** Om Sverige köper ESR-kvoter från andra EU-stater uppfylls det formella målet utan reell utsläppsminskning inom Sverige.
 4. **EU:s 2040-mål kan kräva mer av Sverige:** Om Naturvårdsverkets bedömning stämmer — att EU-åtagandet post-2030 blir mer ambitiöst än den svenska klimatlagen kräver — uppstår en potentiell lucka i nationell ambitionsnivå. Granska om regeringen transparant kommunicerar denna diskrepans.
+5. **Styrmedelsarkitekturgap 2027–2030:** Förseningen av Styrmedelsutredningen innebär att Sverige kan sakna en beslutad styrmedelsportfölj för ESR-sektorer när ETS2 startar handel. Bedöm om beredningen uppfyller klimatlagens krav på att planer finns på plats.

@@ -65,6 +65,10 @@ Underskott i LULUCF-sektorn hanteras via flexibiliteter, men dessa är starkt be
 
 Den fundamentala spänningen: bioekonomistrategin och högt virkesuttag för pappers- och träindustrin (med stöd i skogsvårdslagen och "frihet under ansvar"-doktrinen) motverkar den kolsänka som LULUCF-åtagandena kräver. Avverkningstakten har ökat under 2010-talet parallellt med klimatförändringar och skadegörare. Skogspolitiken är ett nationellt kompetensområde — EU kan inte direkt reglera hur Sverige brukar sin skog, men LULUCF-förordningen ger bindande konsekvenser om kolsänkan inte uppnås.
 
+**SOU 2025:93 — En robust skogspolitik för aktivt skogsbruk:** Ny skogspolitisk utredning (2025) som betonar ökad skogsproduktion, aktiv skogsskötsel och bioekonomi. Föreslår ett 10-årigt forskningsprogram (50 Mkr/år) för hållbar skogsproduktion. Utredningen bereds i Miljö- och jordbruksutskottet (betänkande HD01MJU6, 2026). Inbyggd spänning mot LULUCF: ökad avverkning på kort sikt minskar kolsänkan. Konjunkturinstitutet (2021-rapport) föreslog att klimatpolitiken i stället bör uppmuntra kolbindning i skog och långlivade träprodukter — inte primärt biomassauttag. SOU 2025:93:s inriktning mot aktivt skogsbruk är alltså klimatpolitiskt kontroversiell i LULUCF-perspektivet.
+
+**Biologisk mångfald och LULUCF:** Budgetpropositionen 2026 (UO 20) slår fast att "trenden är negativ och nuvarande beslutade eller planerade styrmedel inte är tillräckliga" för att nå miljökvalitetsmålet för biologisk mångfald. Formellt skogsskydd och naturhänsyn bidrar till kolsänka — men spänningen mot produktionsskogen kvarstår.
+
 ## Granskningsrelevanta frågor
 
 - **Är regeringens åtgärdspaket proportionerligt mot LULUCF-underskottets storlek?** Klyftan mellan åtgärdseffekt (~4,4 Mton) och underskott (63–71 Mton) är dramatisk.
