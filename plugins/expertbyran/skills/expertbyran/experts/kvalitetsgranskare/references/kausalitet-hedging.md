@@ -124,3 +124,54 @@ En slutsats är aldrig starkare än det svagaste ledet i beviskedjan. Regel:
 visar att X" och "X visar att slutsatsen stämmer" — utan extern evidens —
 är argumentet cirkulärt. Vanligast när intervjudata om upplevda brister
 används för att belägga existensen av de brister som intervjuerna frågade om.
+
+## Specification curve & multiverse-analys — robusthet mot forskaränesgrader av frihet
+
+När observationella data används för kausala anspråk är det inte
+tillräckligt att en enskild specifikation ger signifikant resultat.
+Gelman & Loken (2014, *American Scientist*) "garden of forking paths"
+visar att forskaren behöver inte p-hacka medvetet — variansrummet av
+rimliga val är *dolt* i en konventionell publikation.
+
+**Multiverse-analys** (Steegen, Tuerlinckx, Gelman, Vanpaemel 2016,
+*Perspectives on Psychological Science*) tar sikte på databearbetnings-
+steg (outlier-exklusion, kodning, missing data). **Specification curve
+analysis (SCA)** (Simonsohn, Simmons, Nelson 2020, *Nature Human Behaviour*)
+tar sikte på modellspecifikation i tre steg:
+
+1. *Identifiera* alla specifikationer som är (a) teoretiskt motiverade,
+   (b) statistiskt giltiga, (c) icke-redundanta.
+2. *Visualisera* sorterad effektkurva med specifikationspanel under.
+3. *Joint inference* via permutationstest — median, andel med rätt
+   tecken, andel signifikanta i förväntat tecken jämförs mot H0-fördelning
+   genererad genom shuffling.
+
+### Kalibrerade opponentinvändningar (observationella kausala anspråk)
+
+1. *"Vilka databearbetningsval gjordes och hur skulle resultatet
+   förändras under alternativa val?"* — multiverse
+2. *"Vilka kontrollvariabler valdes och varför just dessa? Vad händer
+   med koefficienten under minimal kontrolluppsättning?"*
+3. *"Hur stor andel av rimliga specifikationer ger samma slutsats?
+   ≈100% eller ≈55%?"*
+4. *"Om en specification curve presenteras: hur valdes specifikations-
+   universumet, och vilka rimliga specifikationer uteslöts?"*
+5. *"Vilka inferenstest rapporteras — bara medianeffekt, eller även
+   andelstest mot permutationsfördelning?"*
+
+### Verktyg
+
+- **specr** (R, Masur & Scharkow) — generaliserat SCA-ramverk
+- **multiverse** (R, Sarma & Kay) — bredare datamultiverse
+- **specurve** (Stata)
+
+Att en granskning säger "vi gjorde robusthet" utan att referera dessa
+eller motsvarande egenutvecklat skript är en svag signal — robusthet
+brukar då reduceras till tre alternativa specifikationer som
+författaren själv valt. Operationaliserar reliabilitetskravet
+(ISSAI 3000) som specifikationsstabilitet.
+
+**Begränsning:** specifikationsuniversumet är aldrig "objektivt". Två
+kompetenta forskare kan rationellt bygga olika multiverser. Risk för
+falsk trygghet om hela universumet bygger på felaktiga teoretiska
+antaganden.

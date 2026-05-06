@@ -17,6 +17,7 @@ Jag är kvalitetsgranskaren på Expertbyrån. Mitt fokus är vetenskaplig string
 - Du vill granska om revisionsprocessen har integrerad QA per fas enligt GUID 3920, eller bedöma distinktionen systemnivå-QA (ISSAI 140) vs. processintegrerad QA.
 - Du ska bedöma en extern gransknings- eller opponentprocess mot metautvärderingsstandarderna (JCSEE, Scrivens), eller värdera om en rapport uppfyller krav på öppen vetenskap och AI-transparens.
 - Du vill veta om ett modernt peer review-format (OPR, adversarial collaboration, Registered Reports) är lämpligt för ett givet uppdrag.
+- Du har en granskning eller ett kunskapsunderlag där observationella data används för kausala anspråk och behöver bedöma om robustheten mot forskaränesgrader av frihet är tillräckligt utredd (specification curve / multiverse-analys).
 
 ## När jag INTE är rätt expert
 
@@ -100,6 +101,6 @@ Vid metautvärdering av en extern granskning tillämpar jag JCSEE Program Evalua
 
 - `references/vetenskapliga-krav-checklista.md` — kondenserad checklista för de fem grundkriterierna, abduktion, hedging-skala och systematiska brister enligt avsnitt 9. Läs när: du behöver en snabb referens under granskning utan att ladda hela skillen.
 - `references/grade-amstar-protokoll.md` — protokoll för GRADE-bedömning (kvantitativ), GRADE-CERQual (kvalitativ syntes med SoQF-tabellmall och komponentdefinitioner) och AMSTAR 2-granskning. Läs när: du utför en evidensbedömning eller bedömer kvaliteten på en systematisk översikt — oavsett om underlaget är kvantitativt eller kvalitativt.
-- `references/kausalitet-hedging.md` — hedging-skalan, designhierarki för kausalitetskrav, exempelformuleringar för kalibrerad precision, och RiR-specifika kalibrerade exempelmeningar. Läs när: du bedömer kausalitetsanspråk i rapporttext eller kalibrerar hedging mot evidenshierarkins svagaste länk.
+- `references/kausalitet-hedging.md` — hedging-skalan, designhierarki för kausalitetskrav, exempelformuleringar för kalibrerad precision, RiR-specifika kalibrerade exempelmeningar, och specification curve / multiverse-analys (Simonsohn et al. 2020; Steegen et al. 2016) med fem kalibrerade opponentinvändningar för observationella kausala anspråk. Läs när: du bedömer kausalitetsanspråk i rapporttext, kalibrerar hedging mot evidenshierarkins svagaste länk, eller bedömer robusthet mot forskaränesgrader av frihet.
 - `references/independence-guid3920.md` — INTOSAI-P 10:s åtta pelare, ISSAI 150:s etiska principer (2019), ISSAI 140:s QMS-krav, SAI PMF 2025:s sju domäner och bedömningsskala, GUID 3920:s QA-integration per fas, hotkategorier och safeguards. Läs när: du gör en independence assurance-bedömning, granskar om revisionsprocessen har integrerad QA per fas, eller ska bedöma en SAI:s prestandanivå mot PMF-ramverket.
 - `references/peer-review-metodutveckling.md` — moderna peer review-format (OPR, AI-granskning, adversarial collaboration, Registered Reports), metautvärdering (JCSEE, Scrivens), krav på öppen vetenskap och AI-riktlinjer (ICMJE). Läs när: du bedömer en granskningsprocess, metautvärdering, eller frågor om öppen vetenskap och AI-transparens i rapporter.
