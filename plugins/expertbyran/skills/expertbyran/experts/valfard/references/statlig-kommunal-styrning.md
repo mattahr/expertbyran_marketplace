@@ -166,6 +166,27 @@ styra kommunerna mot specifika mål — men riskerar att kommuner anpassar sig f
 
 ---
 
+## Kommunkapacitet som strukturproblem (SOU 2024:6)
+
+**SOU 2024:6** (*Steg mot stärkt kapacitet*, Kommunperspektivutredningen, jan 2024) visar att
+statens styrning förutsätter kommunal kapacitet som många kommuner saknar.
+
+**Nyckelresultat:**
+- Mindre kommuner kan inte hantera alla statliga styrsignaler — staten styr mer men får sämre genomslag
+- Kommunerna efterfrågar mer utrymme för lokalt anpassade lösningar utan att nationella ambitioner åsidosätts
+- "Statens reträtt" inom politikområden gör att medborgare vänder sig till kommunerna — kommunala kostnader ökar utan finansiering
+- Riksdagen har blivit mer aktiv i styrningen — tar fler initiativ om skärpta regelverk, förstatliganden, ny tillståndsgivning → svårare för regeringen att ha sammanhållen styrning (Statskontoret 2023:7)
+
+**Kombination med RiR 2026:6:** De kommuner med sämst LSS-handläggning är ofta de med sämst
+kapacitet — och de är minst mottagliga för ytterligare statliga styrsignaler. En ny LSS-inspektionsmyndighet
+(Dir. 2025:40) hjälper inte om kommunen saknar kapacitet att åtgärda de brister som identifieras.
+
+**Statskontoret 2023:7** (*Att styra de självstyrande*) bekräftar: statens styrning ökar i
+detaljering; kommunsektorn tar emot signalerna men förändras marginellt. Kompetensförsörjning
+är en strukturell utmaning staten inte klarar lösa via normering.
+
+---
+
 ## Likvärdighetsproblemet
 
 **SoL som ramlag** ger kommunerna stort tolkningsutrymme → stora lokala variationer i
@@ -193,3 +214,6 @@ handlingsutrymme är avsedda.
 | **Prop. 2025/26:1 UO9** | 2025 | Aktuella resultatindikatorer per välfärdsområde |
 | **RiR 2013:20** *Nationella kvalitetsregister* | 2013 | Risk för "conformance not performance" vid indikatorstyrning |
 | **RiR 2020:19** *Äldresatsningen* | 2020 | Statliga satsningar på kvalitetsregister; svag lokal kapacitet |
+| **SOU 2024:6** *Steg mot stärkt kapacitet* | 2024 | Kommunkapacitet som strukturproblem; statens styrningsförutsättningar |
+| **Statskontoret 2023:7** *Att styra de självstyrande* | 2023 | Statens ökade styrning, svagt genomslag, kompetensförsörjning |
+| **SOU 2024:43** *Staten och kommunsektorn* | 2024 | Kommunalt självstyre (RF 14 kap.); förslag formaliserad dialog |

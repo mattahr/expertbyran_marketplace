@@ -40,7 +40,7 @@ episodiska.
 |---|--------|----------------|-----------|
 | 1 | Rådgivning och stöd (råd av experter) | Region | Inkl. kuratorsstöd, psykologstöd |
 | 2 | Personlig assistans | FK (>20 tim/v) / Kommunen (≤20 tim/v) | Mest omdiskuterad insats |
-| 3 | Ledsagarservice | Kommunen | Minskad i omfattning, ojämn tillämpning |
+| 3 | Ledsagarservice | Kommunen | Minskad i omfattning, ojämn tillämpning; separat lag utreds (riksdagstillkännagivande 2024) |
 | 4 | Kontaktperson | Kommunen | Minskad i omfattning, ojämn tillämpning |
 | 5 | Avlösarservice i hemmet | Kommunen | |
 | 6 | Korttidsvistelse utanför det egna hemmet | Kommunen | |
@@ -109,6 +109,19 @@ i LSS-myndighetsutövning.
 föreskrifter för LSS-utförande (t.ex. daglig verksamhet). Socialstyrelsen har
 verkställighetsbemyndigande men begränsat till att komplettera — inte tillföra
 väsentligt nytt (RiR 2026:6, s. 38).
+
+**Dir. 2025:40 — ny LSS-inspektion (redovisas januari 2027):**
+Regeringen tillsatte 2025 en utredning om att inrätta en fristående LSS-inspektionsmyndighet,
+separerad från IVO. Uppdraget: säkerställa att LSS-verksamheter är säkra, av god kvalitet
+och bedrivs enligt lag. Kritiska frågor som utredningen måste hantera:
+- Hur undviks dubbel tillsynsstruktur (ny inspektion + IVO:s kvarvarande ansvar)?
+- Hur löses "förväntansgapet"? IVO har normeringsförbud men kommunerna behöver vägledning
+- Samordning med Socialstyrelsens kunskapsstöd och socialdataregistret (Prop. 2025/26:165)
+- Kapacitetskostnad: ny myndighet kostar att bygga upp
+
+Utredningen redovisas januari 2027 — efter att nationell handlingsplan funktionshinder
+2026–2031 beslutats, vilket är ett sekvenseringsproblem: handlingsplanen saknar den
+tillsynsstruktur som utredningen ska designa.
 
 ---
 
@@ -187,4 +200,6 @@ uppföljningsstruktur.
 | **ISF 2025:1** *Konsekvenser av lagändringarna* | 2025 | FK:s tillämpning; egenvård svagaste länken |
 | **SOU 2025:84** *Hem för barn och unga* | 2025 | Frekvenstillsyn HVB; IVO:s historik |
 | **CRPD/C/SWE/CO/2-3** | 2024 | FN:s rekommendationer; Agenda 2030-koppling |
-| **Prop. 2025/26:15** *Skarpare verktyg till IVO* | 2025 | IVO:s nya sanktionsavgifter i SoL och LSS |
+| **Prop. 2025/26:15** *Skarpare verktyg till IVO* | 2025 | IVO:s nya sanktionsavgifter i SoL och LSS; ikraft 1 jan 2026 |
+| **Dir. 2025:40** *Ny LSS-inspektion* | 2025 | Utredning om fristående LSS-inspektionsmyndighet; redovisas jan 2027 |
+| **Bet. 2023/24:SoU13** *Stöd till personer med funktionsnedsättning* | 2024 | Riksdagstillkännagivande om ledsagningslag + avgiftsfri ledsagning; bereds |
