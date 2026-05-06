@@ -82,17 +82,24 @@ Flexibilitetsmekanismer: köp av kvoter från andra EU-stater, engångstransfer 
 
 ## RiR 2025:25 — Klimatpolitiska ramverkets funktion
 
-Riksrevisionen granskade 2025 om det klimatpolitiska ramverket fungerar som avsett.
+Riksrevisionen granskade (beslutad 2025-10-07) om det klimatpolitiska ramverket fungerar som avsett. Granskningen omfattar underlagskedjan Naturvårdsverket → Regeringen → riksdagen, samt Klimatpolitiska rådets utvärderingsarbete.
 
-**Huvudslutsatser:**
+**Centrala fynd:**
 
 | Iakttagelse | Bedömning |
 |-------------|-----------|
-| Klimatredovisningarna i budgetpropositionen | Ofullständiga; saknar systematisk koppling styrmedel → utsläppseffekt |
-| Klimatpolitisk handlingsplan 2024 | 56 av 85 åtgärder utan kvantifierade effekter |
-| Klimatpolitiska rådet | Saknar resurser för djupanalyser; sekretariatets kapacitet otillräcklig |
+| Naturvårdsverkets underlag | Innehåller stora osäkerheter i effektbedömningar — **inte transparent redovisade** |
+| Underlagskedjan som helhet | Osäkerheterna förs vidare till klimatredovisningar och handlingsplaner utan transparens |
+| Handlingsplanen 2023 | Effektberäkningar i sammanfattande tabell avvek i flera fall från Regeringskansliets eget underlag |
+| Risk | Utsläppsgapet till 2045 kan vara **större** än vad NV och regeringen bedömer — potentiell underskattning av åtgärdsbehovet |
+| Klimatpolitiska rådet | Granskar **inte** effektbedömningar och modeller — ingen myndighet gör det (systemfel) |
 
-**Rekommendationer:** Regeringen bör säkerställa att klimatredovisningarna innehåller explicita effektbedömningar per styrmedel och att handlingsplanen inkluderar mätbara mål per åtgärd.
+**Rekommendationer (RiR 2025:25):**
+1. Regeringen: Redovisa viktiga antaganden och osäkerheter i klimatredovisningar och handlingsplaner; redovisa fler möjliga utsläppsutfall
+2. Naturvårdsverket: Förbättra transparensen i underlaget
+3. Klimatpolitiska rådet: Utvärdera även de modeller och beräkningar som regeringens politik bygger på
+
+**Granskningsfälla:** RiR 2025:25 identifierar att **ingen myndighet** idag har ansvar för att granska effektbedömningarnas metodkvalitet i klimatredovisningar och handlingsplaner. Konstitutionsutskottets granskning (HC01KU20) 2025 konstaterade att handlingsplanens förenlighet med klimatlagen är ifrågasatt.
 
 ---
 
@@ -164,6 +171,34 @@ Miljömålsberedningen föreslog i oktober 2025 att ändra basår från 1990 →
 - Jämförbara EU-länder har redan beslutade styrmedelsportföljer för 2030 — Sverige riskerar att halka efter
 
 **Granskningsfråga:** Har regeringen en rimlig plan för styrmedelsarkitekturen 2027–2030, och ökar förseningen risken för att ESR-åtagandena inte nås?
+
+---
+
+## Klimatgapet 2025 — faktiska siffror (Klimatredovisning 2025, Prop. 2025/26:1 Bilaga 4)
+
+Klimatredovisningen som lämnades i budgetpropositionen för 2026 (Prop. 2025/26:1 Bilaga 4) redovisar gapen till de nationella etappmålen:
+
+| Mål | Gap utan kompletterande åtgärder | Gap med kompletterande åtgärder |
+|-----|----------------------------------|--------------------------------|
+| 2030-etappmålet | **7,4 Mton CO₂e** | **5,6 Mton CO₂e** |
+| 2040-etappmålet | **4,4 Mton CO₂e** | **3,4 Mton CO₂e** |
+
+Kompletterande åtgärder (BioCCS + internationella klimatinsatser) beräknas bidra med ca 1,8 Mton CO₂e 2030 — men regeringen bedömer att etappmålen **inte nås ens med dessa inräknade**. International climate actions-delen (RiR 2025:28) bidrar med 0,4–0,5 Mton.
+
+---
+
+## Den tredje klimathandlingsplanen (förväntas 2027)
+
+Klimatlagen kräver att en ny klimatpolitisk handlingsplan lämnas **året efter ordinarie riksdagsval**. Nästa val är 2026 → tredje handlingsplanen förväntas **2027**.
+
+**Förutsättningar och krav:**
+1. **Uppdaterade etappmål** anpassade till EU:s 2040-mål (-90 % netto); Miljömålsberedningens SOU 2025:107 är underlag
+2. **Styrmedelsarkitektur 2027–2035** för ESR-sektorn — Styrmedelsutredningen (dir. 2024:98) är försenad och har inte levererat underlag
+3. **Transparent underlags- och osäkerhetsredovisning** — möta RiR 2025:25:s kritik (systembristen kvarstår)
+4. **BioCCS** som kompletterande åtgärd — otydlig statlig styrning
+5. **LULUCF-underskottet** (~63–71 Mton CO₂e 2021–2025) behöver adresseras
+
+**Granskningsfråga för RiR:** Uppfyller den tredje handlingsplanen klimatlagens krav bättre än de tidigare, specifikt avseende kvantifierade effektbedömningar och transparens om osäkerheter — eller upprepas mönstret från 2:a handlingsplanen?
 
 ---
 
