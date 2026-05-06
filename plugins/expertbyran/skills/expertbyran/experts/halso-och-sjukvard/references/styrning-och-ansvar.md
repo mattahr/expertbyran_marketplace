@@ -52,3 +52,42 @@ SKR är en arbetsgivar- och intresseorganisation för regionerna och kommunerna.
 2. **Jämlik vård**: staten vill minska regional variation men respekterar kommunalt självstyre.
 3. **Riktade statsbidrag**: kritiseras för att skapa kortsiktig styrning och merarbete utan varaktiga förändringar.
 4. **Nationell samordning av beredskap**: pandemikommissionen (SOU 2022:10) visade på bristande statlig samordning.
+
+---
+
+## SOU 2025:62 — Vårdansvarskommitténs analytiska ramverk (juni 2025)
+
+Källa: *Ansvaret för hälso- och sjukvården*, SOU 2025:62 (Vårdansvarskommittén, dir. 2023:73). Publicerad 2 juni 2025.
+Vol 1 (bedömningar): https://data.riksdagen.se/dokument/HDB362.html
+Vol 2 (underlagsrapporter): https://data.riksdagen.se/dokument/HDB362d2.html
+
+### De fyra analytiska ansvarsbegreppen
+
+Kommittén definierade fyra begrepp för att precisera vad ett "statligt huvudmannaskap" egentligen innebär. Dessa begrepp är nu standardterminologi för alla diskussioner om stat–region-ansvarsfördelning:
+
+| Begrepp | Innebörd | Nuläge |
+|---|---|---|
+| **Systemansvar** | Politisk styrning, normering, kunskapsstyrning, tillsyn | Delat stat–regioner |
+| **Finansieringsansvar** | Inhämtning och fördelning av ekonomiska resurser | Primärt regionerna |
+| **Tillhandahållaransvar** | Säkerställa tillgång till vård för befolkningen (kärnan i huvudmannaskapet) | Regionerna |
+| **Verksamhetsansvar** | Drift och utförande av vård (kan läggas på privata aktörer) | Regionerna + privata |
+
+*Tillhandahållaransvaret = definitionen av vem som är "huvudman".*
+
+### Kommitténs slutsatser
+
+**Fullt statligt huvudmannaskap:** Parlamentarisk splittring. S, M, V, C, MP, L: nej (inga bevis på förbättringar, stora risker, höga genomförandekostnader). SD, KD: ja.
+
+**Delvis statligt huvudmannaskap** (specialiserad vård, primärvård, rättspsykiatri etc.): Avråds från — för komplexa gränsdragningar i ett integrerat system.
+
+**Vad kommittén FÖRESLÅR** (stärkt statligt system- och finansieringsansvar utan ägarskifte):
+- Renodla statlig styrning mot normering; begränsa antalet styrformer
+- Staten bör vidta åtgärder för ökad regelefterlevnad hos regionerna
+- Utökat statligt systemansvar: kunskapsstyrning, tillsyn, digital infrastruktur, utbildningsplatsplanering (nationell nivå)
+- Utökat finansieringsansvar: läkemedel, utbildningsplatser
+
+**Status:** Remissbehandlas 2025–2026. Ej lett till proposition per 2026-05-06.
+
+### Granskningsimplikation
+
+Kommittén bekräftar att problemet inte är *vem* som äger vården utan *hur styrkedjorna fungerar*. Det öppnar för revisioner av statens styrningsförmåga — normering, tillsyn, ansvarsutkrävande — utan att behöva ta ställning till organisationsform. Statens nuvarande styrning har identifierats som otydlig och utan tillräcklig ansvarsutkrävande komponent (bekräftat parallellt i Vårdanalys Rapport 2025:1).
