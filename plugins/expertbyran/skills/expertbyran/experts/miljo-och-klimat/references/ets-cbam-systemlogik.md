@@ -101,8 +101,45 @@ Täcker: distributörer av bränslen till **vägtransporter** och **byggnader** 
 
 ---
 
+---
+
+## ETS-revision 2026 — permanenta kolupptag och industriell kolhantering
+
+**Förslag väntas juli 2026.** Kommissionen har ett lagstadgat mandat (från ETS1-direktivets revision 2023) att bedöma om CO₂ som avskiljts och permanent lagrats ska täckas av utsläppshandeln.
+
+### Kärnfrågan: integration i ETS1 eller parallellt system?
+
+**Alt. 1 — Integration i ETS1:** Permanenta kolupptag (industriell CDR) integreras direkt. Anläggningar som lagrar CO₂ permanent kan generera negativa utsläppsrätter som andra aktörer använder för att uppfylla överlåtelseskyldigheter.
+
+**Alt. 2 — Separat compliance-system kopplat till ETS:** Parallellt system för koldioxidupptag. Mer kontroll, men komplexare struktur.
+
+Båda alternativen förutsätter EU:s **certifieringsramverk för permanenta kolupptag** (förordning EU 2024/3012, i kraft november 2024) för MRV-krav.
+
+### Industriell Carbon Management Strategy (EU, feb 2024)
+
+COM/2024/62 slår fast att industriell CDR (CCS/CCU) är nödvändigt för svåromställda sektorer (stål, cement, gödselmedel, raffinaderier) och att negativa utsläpp efter 2050 kräver storskalig BioCCS och DACCS.
+
+### Relevanta teknologier
+
+- **BioCCS** — CO₂ avskiljd vid bioenergiförbränning lagras geologiskt. Negativt utsläpp. Störst potential: massa- och pappersindustri, kraftvärmeverk.
+- **DACCS** — CO₂ fångas direkt ur atmosfären. Hög kostnad (~300–600 USD/ton) men biomassa-oberoende.
+
+### Svensk kontext: Industriklivet och bioCCS
+
+- Industriklivet (Energimyndigheten) ger investerings- och driftstöd till bioCCS/DACCS sedan 2019.
+- **Första bioCCS-auktionen (2024):** Stockholm Exergi — ~20,3 mdr kr, 11,52 Mton CO₂ lagrad 2028–2042 (~0,83 Mton/år full kapacitet).
+- Uppskattad total kapacitet 2030: **~1 Mton/år** biogen CO₂ lagrad i Sverige.
+- Kompletterande åtgärder (inkl. bioCCS) tillgodoräknas: upp till 8 % för 2030-målet, 15 % för 2045-målet.
+
+**Granskningsrisk:** Klimatgapet 2030 är 7,4 Mton CO₂e — räcker 1 Mton bioCCS/år? Har Industriklivets stöd tillräckliga MRV-krav för additionalitet och permanens?
+
+**Källor:** EP Think Tank EPRS BRI(2026)782615; COM/2024/62; EU 2024/3012; SOU 2025:107; RiR 2024:17 (Industriklivet).
+
+---
+
 ## Granskningsfällor
 
 1. **ETS–ESR-förväxling:** Nationella klimatmål gäller ESR-sektorer; ETS-sektorer styrs av EU-taket. Att Sverige "gör mer" i ETS-sektorer kan vara nollsummespel inom EU.
 2. **Additionalitet:** Klimatklivet och industriklivet riktar sig delvis mot ETS-sektorer — nettoeffekten av sådana stöd på EU-nivå bör alltid bedömas.
 3. **CBAM avräkning:** Avräkningsmekanismen (art. 9) för koldioxidpris i tredjeland är komplex — risk för underdeklatering om Naturvårdsverket saknar kapacitet att kontrollera.
+4. **ETS-revision CDR-integration:** Om EU väljer att integrera permanenta kolupptag i ETS1, kan det ändra incitamentsstrukturen för Industriklivet och bioCCS-stödet — granska hur svenska aktörer påverkas av det policybeslutet.
