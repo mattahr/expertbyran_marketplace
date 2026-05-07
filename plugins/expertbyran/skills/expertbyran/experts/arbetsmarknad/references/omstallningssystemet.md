@@ -59,12 +59,44 @@ Den snabbt ökande budgeten speglar dels backlog-utrensning, dels att fler bevil
 
 Trots digitalisering är handläggningstiden fortfarande lång. CSN fick i regleringsbrevet 2024 i uppdrag att korta handläggningstiderna ytterligare.
 
+### Budgetunderutnyttjande 2026 — den dominerande frågan
+
+**CSN:s prognos maj 2026:**
+- Anslag 2026: 7 339 MSEK (~7,3 miljarder)
+- Förväntad utbetalning: ~3 190 MSEK (~3,19 miljarder = **44% av anslaget**)
+- Drygt **4 miljarder kronor förväntas inte utnyttjas**
+- Primär orsak: låg kännedom bland behöriga — de vet inte om att stödet finns
+
+**Ansökningsomgång oktober 2025 (för studier fr.o.m. jan 2026):**
+- 16 300 ansökningar från 14 700 personer (lägre än tidigare omgångar)
+- 7 100 beviljades (~48% beviljandegrad)
+- Trendbrott: utbetalningarna förväntas sjunka 2026 efter fyra års ökning
+
+**Budget för handläggning 2026:**
+- Inga extra handläggarmedel i budget 2026 (till skillnad från 2024)
+- CSN varnar: handläggningstiderna kan öka igen vid ökat söktryck
+
+**Politisk respons:**
+- Riksdagsinterpellation 2025/26:379 (Niklas Sigvardsson, S): "Omställningsstudiestöd som inte utnyttjas"
+  URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/omstallningsstudiestod-som-inte-utnyttjas_hd10379/
+- Omställningsfonden proaktiv informationskampanj (mars 2026)
+
+**Analytisk tolkning:**
+Paradoxen är att 7,3 Mdr budgeterats för ett stöd som bara utnyttjas till ~44%. Informationsasymmetri är kärnan — behöriga vet inte att stödet finns. En-gångskonstruktionen förvärrar: den som missar rätt tillfälle kan inte ta stödet igen. Fredriksson & Seims (2024) kritik om träffsäkerhet bekräftas på ett nytt sätt: systemet är designat för den aktivt sökande, inte för den som behöver proaktiv vägledning.
+
+**KOK — offentlig sektor:**
+- ~6 000 beviljade OOS i kommunal/regional sektor sedan 2022 (t.o.m. april 2025)
+- Omställningsfonden: 750 MSEK för förebyggande insatser 2024–2026
+- KOK-statistik (SKR): https://skr.se/skr/tjanster/statistik/personal/kompetensforsorjning/omstallningsstodet.91081.html
+- IFAU-effektutvärdering av KOK saknas (Kammarkollegiet fick datainsamlingsuppdrag juni 2024)
+
 ### Identifierade problem
 
 1. **Regelkomplexitet** — Ansökan kräver yttranden från omställningsorganisationer → flaskhalsar
 2. **En-gångskonstruktionen** — 44 veckor en gång är otillräckligt för karriärer med flera omvandlingsepisoder (prop. 2023/24:168 konstaterar detta men löser det inte)
 3. **Inlåsningseffekter vid bristyrken** — Den som är i ett bristyrke och vill ställa om till ett *annat* bristyrke har svårare att beviljas stöd. ÖKS-beslut 2023-02-22 (dnr 2022-05323). Prop. 2023/24:168 identifierar detta och föreslår ändring; genomförandes tidplan oklar.
 4. **Ingen effektutvärdering ännu** — IFAU:s effektstudie saknas (2026); bör bevakas
+5. **Massivt budgetunderutnyttjande** — 4 miljarder förväntas frysa inne 2026 pga. låg kännedom (se sektion ovan)
 
 ### Källor för omställningsstudiestödet
 
