@@ -15,6 +15,7 @@ Bakgrund: fil.dr i datavetenskap och samhälle (KTH 2012), civ.ing datateknik (K
 - Du behöver underlag om NIS2 och cybersäkerhetslagen: vad gäller för offentlig förvaltning, tillsyn, incidentrapportering.
 - Du granskar identitetsfastställande vid en myndighet (FK, SKV, Polisen, Migrationsverket).
 - Du vill veta vilka Riksrevisionens granskningar som är relevanta för ett givet digitaliseringstema.
+- Du analyserar AI-verkstaden (FK + Skatteverket, jan 2026): roller, AI Act-klassificering av verkstadens egna tjänster, rollöverlapp med DIGG+PTS-myndigheten.
 - Du behöver ett analytiskt ramverk för att bedöma interoperabilitet eller informationssäkerhet i statliga system.
 
 ## När jag INTE är rätt expert
@@ -66,7 +67,7 @@ Jag börjar med att klassificera myndighetens AI-system:
 - Högrisk-undantag: biometrisk *verifiering/autentisering* (BankID, e-leg, SITHS) är NOT högrisk.
 - **2 aug 2026 (Art. 113):** Hela Bilaga III-regelverket träder i full tillämpning för *nya* högrisk-system. Deployers (myndigheter) måste uppfylla Art. 27 (FRIA) och Art. 49 (registrering i EU-databas) *innan* ibruktagande.
 - Befintliga system med deadline 2 aug 2030 — men varje *betydande förändring* utlöser omedelbar complianceskyldighet.
-- EU Digital Omnibus-förslag (2026): högrisk-deadline för befintliga privata system kan skjutas till 2 dec 2027. Offentliga myndigheter — följ SOU 2025:101 för aktuellt läge.
+- **Digital Omnibus-status maj 2026:** Trilogmötet 28 april bröt samman — inte på grund av deadline-uppskjutandet (parterna i princip eniga) utan på grund av conformity assessment-arkitekturen för AI inbäddad i Bilaga I-produkter (maskiner, medicintekniska produkter). Nästa trilog 13 maj 2026. Hård deadline: om Omnibus inte antas gäller högrisk-skyldigheterna 2 aug 2026 som ursprungligen. MKM-utseende (Art. 70) är *inte* föremål för Omnibus — Sverige försenat sedan aug 2025.
 
 För högrisk-system: dokumentera kraven Art. 9–15 (riskhantering, data, teknisk dokumentation, loggning, transparens, mänsklig kontroll, robusthet), Art. 26 (operatörsskyldigheter), Art. 27 (FRIA) och Art. 49 (EU-registrering).
 
@@ -112,18 +113,43 @@ Granskningsfråga att ställa: *Hur följer Riksrevisionen upp att myndigheter i
 
 **Läs:** `references/interoperabilitet.md`
 
-### NIS2 och cybersäkerhet för statliga myndigheter
+### NIS2 och cybersäkerhetslagen — implementeringsstatus maj 2026
 
-Offentlig förvaltning är Bilaga I (väsentliga entiteter). Nyckelkrav:
+Cybersäkerhetslagen (Prop. 2025/26:28, genomför NIS2) trädde i kraft **15 januari 2026**. Anmälningsprocess öppnade 2 februari 2026. Offentlig förvaltning är Bilaga I (väsentliga entiteter). Nyckelkrav:
 
 - Art. 18: riskhanteringsprogram med 10 obligatoriska säkerhetsåtgärder (leveranskedja, kryptografi, personalsäkerhet m.m.).
-- Art. 20: ledningens ansvar och utbildning. Sverige valde att inte reglera godkännandefunktionen explicit.
-- Art. 21: 24 h tidig varning, 72 h incidentanmälan till CSIRT (MSB), 1 månads slutrapport.
-- Tillsyn: sektormyndigheter (11 st) + MSB som nationell kontaktpunkt.
-- Skärningspunkt med AI Act: IMY och MSB har roll i bägge regelverk — samordningsfrågor uppstår.
-- DORA: lex specialis för finanssektorn från jan 2025 (FI tillsynar, undantar finans från NIS2).
+- Art. 20: ledningens ansvar och utbildning.
+- Art. 21: 24 h tidig varning, 72 h incidentanmälan till CSIRT, 1 månads slutrapport.
+- Tillsyn: 11 sektormyndigheter + MSB/FRA som nationell kontaktpunkt.
+- DORA: lex specialis för finanssektorn (FI tillsynar, undantar finans från NIS2).
+
+**Implementeringsläget maj 2026 — kritiskt:**
+- **Cybersäkerhetskollen 2024:** Bara **8 av 120 myndigheter** uppnår MSB:s nivå för uppfyllda krav (MSBFS 2020:6). Budgetprop. 2026 UO6: "stora delar av den offentliga förvaltningen fortsatt har stora brister."
+- **Incidentrapportering:** 319 it-incidenter 2024; 170 från statliga myndigheter — minskning sedan 2018 trots MSB:s bedömning om "stort mörkertal".
+
+**FRA tar över MSB:s cybersäkerhetsroll — Prop. 2025/26:214:**
+Regeringen lade **Prop. 2025/26:214** "Lagändringar för ett stärkt nationellt cybersäkerhetscenter". FRA tar formellt över MSB:s CSIRT-enhet, gemensam kontaktpunkt, cyberkrishanteringsmyndighet och tillsynssamordning under 2026. Statskontoret 2025:15 bekräftar övergången. Bakomliggande utredning: SOU 2025:79. Ny lag om uppgiftsskyldighet vid samverkan inom NCSC-FRA ingår.
+
+**Strukturell risk:** Ansvarsövergången MSB→FRA sker parallellt med NIS2-implementeringsfasen — kontinuitetsrisk i stöd och tillsynssamordning.
+
+**Granskningsfrågor:** (1) Har cybersäkerhetslagen ökat incidentrapporteringen? (2) Har 8/120-resultatet förbättrats? (3) Hur har FRA-övergången hanterat kontinuiteten?
 
 **Läs:** `references/eu-ai-act-statlig-forvaltning.md` (NIS2-avsnittet)
+
+### AI-verkstaden — statlig AI-infrastruktur
+
+Regeringen gav 8 januari 2026 Försäkringskassan och Skatteverket uppdrag att etablera **AI-verkstaden** — en gemensam infrastruktur och entrépoint för alla offentliga aktörer som vill använda, utveckla eller driftsätta AI på ett säkert sätt. Budget: 200 Mkr (100 Mkr/myndighet). Begränsad version operativ 1 juli 2026. Webbplats: [aiverkstaden.ai](https://www.aiverkstaden.ai).
+
+**Tjänster 2026:** kontrollerad testmiljö (loggning, spårbarhet, dataskydd), juridisk AI-vägledning, kvalitetssäkrade AI-tjänster, AI-insatsstyrka (experter + juridik + organisation skickas ut till myndigheter).
+
+**Kritiska granskningsfrågor jag analyserar:**
+
+1. **Rollöverlapp:** Hur samordnas AI-verkstaden med DIGG+PTS-myndighetens (från jan 2027) AI-vägledningsuppdrag? Vem gör vad?
+2. **AI Act-klassificering:** Om AI-verkstaden levererar AI för myndigheters myndighetsutövning och förmånsbeslut — är verkstadens egna system högrisk (Bilaga III)? Vem klassificerar och vem utövar tillsyn?
+3. **Leverantörsrollen:** FK + Skatteverket är "leverantörer" i AI Act-mening när de tillhandahåller AI-lösningar till andra myndigheter. Det utlöser Art. 9–15 och Art. 49 (EU-registrering).
+4. **Deadline 1 jul 2026:** Levererar AI-verkstaden begränsad version i tid med tillräcklig rättslig grund?
+
+Politisk bakgrund: AI-kommissionen (SOU 2025:12) valde FK + Skatteverket framför DIGG:s alternativa AI-kompetenscentrum — motiveringen var konkret kompetens och praktisk implementation snarare än vägledning. Produktivitetskommissionen (SOU 2025:96) stöder modellen.
 
 ### Algoritmisk beslutsfattning — granskningstestfrågor
 
