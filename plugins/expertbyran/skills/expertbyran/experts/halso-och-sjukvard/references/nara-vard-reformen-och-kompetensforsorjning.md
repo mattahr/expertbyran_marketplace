@@ -133,8 +133,44 @@ Kompetensbristen är inte ett tillfälligt underskott som löses med fler utbild
 
 **Konsekvens för analys**: När man bedömer statliga insatser mot kompetensbristen bör man ställa frågan: adresserar insatsen en punkt i kedjan eller bidrar den till att bryta inlåsningens logik? Lönesatsningar utan arbetsmiljöförbättring har historiskt givit kortsiktiga effekter; system-wide-åtgärder (som Prop. 2025/26:216) har starkare potential men kräver lång tid.
 
+### Nollsummerekrytering — region kontra kommun
+
+**Källa: Vårdanalys PM 2025:6, sid. 40–41 (id: 24494)**
+
+Vårdanalys (2025) visar att när antalet anställda med legitimation ökar i regionernas primärvård i ett län, minskar de *samtidigt* i länets kommuner. Personalökningen i en del av systemet sker alltså ofta genom **omfördelning — inte nettotillväxt**.
+
+Konsekvens: nära vård-reformens förstärkning av primärvården sker delvis på bekostnad av kommunal äldrevård — just den del av systemet som ska stödja äldre och multisjuka i hemmet. Statliga resurstillskott till regionerna riskerar att lösa ett problem och skapa ett annat.
+
+### Geografisk ojämlikhet i personaltäthet
+
+**Källa: SOU 2025:62 vol. 2, sid. 345 (id: 23827)**
+
+Mer än hälften av den legitimerade hälso- och sjukvårdspersonalen är koncentrerad till storstadslänen. Störst är ojämlikheten för primärvårdsläkare:
+
+- Uppsala: 65 läkare per 100 000 invånare
+- Norrbotten: 55 läkare per 100 000 invånare
+
+Glesbygdsregionerna kompenserar med hyrpersonal — ett kostsamt och kontinuitetssänkande substitut. Ingen region når Socialstyrelsens riktvärde om 1 100 listade invånare per fast läkarkontakt.
+
+### Internationellt perspektiv — strukturell global brist
+
+| Organisation | Uppgift | Källa |
+|---|---|---|
+| WHO (2025) | 11 miljoner hälsoarbetare saknas globalt till 2030; 4,1 miljoner sjuksköterskor | OUCRU World Health Worker Week 2025 |
+| OECD | Projicerad genomsnittsbrist 8,5 % läkare / 22,7 % sjuksköterskor i OECD-länder | OECD Health Workforce 2025 |
+| EU-parlamentet (2025) | Hälsoarbetarbristen identifierad som strukturell EU-kris | ECTI_BRI(2025)772481 |
+
+**OECD:s rekommenderade lösningsstrategier:**
+1. Ökat utbildningsutbud + kortare väg till legitimation
+2. Task-shifting: Nurse Practitioners, avancerade specialistsjuksköterskor, teambaserade arbetssätt
+3. Förbättrad arbetsmiljö — avgörande för retention
+4. Internationell rekrytering (OBS: risk för brain drain från låginkomstländer)
+
+Sverige prövar task-shifting via avancerad specialistsjuksköterska (SOU 2024:72) och kommunal läkartillgång (Prop. 2025/26:216) — i linje med OECD men tidigt implementeringsskede per maj 2026.
+
 ## Analytiska varningar
 
 - **Statsbidrag utan strukturell omvandling**: de 28–29 miljarder som satsats 2019–2023 har inte lett till ökad primärvårdsandel i regionernas budgetar (Vårdanalys 2025, SOU 2025:62). Riktade bidrag ger tillfälliga projekt, inte permanenta omprioriteringar.
 - **Mätproblemet**: regionernas listningststatistik för fast läkarkontakt speglar inte befolkningens faktiska upplevelse av kontinuitet (Vårdanalys PM 2024:5).
 - **Reformkonflikten**: satsning på fler slutenvårdsplatser (Vårdanalys PM 2025:3) och nära vård-omställningen (mot primärvård) är delvis i konflikt om resurser.
+- **Nollsummevarningen**: resursökning i en del av vårdsystemet kan dränera en annan del — kontrollera alltid om personalökning i primärvård sker på kommunalvårdens bekostnad (Vårdanalys PM 2025:6).
