@@ -1,6 +1,6 @@
 # Underrättelseväsendet och MUU-reformen
 
-*Senast uppdaterad: 2026-05-07 (EXP-1839)*
+*Senast uppdaterad: 2026-05-07 (EXP-1891)*
 
 ## Nyckelkälla: SOU 2025:78
 
@@ -44,16 +44,34 @@ NATO-medlemskapet (mars 2024), teknisk utveckling.
 - Myndighetsgemensamt råd för underrättelseforskning och utbildning
 - Tolkskolan (FM:s Underrättelse- och säkerhetscentrum) → nationell resurs för totalförsvaret
 
-**Implementeringstidslinje:**
-- Rapport: juni 2025
+**Implementeringstidslinje (uppdaterad EXP-1891):**
+- Rapport (SOU 2025:78): juni 2025
 - Remissprocess: höst 2025–vår 2026
-- Lagstiftning: sannolikt prop. 2026
-- Ny myndighet: 1 januari 2027
+- Kommittédirektiv 2025:92 (okt 2025): implementeringsutredare utsedd
+- Promemoria UD2026/02550: remitterad februari 2026
+- **VÄB26 (Prop. 2025/26:99, april 2026): Anslag 1:6 approprierat — 170 Mkr 2026**
+- Lagrådsremiss + prop.: planerad höst 2026
+- Ny myndighet startar: **1 januari 2027**
+
+**Anslagsutveckling (Ansl. 1:6 "Sveriges utrikes underrättelsetjänst"):**
+
+| År | Anslag (Mkr) |
+|---|---|
+| 2026 | 170 |
+| 2027 | 600 |
+| 2028 | 900 |
+| 2029+ | 1 000 |
+
+**KSI (Kontoret för särskild inhämtning)** — civil HUMINT-enhet inom FM — absorberas i MUU.
+Myndigheten kan bilda täckbolag (kvalificerade skyddsidentiteter).
+Utgifter rapporteras till NATO som försvarsutgifter men redovisas i UO 5 (Internationell samverkan),
+ej UO 6 (Försvar) — potentiell redovisningsklyfta för riksdagens försvarsutskott.
 
 **Rättsliga ramar:**
 - Begreppet "försvarsunderrättelseverksamhet" ersätts av "utrikes underrättelseverksamhet"
 - Ny lag om utrikes underrättelseverksamhet ersätter försvarsunderrättelselagen
-- Ny myndighet behöver anpassad lagstiftning för personuppgiftsbehandling
+- Under övergångstiden 2026 verkar MUU under befintlig lag om försvarsunderrättelseverksamhet
+- Budget approprierad innan lagen trätt i kraft ("budget-före-lag"-konstruktion)
 
 ---
 
@@ -130,12 +148,31 @@ Ingen ersättande tillsynsstruktur föreslås. FRA kan under krigslagen:
 krigslagen aktiveras? Denna fråga kan granskas i fredstid utan tillgång till
 sekretessbelagd information. Granskningsfönster öppnas 1 aug 2026.
 
+**Risk U7: Budget-före-lag — tillsynslucka i MUU:s förberedelsefas 2026 (ny, EXP-1891)**
+Riksdagen approprierade Ansl. 1:6 (170 Mkr 2026) i Prop. 2025/26:99 *innan* lagen
+om MUU:s befogenheter trätt i kraft. Under 2026 förbereder myndigheten sin verksamhet
+(rekrytering, IT-system, KSI-absorption) utan färdigt rättsligt ramverk.
+Riksrevisionen kan granska anslaget (det finns) men myndigheten saknar ännu juridisk form.
+**Granskningsfråga:** Har förberedelserna under 2026 skett i enlighet med gällande
+lagstiftning? Vem ansvarar för tillsynen i mellanfasen?
+**Källa:** Prop. 2025/26:99 (DocRec 24722) s. 26–27.
+
 ---
+
+## Nyckelkällor
+
+| Dokument | DocRec/Ref | Vad det ger |
+|---|---|---|
+| SOU 2025:78 *En reformerad underrättelseverksamhet* | 23875 | Grunddokument, Carl Bildt; MUU:s mandat och organisation |
+| Prop. 2025/26:99 (VÄB26) | 24722, s. 26–27 | Anslag 1:6 approprierat; KSI-absorption; täckbolag |
+| Prop. 2025/26:100 (Vårpropositionen 2026) | 24723, s. 15+175 | Strategisk motivering; organisatorisk flytt UO6→UO5 |
+| Prop. 2025/26:179 | 24613 | Ny krigslagen för signalspaning; Siun-suspension; ikraft 1 aug 2026 |
+| SOU 2021:103 | 10773 | Sekretesshinder för revisionsorgans insynsrätt — analogier MUU |
 
 ## Externa källor att bevaka
 
-- Prop. om MUU (förväntad 2026) — ej publicerad per 2026-05-07
-- Prop. om ny lag om utrikes underrättelseverksamhet (förväntad 2026) — ej publicerad per 2026-05-07
-- Remissvar SOU 2025:78 (höst 2025–vår 2026)
-- Must:s årsöversikter (begränsad offentlig information)
+- **Prop. om ny lag om utrikes underrättelseverksamhet** — lagrådsremiss planerad höst 2026
+- **Regleringsbrev 2027 för MUU** — preciserar uppgifter och inriktning; granskningsbar från dag ett
+- **Siuns roll 2026–2027** — ansvar under övergångsfasen
+- **Must:s årsöversikter** — begränsad offentlig information
 - **Prop. 2025/26:179** ikraft 1 aug 2026 — moderniserar FRA-lagen
