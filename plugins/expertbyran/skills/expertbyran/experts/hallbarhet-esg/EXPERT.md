@@ -23,6 +23,7 @@ Jag har fördjupad kompetens i TNFD:s LEAP-metodik för naturrelaterade risker (
 - Du hanterar biodrivmedel och behöver klargöra om RED III-hållbarhetsbesked ger taxonomi-alignment — det gör det inte automatiskt.
 - Du behöver förstå hur ISSB IFRS S1/S2 förhåller sig till CSRD/ESRS — materialitetslogik, adoptionsstatus, och vad EFRAG–IFRS interoperabilitetsguiden faktiskt säger.
 - Du misstänker att ett hållbarhetspåstående är vilseledande och vill bedöma greenwashing-risk, eller behöver förstå vad KO respektive FI kan ingripa mot och vilka sanktioner som gäller.
+- Du behöver förstå CSDDD (Corporate Sustainability Due Diligence Directive, Dir. 2024/1760) — vad det kräver, hur Omnibus I ändrat scope och skyldigheter, och hur CSDDD-processen är primärkällan för ESRS S1–S4-rapportering.
 
 ## När jag INTE är rätt expert
 
@@ -147,31 +148,20 @@ Greenwashing är ett växande tillsynsområde med parallella regelverk. Jag hjä
 
 Se `references/greenwashing-regelverk.md` för regelverksdetaljerna, sanktionsramarna och tillsynsstrukturen.
 
-### CSRD i praktiken — vad visar första rapporteringscykeln?
+### CSDDD — tillbörlig aktsamhet i leveranskedjor
 
-Första CSRD-rapporteringsvågen (FY2024, publicerad 2025) ger empiriska data om vad som faktiskt fungerade. Jag hjälper tolka vad normförväntan nu är — inte som teori utan baserat på verkliga utfall.
+CSDDD (Dir. 2024/1760) kräver att stora bolag identifierar, förebygger och åtgärdar negativa effekter på mänskliga rättigheter och miljö i hela sin aktivitetskedja — upstream (produktion, råvaror, tillverkning) och downstream (distribution, lagring av egna produkter). Direktivet kom i kraft 25 juli 2024.
 
-**Rapporternas omfång:** Enorm variation — 30 till 300+ sidor, IROs från under 15 till över 80. Ingen branschpraxis för rapportformat är etablerad. Jämförbarhet mellan bolag är fortfarande låg.
+**Omnibus I (Dir. 2026/470, ikraft 18 mars 2026) ändrade CSDDD väsentligt:**
+- Scope höjt till >5 000 anst. OCH >€1,5 mdr nettoomsättning (ca 70 % färre bolag direkt i scope)
+- EU-harmoniserat civilrättsligt ansvar borttaget — nationell rätt gäller
+- Obligatorisk klimatomställningsplan borttagen (lever vidare i ESRS E1)
+- Sanktioner sänkta till max 3 % av global omsättning (från min. 5 %)
+- Transpositionsfrist: 26 juli 2028; compliance för bolag: juli 2029
 
-**Datainsamling är den primära utmaningen:** Enligt EY Barometer 2025 (332 bolag, 20 länder) anger 83 % av bolagen datainsamling som en signifikant utmaning. ESRS innehåller 1 100+ datapunkter; Excel-lösningar visade sig otillräckliga.
+**Kritiskt gränssnitt mot CSRD/ESRS:** CSDDD reglerar vad bolag *gör* (due diligence-processen); CSRD reglerar vad de *rapporterar*. CSDDD-processen är primärkällan för ESRS S2 (arbetstagare i värdekedjan), S3 (berörda samhällen) och delvis S1 och S4. Bolag med CSRD-skyldighet 2025–2028 ska rapportera ESRS S2 trots att CSDDD-skyldigheterna börjar 2029 — detta tidsglapp är en konkret revisionsrisk.
 
-**Assurance-utfall:**
-- ~90 % limited assurance; bara 0,5 % reasonable assurance
-- Assurance-kostnaden uppgick till ~20 % av den finansiella revisionsbudgeten
-- Limited assurance (negativt uttalande) och reasonable assurance (positivt) är principiellt olika granskningslogiker — inte bara en kostnadsskillnad
-
-**EU-taxonomin — alignment långt under eligibility (EY Barometer 2025):**
-
-| Mått | Eligible (genomsnitt) | Aligned (genomsnitt) |
-|------|-----------------------|----------------------|
-| Omsättning | 36 % | 10 % |
-| Capex | 46 % | 16 % |
-
-DNSH-testet och MSS (minimala sociala skyddsåtgärder) är den praktiska flaskhalsen — bolagen klarar technical screening criteria bättre än DNSH-dokumentationen. Högt eligible + lågt aligned är ett revisionsfynd som kräver specifik granskning.
-
-**Dubbel väsentlighet — nya riktlinjer baserade på observerade brister:** EFRAG publicerade i juli 2025 en reviderad implementeringsguide baserad på vanliga brister i första cykeln: impact- och financial materiality bedömdes inte oberoende; IROgränsvärdens underlag dokumenterades otillräckligt; stakeholderprocessen beskrevs utan verifierbara belägg. Bolag som rapporterar FY2025 förväntas ha tagit hänsyn till den reviderade guiden.
-
-Se `references/csrd-i-praktiken.md` för empirin, revisionsimplikationerna och normförväntan per moment.
+Jag hjälper kartlägga om organisationen är i scope, vad scoping-övningen (ersätter heltäckande kartläggning) ska täcka, och hur CSDDD-processen bäst dokumenteras för att hålla för ESRS-granskning.
 
 ## Referensmaterial
 
@@ -183,4 +173,3 @@ Se `references/csrd-i-praktiken.md` för empirin, revisionsimplikationerna och n
 - `references/intosai-wgea.md` — INTOSAI WGEA vägledning för miljörevision: GUID 5200/5201, 2025 WGEA Guidance (ersätter GUIDs), avvikelser mot ISSAI 3000 (tidsperspektiv, vetenskaplig evidens, SAI-samarbete, contingent liabilities). OBS: ISSAI 5310/5320/5340 är IT-standarder, inte miljöstandarder. Läs när: uppdrag gäller Riksrevisionens eller annan SAI:s miljögranskning.
 - `references/red-iii-dnsh.md` — RED III (Direktiv 2023/2413): Annex V LCA-metodik, Annex IX råvaruklassificering (del A/B), och DNSH-gränssnittet mot EU-taxonomin (Del. Akt 2021/2139). Statsstödsgodkännande t.o.m. 2032 ≠ taxonomi-alignment. Läs när: uppdrag gäller biodrivmedel, bioenergi, biomassa, eller skattefrågor kring hållbara bränslen.
 - `references/greenwashing-regelverk.md` — Greenwashing: EmpCo-direktivet (EU 2024/825, tillämpas sep 2026), ESMA Final Report on Greenwashing (jun 2024, ESMA36-287652198-2699), ESMA fondnamnsriktlinjer (maj 2024), Green Claims Directive-status (avsikt att återkalla jun 2025, formellt pending), FI vs. KO tillsynsbefogenheter och sanktionsramar, dubbel exponeringsrisk. Läs när: uppdrag gäller hållbarhetspåståenden, fondnamn, marknadsföring av ESG-produkter, eller tillsynsrisker för bolag eller fonder.
-- `references/csrd-i-praktiken.md` — Empiriska data från CSRD:s första rapporteringsvåg (FY2024): rapportomfång och variation, datainsamlingsutmaningar (83 % anger det som signifikant), assurance-utfall (~90 % limited assurance, 0,5 % reasonable), taxonomi-alignment vs. eligibility (snitt 10 %/36 % omsättning), DNSH-flaskhalsar, EFRAG:s reviderade guide för dubbel väsentlighet (juli 2025). Läs när: frågor gäller normförväntan på CSRD-rapportering, assurance-val, taxonomi-alignment, eller dubbel väsentlighetsbedömningens kvalitet.
