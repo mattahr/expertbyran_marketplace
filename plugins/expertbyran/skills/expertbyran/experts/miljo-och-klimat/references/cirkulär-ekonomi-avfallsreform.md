@@ -126,23 +126,37 @@ EU-förordning (EU) 2024/1781, i kraft **18 juli 2024**. Flaggskepp i EU:s Circu
 
 ## EU Circular Economy Act — Lagstiftningsförslag väntat Q3 2026
 
-Kommissionen har genomfört öppen konsultation (aug–nov 2025) och högnivåmöte **30 april 2026**. Lagstiftningsförslag förväntas **Q3 2026**.
+Kommissionen genomförde öppen konsultation (aug–nov 2025), högnivåsamtal **30 april 2026** (~1 000 deltagare), och **6 maj 2026 diskuterade kommissionens collegium lagförslaget**. Lagstiftningsförslag förväntas **Q3 2026**.
 
 **Syfte och mål:**
 - Skapa en **Single Market för sekundära råmaterial** — harmoniserade klassificeringsstandarder och marknadsvillkor för återvunnet material i hela EU
 - **Fördubbla EU:s cirkulärmaterialanvändningsgrad** från ~12 % (2022) till ~24 % till 2030
 - Minska EU:s beroende av importerade råvaror; Kina levererar ~100 % av tunga sällsynta jordartsmetaller
 
+**Tre lagstiftningspelare (föreslagen struktur):**
+
+| Pelare | Innehåll |
+|--------|----------|
+| 1. Avfallsdirektiv-reform | Ändring av Waste Framework Directive + Landfill Directive; harmoniserade end-of-waste-kriterier; förenkling för sekundärråvaror |
+| 2. WEEE-reform | Förbättrad e-avfallsinsamling (nu 30–31 % återvunnet); återvinning av kritiska råmaterial ur elektronikavfall |
+| 3. Horisontella marknadsinstrument | Harmoniserad EPR; återvinningsinnehållskrav (recycled content targets); cirkulära offentliga upphandlingskrav; transregionala cirkulärhubbar; digitala tillståndsystem |
+
 **Politisk inramning:**
 - Framas som ett **industriellt konkurrenskraftsverktyg** (inte enbart miljöpolitik) — koppling till Critical Raw Materials Act (CRMA) och strategisk autonomi
 - Drivs av insikten att EU:s återvinningssystem producerar fragmenterade, svår-handlade sekundärströmmar utan gemensam marknad
+
+**Sveriges läge inför CEA:**
+- **Cirkularitetsgrad ~3–4 %** vs. EU-snitt ~12 % och mål 24 % till 2030 — ett av EU:s lägsta
+- **Riksdagen Betänkande MJU12 (2025/26):** avfärdade 230 motioner om cirkulär ekonomi; erkände cirkularitetsgapet men pekade på EU-koordination som primär lösning; erkände att Sverige behöver uppdaterad nationell cirkulär ekonomi-strategi med konkreta åtgärdsplaner
+- **Delegationen för cirkulär ekonomi (2025):** rekommenderade offentlig upphandling (~900 mdr SEK/år) som hävstång
 
 **Granskningsrelevans:**
 - Sveriges position i rådsförhandlingar — driver Sverige ambitiösa eller begränsade mål?
 - Har Naturvårdsverket och Tillväxtverket kapacitet att implementera eventuella nya EU-krav?
 - Hur kopplar Sveriges pågående avfallsreform (Prop. 2025/26:108) till CEA-ambitionen?
+- Är EPR-systemen (förpackningar, elektronik, textil) harmoniserade tillräckligt för ett EU-gemensamt sekundärmaterialsystem?
 
-**Källa:** [EU-kommissionen — CEA-konsultation aug 2025](https://environment.ec.europa.eu/news/commission-launches-consultation-upcoming-circular-economy-act-2025-08-01_en); [Högnivåmöte 30 april 2026](https://environment.ec.europa.eu/news/commission-holds-high-level-talks-circular-economy-act-2026-04-30_en); [IEEP-analys om CEA](https://ieep.eu/publications/the-circular-economy-act-material-consumption-targets-and-secondary-material-use/)
+**Källa:** [EU-kommissionen — CEA-konsultation aug 2025](https://environment.ec.europa.eu/news/commission-launches-consultation-upcoming-circular-economy-act-2025-08-01_en); [Högnivåmöte 30 april 2026](https://environment.ec.europa.eu/news/commission-holds-high-level-talks-circular-economy-act-2026-04-30_en); [IEEP-analys om CEA](https://ieep.eu/publications/the-circular-economy-act-material-consumption-targets-and-secondary-material-use/); [Riksdagen MJU12 2025/26](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/cirkular-och-giftfri-ekonomi_hd01mju12/)
 
 ---
 
