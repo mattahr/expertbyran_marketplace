@@ -89,6 +89,31 @@ En ny fullständig Peer Review av Sverige är planerad för 2026. CONCORD Sverig
 
 **Källa:** [CONCORD Sveriges memorandum (maj 2025)](https://concord.se/wp-content/uploads/2025/05/civil-society-memorandum-on-swedens-development-cooperation.pdf)
 
+## Globalt ODA-läge 2025–2026 (internationell kontext)
+
+OECD publicerade i april 2026 preliminär statistik för 2025 som visar **den största enskilda nedgången i ODA-historiken**:
+
+- Totalt ODA från DAC-länder: **174,3 miljarder USD** (2025) jämfört med 215,1 miljarder USD (2024) — **−23,1% i reala termer**
+- Representerar 0,26% av DAC-ländernas samlade GNI (ned från 0,34% år 2024)
+- **USA** drev tre fjärdedelar av nedgången: −56,9% (ca −38 miljarder USD), den enskilt största minskningen av ett givarland någonsin
+- Bilateral ODA: −26,4%; Multilateral ODA: −12,7%
+- FN-systemets kärnbidrag föll med **−27%** (störst årlig nedgång på rekord), drivet av USA:s nästan totala frånträde
+- OECD-prognos 2026: ytterligare −5,8%
+
+**Implikation för Sverige:** Sverige förblir relativt generöst (uppskattningsvis 0,7%+ av GNI), men den globala systemnedgången innebär att multilaterala organisationer som Sverige verkar i via kärnstöd och öronmärkta bidrag är under existentiell finansieringspress. Argument för att Sverige (och EU) bör fylla vakuumet från USA stärks, men möter budgetrestriktioner.
+
+**Källa:** [OECD — International aid fell sharply in 2025 (april 2026)](https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html)
+
+## Riksrevisionen om humanitärt bistånd (2026)
+
+Riksrevisionen granskade 2026 Sidas arbete med det humanitära biståndet (Skr. HD03226). Centrala fynd:
+
+- **Uppföljningslucka multilateralt:** Det är svårt att utläsa i vilken utsträckning Sidas humanitära biståndsverksamhet faktiskt bidrar till multilaterala organisationers mål och åtaganden — trots omfångsrik rapportering.
+- Sida använder MOPAN-bedömningar och externa utvärderingar men förlitar sig primärt på samarbetspartners egen rapportering.
+- **Nytt uppföljningssystem 2025–2026:** Sidas humanitära avdelning testar ett nytt system (utanför TRAC) under 2025–2026 för mer systematisk uppföljning av samarbetspartners.
+
+**Källa:** [Skr. HD03226 (2026)](https://data.riksdagen.se/dokument/HD03226.html)
+
 ## Resultatredovisning
 
 **Riksrevisionen RiR 2024:4** (*Uppföljning, utvärdering och rapportering*): Regeringens resultatredovisning till riksdagen är otydlig och ger inte riksdagen tillräckligt bra underlag för bedömning av biståndets effekter. EBA har i praktiken stor självständighet men regeringen baserar inte alltid biståndets utformning på EBAs studier.
@@ -99,9 +124,11 @@ En ny fullständig Peer Review av Sverige är planerad för 2026. CONCORD Sverig
 
 | Dok | Relevans |
 |---|---|
-| Prop. 2025/26:1 UO7 | Viktigaste. Reformagenda, Ukraina 20%, budgetsiffror 2024. |
+| Prop. 2025/26:1 UO7 (HD031d9) | Reformagenda, Ukraina 20%, budgetsiffror 2026, utfasade länder. |
 | Betänkande HD01UU2 (2025) | Riksdagens ställningstaganden 2025. |
 | RiR 2024:4 | Resultatredovisning — Sida + EBA. |
 | Skr. 2024/25:4 | Regeringens svar på RiR 2024:4. |
 | Interpellation HC1085 (V) | Riksdagsdebatt om nedskärningar och 1%-målet (okt 2024). |
 | Motion 2025/26:2818 (V) | Krav på plan för återgång till 1%-målet. |
+| Skr. HD03226 (RiR humanitärt, 2026) | Riksrevisionen om Sidas humanitära biståndsuppföljning. |
+| OECD April 2026 | Historisk global ODA-nedgång 2025: −23,1% i reala termer. |
