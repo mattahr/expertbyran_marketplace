@@ -1,17 +1,25 @@
 # 6G och Nästa Generations Trådlösa System
 
-Senast uppdaterad: 2026-04-29
+Senast uppdaterad: 2026-05-07 (EXP-1908 — internationell kapplöpning, geopolitik, AI-native/THz/RIS)
 
-## Standardisering och tidslinje
+## Standardisering och tidslinje (uppdaterat maj 2026)
 
-- 6G förväntas tas i kommersiell drift ~2030
-- Standardisering (3GPP Rel-20+) inleds formellt 2026
-- ITU-R WP 5D driver IMT-2030-processen
+| Release | Period | Innehåll |
+|---------|--------|---------|
+| **Rel-19** | 2024–2025 | 5G-Advanced + 6G study items steg 1 |
+| **Rel-20** | 2026–2028 | Dedikerad 6G study phase — tekniska spec börjar |
+| **Rel-21** | 2028–2029 | Första normativa 6G-release |
+| Kommersiell | 2030–2031 | Ledande marknader; Korea siktar pilot 2028 |
+
+**Kritisk milstolpe**: TSGs#112-plenarierna **juni 2026** formaliserar Release 21-tidslinjen. Beslutet påverkar hela industrins investeringsplanering.
+
+- ITU-R WP 5D driver IMT-2030-processen; **20 Technical Performance Requirements (TPR)** antagna februari 2026
 - **WRC-27** (World Radiocommunication Conference 2027) ska fatta beslut om pionjärband för 6G
 
 **Kandidatband inför WRC-27:**
 - 7 125–8 400 MHz (övre 6 GHz-bandet — nyckelband)
 - 14,8–15,35 GHz (delvis)
+- 102–275 GHz (sub-THz — ny agendalinje för 6G ultra-high-capacity)
 - PTS leder EU-harmoniseringsarbetsgrupp för 26 GHz (mmWave) — kommersiell tilldelning ej genomförd
 
 ---
@@ -67,18 +75,72 @@ Senast uppdaterad: 2026-04-29
 
 ---
 
-## Global kapplöpning — aktörsbild och halvledarsårbarhet
+## Global kapplöpning — nationella strategier och geopolitisk fragmenteringsrisk
 
-**Kina:**
-- Ledande nation i 6G-investering: >**1 miljard USD** i statligt finansierad FoU
-- >**12 000 patent** kopplade till 6G-teknik (inkl. 5G-NR-evolution mot 6G)
-- Statliga champion: Huawei, ZTE, CAICT (China Academy of Information and Communications Technology)
-- Risken för EU: standardiseringsinfluens om Kina driver fler patent i 3GPP/ITU
+### Aktörsbild maj 2026
+
+| Land/Region | Strategi | Tidsmål | Starka kort |
+|-------------|----------|---------|-------------|
+| **Sydkorea** | Mest aggressiv tidslinje; "pre-6G vision fest" 2026 | Pilot **2028**, kommersiellt 2030 | Samsung; 3 frekvensband godkända som ITU-standardkandidater (flest av alla länder) |
+| **USA** | Next G Alliance (ATIS); innovation-driven | Kommersiellt 2030 | NVIDIA, Qualcomm, Intel; **$3B federal finansiering** (NSF, DARPA, CHIPS Act) |
+| **Kina** | Fas 2 sedan 2026: standardisering + kommersialisering; **300+ tekniska milstolpar** | Kommersiellt 2030 | Huawei, ZTE; statlig styrning; aggressiv patentstrategi; >12 000 patent |
+| **Japan** | NTT-ledd THz/AI-forskning; kvantkommunikation | Kommersiellt 2030 | NTT; stark halvledarkoppling |
+| **EU** | SNS JU €900M (2021–2027); stark arkitekturdesign | Kommersiellt 2030–2031 | Nokia, Ericsson; Hexa-X II; Sverige: Vinnova/VR 390 Mkr t.o.m. mars 2027 |
+
+**MWC 2026-signal**: SK Telecom och Ericsson signerade ett 5-årit MoU om AI-RAN och 6G — tolkat som val av sida i standards-kriget (Koreas ledande operatör väljer europeisk arkitekturlinje).
+
+### Geopolitisk fragmenteringsrisk
+
+Troligaste scenariot är **inte** fullständig decoupling utan ett partiellt splittrat ekosystem:
+- **Väst-block** (USA, EU, Japan, Korea): Öppna/interoperabla system, 3GPP-processen
+- **Kina-block**: Proprietära extensions inom formellt IMT-2030-ramverk; sovereign digital ecosystem
+
+**Konsekvenser om fragmentering realiseras:**
+1. Minskad economies of scale → högre utrustningskostnader
+2. R&D-dubbelarbete (parallell standardutveckling)
+3. Dragkamp om u-länders infrastrukturval (upprepning av 5G/Huawei-kampen)
+4. Sämre global interoperabilitet för multinationella bolag
+
+**Granskningspotential**: Om Sverige/EU bygger 6G-infrastruktur baserad på en variant Kina inte adopterar — hur påverkar det svenska multinationella bolag?
+
+*Källor: Merics.org "Fragmenting technology – 6G mobile could divide the world"; CKGSB "6G: Standardization or Fragmentation?"; IEEE Spectrum "6G Is Years Away, but the Power Struggles Have Already Begun"*
+
+### Halvledarsårbarhet (oförändrat)
 
 **EU — styrkor och sårbarhet:**
 - Stark FoU-position: SNS JU-portfölj, Ericsson, Nokia Bell Labs, akademisk kapacitet
 - **Halvledarsårbarhet:** EU saknar inhemsk GaN- och avancerad chipstillverkning i tillräcklig skala. 6G-basstation-chipp är beroende av icke-EU-fabriker (TSMC, GlobalFoundries). Chalmers/Saab/SweGaN-projektet är ett direkt svar på denna sårbarhet.
 - EU Chips Act (2023) adresserar på lång sikt, men 6G-tidslinjen (2030) är kort
+
+## 6G Teknisk arkitektur — tre nyckelteknologier (status maj 2026)
+
+Alla tre befinner sig i prototype/forskningsfas — ingen kommersiell driftsättning.
+
+### AI-native nätverk
+6G är det första generationsskiftet där AI byggs in i arkitekturen *by design*:
+- ML/AI i alla nätverkslager: fysisk nivå → kärnnät → applikation
+- Funktioner: channel estimation, intelligent beamforming, self-optimizing networks (SON), resursallokering, felsökning
+- IEEE INFOCOM 2026-workshop "6G AI-RAN" illustrerar hur snabbt forskningsfronten rör sig
+
+### Terahertz (THz)
+| Parameter | 6G-mål | 5G-värden |
+|-----------|--------|-----------|
+| Peak rate | **1 Tbps** | 20 Gbps |
+| Latens | **< 0,1 ms** | 1 ms |
+| Anslutningsdensitet | > 10M/km² | 1M/km² |
+
+- Band: 100–300 GHz (sub-THz); WRC-27 ska hantera 102–275 GHz-allokering
+- Utmaningar: Räckvidd kräver fri sikt, höga komponentkostnader, energiförbrukning
+
+### Reconfigurable Intelligent Surfaces (RIS)
+Programmerbara metaytor som kontrollerar elektromagnetiska vågors utbredning utan aktiva RF-sändare:
+- PIN-diod RIS demonstrerat vid 28,5 GHz; varactor-diod vid 3,5 GHz
+- Liquid crystal RIS under utveckling för THz-band (6G-relevant)
+- Patentkamp intensiv 2026 — stark kinesisk och europeisk positionering
+
+*Källa: ScienceDirect 2025 — "THz communication in 6G"; arxiv 2506.19526 — "RIS for 6G and Beyond"; Frontiers in Communications 2025 — "AI-native 6G"*
+
+---
 
 ## Risk: Svensk eftersläpning
 
