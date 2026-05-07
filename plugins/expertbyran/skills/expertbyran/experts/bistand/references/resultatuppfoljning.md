@@ -1,6 +1,6 @@
 # Resultatuppföljning och resultatbaserad styrning — Biståndsexperten
 
-Senast uppdaterad: 2026-05-07
+Senast uppdaterad: 2026-05-07 (uppdaterad: ny resultatredovisningsmodell, Sidas revisionsanmärkning)
 
 ---
 
@@ -86,15 +86,60 @@ Eurodad (2024): DAC:s egengranskningsprocess ("self-review") kan inte leda till 
 
 ---
 
+## Ny resultatredovisningsmodell — Skr. 2025/26:97 (implementerad mars 2026)
+
+Regeringen implementerade EBA 2023:04:s rekommendation om en fördjupad 4-årsrapport med skrivelse till riksdagen den 5 mars 2026: **Skr. 2025/26:97 — Fördjupad resultatredovisning av internationellt bistånd – Ukraina**.
+
+### Vad modellen innebär
+
+- **4-årsrapport** ersätter den tidigare vartannat-år-skrivelsen om multilateralt bistånd
+- Multilateralt bistånd ingår hädanefter i 4-årsrapporten — **ingen separat multilateral skrivelse** framöver (Skr. 2024/25:61 var den sista i det formatet)
+- Fokus väljs tematiskt/geografiskt — första rapporten fokuserar Ukraina (2022–2025)
+- Mer ingående: inkl. slutsatser och lärdomar, givarsamordning, sektoriell fördelning
+
+### Skr. 2025/26:97 i korthet
+
+**Period:** 2022–2025 · **Fokus:** Ukraina + Moldavien + Armenien · **Total volym:** 18,79 miljarder SEK
+
+Fem redovisningsområden: (1) Uppbyggnad av ukrainskt samhälle, (2) Samhällsreformer, (3) Säkerhet/stabilisering, (4) Budgetstöd, (5) Humanitärt bistånd.
+
+**Slutsatser:** Biståndet hade hög relevans för Ukrainas EU-anslutningsprocess. Sverige stödde 28 av 35 EU-förhandlingskapitel. Reformtakten bedömd som stark av IMF/Världsbanken trots kriget.
+
+**Analytisk notering:** Den nya modellen är en reform av formen, inte av metodens substans. Tillskrivningsproblemet kvarstår; 4-årsrapporten löser inte RiR 2024:4:s systembrist om att långsiktiga effekter saknas i resultatkedjorna.
+
+| Källa | URL |
+|---|---|
+| Skr. 2025/26:97 — Fördjupad resultatredovisning Ukraina (5 mars 2026) | [HTML](https://data.riksdagen.se/dokument/HD0397.html) · [PDF](https://data.riksdagen.se/dokument/HD0397.pdf) |
+| EBA 2023:04 — För en bättre resultatredovisning (rekommenderade 4-årsmodellen) | [EBA.se](https://eba.se) |
+
+---
+
+## Sidas revisionsanmärkning 2024
+
+Riksrevisionen lämnade **revisionsberättelse med reservation** för Sidas årsredovisning 2024 (dokumenterat i Årsredovisning för staten 2024, Skr. 2024/25:101, s. 93):
+
+> "Sida har inte redovisat ett ekonomiskt åtagande som uppgår till 8 000 000 tusen kronor i bemyndiganderedovisningen."
+
+Korrekt utestående åtagande: **24 158 992 tusen kronor** (24,2 miljarder SEK) på anslag 1:1 anslagspost 31 (Multilaterala och internationella organisationer och fonder).
+
+**Analytisk notering:** Revisionsanmärkningen om bemyndiganderedovisning skiljer sig från de kvantitativa resultatredovisningsfelen (okt 2024) — det är ett separat bokföringsproblem. Tillsammans förstärker de bilden av administrativ sårbarhet i Sidas ekonomistyrning.
+
+| Källa | URL |
+|---|---|
+| Skr. 2024/25:101 — Årsredovisning för staten 2024, s. 93 | [HTML](https://data.riksdagen.se/dokument/HC03101.html) |
+
+---
+
 ## Relevans för 2026 Peer Review
 
 DAC-granskarna (examiner-länder: Kanada, Österrike) förväntas fokusera på:
 
 1. **Är felaktigheterna i Sidas kvantitativa redovisning åtgärdade?** RiR 2024:4 + pressmeddelande okt 2024 sätter tydliga förväntningar.
-2. **Har en ny modell för riksdagsrapportering tagits fram?** Riksdagens upprepade krav på bättre redovisning är välkänd för DAC.
-3. **Balansen 31 rapporteringskrav vs. faktisk resultatförbättring** — DAC brukar betona att uppföljning ska vara *lärandedrivande*, inte bara administrativt.
-4. **OpenAid-transparens** — har plattformen faktiskt förbättrats och ger den reell transparens för medborgare och partners?
-5. **EBA-integrering** — används EBAs studier systematiskt för lärande, eller är relationen UD-EBA alltjämt svag (som RiR 2024:4 konstaterade)?
+2. **Ger den nya 4-årsmodellen riksdagen tillräcklig insyn?** Riksdagen mister vartannat-år-skrivelsen om multilateralt bistånd (59% av budgeten) — DAC kan fråga om ersättningen är adekvat.
+3. **Sidas revisionsanmärkning 2024** — bemyndiganderedovisningsfel på 8 miljarder SEK är ett allvarligt styrningsproblem som DAC inte kan ignorera.
+4. **Balansen 31 rapporteringskrav vs. faktisk resultatförbättring** — DAC betonar att uppföljning ska vara *lärandedrivande*, inte bara administrativt.
+5. **OpenAid-transparens** — har plattformen faktiskt förbättrats och ger den reell transparens för medborgare och partners?
+6. **EBA-integrering** — används EBAs studier systematiskt för lärande, eller är relationen UD-EBA alltjämt svag (som RiR 2024:4 konstaterade)?
 
 ---
 
