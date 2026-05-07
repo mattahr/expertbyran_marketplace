@@ -34,33 +34,72 @@ EU antog formellt en revision av den europeiska klimatlagen den 5 mars 2026 (Rå
 
 ---
 
-## Green Deal under omvandling — Omnibus-paketet
+## Green Deal under omvandling — Omnibus I-direktiv (antaget 26 februari 2026)
 
-_Antaget december 2025, publicerat i EU:s officiella tidning 26 februari 2026_
+_Kommissionsförslag 27 februari 2025 · EP-omröstning december 2025 · Rådet formellt 26 februari 2026 · Transponeringsfrist 19 mars 2027_
 
-### Vad är Omnibus?
+### Vad är Omnibus I?
 
-Kommissionen presenterade i februari 2025 ett "Omnibus"-paket med revisioner av centrala Green Deal-instrument, i syfte att "förenkla" regelverket. I praktiken innebar det en betydande avreglering av icke-skattemässiga klimatpolitiska instrument.
+Kommissionen presenterade i februari 2025 ett "Omnibus I"-paket med revisioner av fyra centrala Green Deal-rättsakter: CSRD, CSDDD, EU-taxonomin och CBAM. Syftet anges som "regelförenkling" och stärkt EU-konkurrenskraft. I praktiken innebär det en strukturell reducering av transparensinfrastrukturen för privat sektors klimatarbete. ETS2 — i parallellt spår — sköts upp ett år (2027 → **2028**) i samband med paketet.
 
-### Viktigaste ändringar
+### Ändringar per rättsakt
 
-| Instrument | Ändring |
-|-----------|---------|
-| CSRD (hållbarhetsrapportering) | Trösklar höjda: krav enbart för bolag med >1 000 anställda OCH >450 M€ omsättning |
-| Klimatomställningsplaner | Skyldigheten att anta en klimatomställningsplan togs bort |
-| Tidsgränser (stop-the-clock) | Hållbarhetsrapportering och CSDDD sköts upp med 1–2 år |
-| ESRS | EFRAG reviderar standarder; delegerad akt från kommissionen förväntas H1 2026, tillämplig från räkenskapsår 2027 |
+#### CSRD — Corporate Sustainability Reporting Directive
+
+| Aspekt | Före Omnibus I | Efter Omnibus I |
+|--------|----------------|-----------------|
+| Tröskel EU-företag | >250 anst. ELLER >40 M€ oms. | >1 000 anst. OCH >450 M€ oms. |
+| Tröskel icke-EU | >150 M€ EU-omsättning | >450 M€ EU-omsättning (dotter >200 M€) |
+| Andel berörda EU-företag | ~50 000 | ~10 000 (~80 % minskning) |
+| Värdekedjekapning | Nej | Ja — begränsar vad stora företag kan fråga SME i leverantörskedjan |
+| Datapoints i ESRS | >1 100 | Substantiellt reducerat (EFRAG reviderar) |
+
+Viktigt: skyldigheten att **rapportera** om en klimatomställningsplan kvarstår under CSRD, men skyldigheten att **anta och genomföra** en plan togs bort från CSDDD. Planen blir en redovisningspost, inte ett styrverktyg.
+
+#### CSDDD — Corporate Sustainability Due Diligence Directive
+
+- Tröskel höjd: >5 000 anst. och >€1,5 miljarder omsättning (EU-företag); >€1,5 miljarder EU-omsättning (icke-EU)
+- Transpositionsfrist skjuten till juli 2027; första tillämpningsvåg: juli 2028
+- Klimatomställningsplanens **antagande och genomförande** borttaget som obligatorium
+
+#### EU-taxonomin
+
+- Frivillig rapportering för företag med <450 M€ omsättning
+- Innebär att investerare förlorar standardiserade hållbarhetsdata för den stora massan av börsnoterade SME
+
+#### CBAM — koldioxidtullmekanism
+
+- **50-tons massbasserat undantag**: tar bort ~90 % av småimportörer från pappersarbete
+- Certifikatkrav reducerat: kvartalsinnehav sänkt från 80 % → 50 % av inbäddade utsläpp
+- Deklarationsfrist förlängd: från 31 maj → 31 oktober följande år
+
+### Svensk implementering — SOU 2026:27
+
+SOU 2026:27 ger ett konkret spår för hur Omnibus I:s CSRD-ändringar ska genomföras i svensk rätt:
+
+- **Delbetänkande CSRD Omnibus**: lämnades 17 april 2026 (tidsfrist)
+- **Slutbetänkande** (bredare regelförenkling): ska lämnas 29 september 2026
+- **Transponeringsfrist**: 19 mars 2027 för hela EU
+- Sverige genomförde ursprungliga CSRD i Årsredovisningslagen kap. 6 (Prop. 2023/24:124); uppskattad kostnad för de 1 600–2 000 rapporteringsskyldiga har sjunkit dramatiskt med Omnibus
+- Civilutskottet (Betänkande HD01CU8, 2025): godkände uppskjutet CSRD-krav med 2 år för de bolag som ännu ej rapporterat
 
 ### Paradoxen: kärnmål stärktes trots avreglering
 
-Trots att Omnibus lättade på rapporteringsplikter antogs Green Deals kärnmål (2040-klimatmålet) parallellt. Klimatlagen stärktes, CSRD försvagades. Omnibus minskar det privata rapporteringstrycket men försvagar transparensen i klimatarbetet.
+Trots att Omnibus lättade på rapporteringsplikter antogs Green Deals kärnmål (2040-klimatmålet, -90 %) parallellt. Klimatlagen stärktes, CSRD försvagades. Omnibus minskar det privata rapporteringstrycket men urholkar transparensinfrastrukturen för klimatarbetet.
 
-**Källa:** [PwC Viewpoint — Omnibus finalised](https://viewpoint.pwc.com/gx/en/pwc/in-briefs/ib_int202527.html); [EEB — Green Deal still standing (april 2026)](https://meta.eeb.org/2026/04/23/under-siege-in-2025-the-european-green-deal-is-still-standing/)
+**Källor:**
+- [PwC Viewpoint — Omnibus finalised](https://viewpoint.pwc.com/gx/en/pwc/in-briefs/ib_int202527.html)
+- [DLA Piper Sverige — What it means for Sweden](https://sweden.dlapiper.com/en/news/eu-omnibus-proposal-what-does-it-mean-sweden-key-changes-and-their-impact)
+- [Normative — EU Omnibus Simplification Package explained](https://normative.io/insight/the-omnibus-simplification-package-explained/)
+- [Mayer Brown — Commission presents Omnibus package](https://www.mayerbrown.com/en/insights/publications/2025/02/european-commission-presents-omnibus-simplification-package-with-amendments-to-csrd-csddd-cbam-and-taxonomy)
+- SOU 2026:27 (DocRec HEB327); Betänkande HD01CU8 (DocRec)
 
 ### Granskningsrelevans
 
-- Hur påverkar Omnibus möjligheterna att granska klimatarbetet i privat sektor?
-- Är svenska myndigheters rapporteringskrav i fas med de reviderade EU-tröklarna?
+- Hur påverkar Omnibus möjligheterna att granska klimatarbetet i privat sektor? Med 80 % färre CSRD-skyldiga företag minskar tillgången till verifierbar utsläppsdata (Scope 1–3) dramatiskt.
+- Är svenska myndigheters rapporteringskrav i fas med de reviderade EU-trösklarna?
+- Klimatomställningsplaner som redovisningsposter vs. styrverktyg — hur kan Riksrevisionen bedöma om företag faktiskt ställer om?
+- Är ETS2-förseningen (2028) ett granskningsbart systemfel för ESR-styrmedelsarkitekturen?
 
 ---
 
