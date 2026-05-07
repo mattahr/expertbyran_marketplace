@@ -1,6 +1,6 @@
 # Cybersäkerhet i Telekominfrastruktur
 
-Senast uppdaterad: 2026-05-06
+Senast uppdaterad: 2026-05-07
 
 ## NIS2 och Cybersäkerhetslagen — telekomspecifika krav
 
@@ -49,8 +49,24 @@ Minimiåtgärder inkluderar:
 
 **PTS tillsynsbörda ökar dramatiskt:**
 - Tillsynsobjekt: **40–50 (NIS1) → ~1 075 (NIS2 + LEK)** — en 20-faldig ökning
-- Initialkostnad: **41,2 Mkr** (2025–2028)
-- Finansieringsmodell: anslag (ej avgifter) → strukturell budgetrisk
+  - Nuläge NIS1: 40–50 operatörer
+  - LEK-anmälda (integreras i NIS2): 725 operatörer
+  - Tillkommande NIS2-aktörer: ~300 nya
+- Initialkostnad: **41,2 Mkr** (2025–2028) — fördelning per Statskontoret 2025:8:
+
+  | Post | Mkr |
+  |------|-----|
+  | Föreskriftsarbete | 28,0 |
+  | Rekrytering (6 nya ÅAK, direkta kostnader) | 1,0 |
+  | Informationsinsatser | 4,0 |
+  | IT-utveckling (inkl. anmälnings-/incidentsystem) | 4,0 |
+  | Övrigt | 4,2 |
+  | **Summa** | **41,2** |
+
+  *PTS understryker att uppskattningen är "mycket osäker" — myndigheten följer ej upp enskilda aktivitetskostnader.*
+
+- **Personalförstärkning:** 6 nya årsarbetskrafter 2025–2028 (föreskrifter, information, IT)
+- **Finansieringsmodell:** Löpande NIS1-tillsyn finansierades via LEK-avgifter; NIS2-tillsyn via **förvaltningsanslaget**. 8 befintliga ÅAK byter finansiering avgifter → anslag. Risk: anslagsmedel konkurrerar med GIA-tvistlösning och WRC-27-förberedelse.
 - Källa: Statskontoret 2025:8 "Tillsynsmyndigheternas kostnader till följd av NIS2-direktivet" (DocRec 23710)
 
 **⚠ STOR STRUKTURFÖRÄNDRING — FRA tar MSB:s CSIRT-roll:**
