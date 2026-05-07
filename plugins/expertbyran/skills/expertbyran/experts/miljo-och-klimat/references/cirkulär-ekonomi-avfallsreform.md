@@ -105,6 +105,47 @@ Riksrevisionen identifierar att sol- och vindkraftsavfall faller mellan producen
 | Energimyndigheten | Uppföljning sol/vindkraftssektorn, statistik om uttjänta produkter |
 | Kemikalieinspektionen | Giftfri cirkulär ekonomi, farliga ämnen i produkter |
 
+## ESPR — Ecodesign for Sustainable Products Regulation
+
+EU-förordning (EU) 2024/1781, i kraft **18 juli 2024**. Flaggskepp i EU:s Circular Economy Action Plan II (CEAP II, mars 2020). Ersätter gradvis ekodesigndirektivet (2009/125/EG).
+
+**Centrala krav:**
+- Krav på hållbar produktdesign: energieffektivitet, reparerbarhet, återvinningsbarhet, hållbarhet, innehåll av återvunnet material
+- **Digitalt produktpass (Digital Product Passport, DPP)** — maskinläsbar information om en produkts miljöprestanda och sammansättning; specificeras per produktkategori via delegerade förordningar
+- **Förbud mot förstöring av osålda konsumentprodukter** — i kraft från **19 juli 2026** för kläder och skor; alla produktkategorier inom 3 år
+- **Övergångsperiod** från ekodesigndirektivet till ESPR: avslutas **31 december 2026** för elektriska hushållsapparater
+
+**Konsekvenser för Sverige:**
+- Konsumentverket och Naturvårdsverket är de primära marknadskontrollmyndigheterna
+- Fråga öppen: har myndigheterna kapacitet att kontrollera marknaden på produktnivå?
+- DPP-kravet kan förändra produktinformation-infrastrukturen för hela industrisektorer
+
+**Källa:** EU-förordning (EU) 2024/1781; [EU-kommissionen ESPR-implementering](https://green-forum.ec.europa.eu/implementing-ecodesign-sustainable-products-regulation_en); [ESPR-guide Circularise](https://www.circularise.com/blogs/a-guide-to-the-ecodesign-for-sustainable-products-regulation-espr)
+
+---
+
+## EU Circular Economy Act — Lagstiftningsförslag väntat Q3 2026
+
+Kommissionen har genomfört öppen konsultation (aug–nov 2025) och högnivåmöte **30 april 2026**. Lagstiftningsförslag förväntas **Q3 2026**.
+
+**Syfte och mål:**
+- Skapa en **Single Market för sekundära råmaterial** — harmoniserade klassificeringsstandarder och marknadsvillkor för återvunnet material i hela EU
+- **Fördubbla EU:s cirkulärmaterialanvändningsgrad** från ~12 % (2022) till ~24 % till 2030
+- Minska EU:s beroende av importerade råvaror; Kina levererar ~100 % av tunga sällsynta jordartsmetaller
+
+**Politisk inramning:**
+- Framas som ett **industriellt konkurrenskraftsverktyg** (inte enbart miljöpolitik) — koppling till Critical Raw Materials Act (CRMA) och strategisk autonomi
+- Drivs av insikten att EU:s återvinningssystem producerar fragmenterade, svår-handlade sekundärströmmar utan gemensam marknad
+
+**Granskningsrelevans:**
+- Sveriges position i rådsförhandlingar — driver Sverige ambitiösa eller begränsade mål?
+- Har Naturvårdsverket och Tillväxtverket kapacitet att implementera eventuella nya EU-krav?
+- Hur kopplar Sveriges pågående avfallsreform (Prop. 2025/26:108) till CEA-ambitionen?
+
+**Källa:** [EU-kommissionen — CEA-konsultation aug 2025](https://environment.ec.europa.eu/news/commission-launches-consultation-upcoming-circular-economy-act-2025-08-01_en); [Högnivåmöte 30 april 2026](https://environment.ec.europa.eu/news/commission-holds-high-level-talks-circular-economy-act-2026-04-30_en); [IEEP-analys om CEA](https://ieep.eu/publications/the-circular-economy-act-material-consumption-targets-and-secondary-material-use/)
+
+---
+
 ## Granskningsfrågor — Cirkulär ekonomi
 
 1. **EU-måluppfyllnad:** Har Sverige vidtagit tillräckliga åtgärder för att nå avfallsdirektivets 55 %-mål till 2025, och vad är kostnadskonsekvenserna av det pågående överträdelseärendet?
@@ -112,3 +153,5 @@ Riksrevisionen identifierar att sol- och vindkraftsavfall faller mellan producen
 3. **Länsstyrelsetillsyn:** Är länsstyrelsernas nya tillsynsroll över kommunal avfallshantering tillräckligt resurssatt och tydligt definierad?
 4. **Producentansvar sol/vind:** Har åtgärder vidtagits efter RiR 2023:11 för att klargöra producentansvaret för solcellspaneler?
 5. **Styrmedelskoherens:** Skapar avsaknaden av en avfallsförbränningsskatt inkonsekvens i styrningen mot materialåtervinning?
+6. **ESPR-marknadskontroll:** Har Konsumentverket och Naturvårdsverket kapacitet och resurser att genomföra marknadskontroll under ESPR, inklusive kontroll av digitala produktpass?
+7. **CEA-beredskap:** Hur positionerar sig Sverige inför EU:s kommande Circular Economy Act — driver man ambitiösa positioner kring sekundärråvarumarknaden?
