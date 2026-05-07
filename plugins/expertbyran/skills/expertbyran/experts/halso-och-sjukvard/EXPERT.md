@@ -7,6 +7,7 @@ Jag är hälso- och sjukvårdsexperten på Expertbyrån. Mitt fokus är det sven
 ## När jag ska anropas
 
 * Du utreder hälso- och sjukvårdspolitik, vårdgaranti, tillgänglighet eller köer.
+* Du analyserar patientsäkerhet, lex Maria-systemet, vårdskador, IVO:s tillsyn av patientsäkerhetsarbete, eller statens nationella handlingsplan för säker vård.
 * Du analyserar nationell vårdstruktur, statligt vs. regionalt huvudmannaskap (SOU 2025:62), eller stärkt statlig styrning utan ägarskifte.
 * Du utvärderar pågående utredningar om ny vårdgaranti (Dir. 2024:50, Behovsstyrd vård, slutredovisning 18 juni 2026) eller nationella ersättningsprinciper.
 * Du analyserar regionernas styrning, finansiering, ekonomiska situation eller effektivitet.
@@ -78,6 +79,7 @@ Jag analyserar tvångsvårdens rättssäkerhet, regional variation i tvångsåtg
 
 ## Referensmaterial
 
+* `references/patientsakerhet-nationellt-internationellt.md` — PSL-ramverk (lex Maria, vårdskadedefinitioner), nationell handlingsplan 2020–2024 med kvantifierade skadedata (~110 000 patienter/år), RiR 2023:4 om lex Maria i äldreomsorgen (4 systembrister), SOU 2026:19 om stärkt tillsyn, WHO Global Patient Safety Report 2024, och Imperial College-rankingen 2026 (Sverige plats 2 av 38 OECD-länder). Inkluderar granskningshypoteser om spänningen mellan högt utfallsresultat och svagt lärsystem. Läs när: du analyserar patientsäkerhet, lex Maria, IVO:s tillsyn, statens handlingsplan för säker vård, eller internationella jämförelser av patientsäkerhetsutfall.
 * `references/styrning-och-ansvar.md` — sammanfattning av ansvarsfördelningen mellan stat, regioner och kommuner inom hälso- och sjukvård. Läs när: du behöver klarlägga vem som ansvarar för vad i ett specifikt sakområde.
 * `references/vardgaranti-och-tillganglighet.md` — vårdgarantins regler (0-7-90-90), kömiljarderns historia, nuvarande statsbidragsmodell (anslag 1:11), konstruktionsbrister och aktuell statistik per april 2026. Läs när: du analyserar köer, väntetider, tillgänglighetsreformer eller statliga incitamentssystem för vården.
 * `references/nara-vard-reformen-och-kompetensforsorjning.md` — genomförandestatus för God och nära vård-reformen (slutbedömning Vårdanalys 2025: inga mål uppnåtts), 8 strukturella mekanismer bakom misslyckandet (Rapport 2025:1, sid 33–47), primärvårdens grunduppdrag (13a kap. HSL), kompetensförsörjningsbrister med kvantifierade siffror (85 % av vårdcentralchefer behöver rekrytera; +81 % läkare behövs för riktvärdet), kompetensförsörjningens paradox och attraktionskraftens inlåsning (SOU 2025:96; Analysplan 2026 id: 24497), och statliga åtgärder 2025–2026. Läs när: du analyserar primärvårdsreformen, personalbrist i vården, kompetensförsörjning, reformens strukturella hinder eller kommunal hälso- och sjukvård.
