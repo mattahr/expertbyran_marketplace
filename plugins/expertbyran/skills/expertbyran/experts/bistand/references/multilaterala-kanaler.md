@@ -133,6 +133,63 @@ DAC:s rekommendation är att hårt öronmärkt stöd undviks av systemineffektiv
 
 ---
 
+---
+
+## Globala ODA-krisen 2025 och multilaterala organisationers anpassning
+
+### Krisens omfattning och karaktär
+
+År 2025 upplevde det multilaterala systemet sin allvarligaste finansieringskontraktion i modern tid:
+
+- **FN-systemets kontraktion:** Totala FN-utgifter förväntas minska **30%** jämfört med toppåret 2023 (68,5 miljarder USD)
+- **Kärnbidrag till FN:** -27% — det största enskilda årsfall i ODA-historiken
+- **Jämförelse med MDB:er:** Världsbanken +6,4%, regionala utvecklingsbanker +11,9% i kärnstöd — tydlig givarpreferens mot "bankmodellen" framför FN-systemet
+- **Prognos:** Multilaterala bidrag riskerar minska **23–30%** till 2027 (OECD Multilateral Development Finance 2026)
+
+Krisen är **strukturell, inte tillfällig** — MOPAN (2025) konstaterar: *"not a temporary liquidity issue but a structural contraction reshaping the multilateral system."*
+
+### MOPAN 2025 — kartläggning av 31 multilaterala organisationer
+
+MOPAN genomförde 2025 en övergripande kartläggning av 31 multilaterala organisationers anpassning:
+
+- **75%+** av stora FN-organ rapporterar djupa budgetunderskott
+- **10 organisationer** har minskat resurser för M&E (monitoring, evaluation, data) — de funktioner som är avgörande för trovärdighet och lärande
+- WFP: -25–30% personal (upp till 6 000 tjänster)
+- OCHA: -20% program och tjänster
+- Paradigmskifte: *"do less with less"* — inte "more with less"
+- Brunt bärs av låg- och lägre medelinkomstländer samt fragila/konfliktutsatta stater
+
+**Effektivitetsparadoxen:** M&E-kapacitet eroderar just när resultatkrav från givare ökar — en cirkelformad logik som undergräver hela systemets trovärdighet.
+
+Källa: MOPAN Multilateral Effectiveness in a Shifting Landscape (2025), https://www.mopan.org/en/our-work/performance-insights/multilateral-effectiveness-in-a-shifting-landscape.html
+
+### UN80 — FN:s effektivitetsreform under finanskris
+
+FN:s secretariat lanserade hösten 2025 en intern effektivitetsprocess kallad **UN80** (i anslutning till FN:s 80-årsdag):
+
+- **Workstream 1:** Systemövergripande effektiviseringsförslag, implementation påbörjad oktober 2025
+- **Riskanalys (Global Governance Forum):** Reform under finanskris riskerar att misslyckas om mandat, pengar och staters majoritetsstöd inte kan alignas
+- Kortsiktiga besparingsåtgärder dominerar över koordinerad långsiktig hållbarhetsstrategi
+- Källa: https://www.globalgovernance.eu/publications/reforming-the-un-during-a-financial-crisis-a-foreseeable-failure-to-align-money-mandates-and-majorities
+
+### Ny svensk resultatredovisningsordning (Skr. HD0397, 2026)
+
+Regeringen beslutade 2026 att avskaffa de separata vartannat-år-skrivelserna om multilateralt bistånd (senast Skr. 2024/25:61) och ersätta med:
+
+- **Samlad fördjupad resultatredovisning vart 4:e år** (mandatperiodmodell)
+- Inkluderar multilateralt bistånd som en integrerad del
+- Fokus i 2026 års skrivelse (HD0397): Ukraina
+- **Konsekvens:** Riksdagen och Riksrevisionen får färre granskningspunkter per mandatperiod men potentiellt djupare analys
+- Källa: https://data.riksdagen.se/dokument/HD0397.html
+
+### Implikationer för granskning och analys
+
+1. **Sveriges position i globalt ljus:** Sverige är fortfarande relativt generöst (0,7%+ av GNI vs. OECD-DAC-snittet ~0,26%) men kärnstödsminskningen förstärker FN-systemets fragmentering — ett breddgivarbas-argument stärks paradoxalt när USA drar sig ur
+2. **MDB vs. FN-system:** Givarnas preferens för MDB-kanaler (Världsbanken, regionala banker) framför FN-systemet skapar strukturella konsekvenser för vilken typ av biståndsverksamhet som kan upprätthållas
+3. **Uppföljningsunderskott:** När 10 av 31 MOs minskar M&E-kapacitet försämras grunden för resultatuppföljning — kritiskt ur revisionssynpunkt
+
+---
+
 ## Källhänvisningar
 
 | Källa | År | Relevans |
