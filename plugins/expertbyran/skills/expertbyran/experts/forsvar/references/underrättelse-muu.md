@@ -1,6 +1,6 @@
 # Underrättelseväsendet och MUU-reformen
 
-*Senast uppdaterad: 2026-04-29 (EXP-1123)*
+*Senast uppdaterad: 2026-05-07 (EXP-1839)*
 
 ## Nyckelkälla: SOU 2025:78
 
@@ -74,6 +74,36 @@ Kräver särskilda arrangemang eller är utanför RiR:s mandat:
 
 ---
 
+## Prop. 2025/26:179 — Signalspaning i krig: ny lag och demokratisk tillsynsgap
+
+**Titel:** *Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftning*
+**Utgivare:** Försvarsdepartementet | **År:** 2026 | **Ikraftträdande:** 1 aug 2026
+**Grundar sig på:** SOU 2024:59
+
+Propositionen innehåller tre delar:
+1. **Ny krigslagen** — ny lag om signalspaning i krig eller krigsfara (§§ 1–13)
+2. **FRA-lagen (2008:717) moderniseras** — nytt ändamål (övning), teknisk uppdatering, nödundantag
+3. **Försvarsunderrättelsedomstolen** — organisation och handläggning
+
+**Krigslagen aktiveras:**
+- Automatiskt vid krig (§ 1)
+- Av regeringsföreskrift vid krigsfara (§ 2); riksdagen ska underställas inom 1 mån
+
+**Vad som förändras under krigslagen:**
+
+| Normaltid | Krig/krigsfara |
+|---|---|
+| Siun utövar löpande tillsyn av FRA | Siuns tillsyn kan suspenderas |
+| Integritetsskyddsrådets fysiska åtkomst till FRA | Rådets åtkomst kan begränsas |
+| FRA måste förstöra inhemsk trafik | Nödundantag: bevarande vid fara för liv/egendom |
+| FRA underrättar enskilda om personuppgiftsbehandling | Underrättelseskyldigheten upphävs |
+
+**Demokratisk tillsynsgap (Risk U6):** Lagen specificerar inte vilken aktör som
+ersätter Siun som tillsynsorgan under den tid krigslagen är aktiv. Riksrevisionens
+roll under krig specificeras inte. Ingen civil tillsynsfunktion föreslås.
+
+---
+
 ## Granskningsvärda risker
 
 **Risk U1: MUU-etableringens implementeringsrisker**
@@ -88,10 +118,24 @@ skapa luckor i den samlade nationella underrättelsebilden. SOU 2025:78
 identifierar risk explicit; "samlad nationell underrättelsebedömning" som ny
 roll för MUU är en ny styrmodell utan historik.
 
+**Risk U6: Demokratisk tillsyn av signalspaning under krig (ny, 2026-05-07)**
+Prop. 2025/26:179 möjliggör suspension av Siuns tillsyn under krig/krigsfara.
+Ingen ersättande tillsynsstruktur föreslås. FRA kan under krigslagen:
+- Samla in och behålla inhemsk trafik (via nödundantag)
+- Utan Siuns granskning
+- Utan skyldighet att underrätta berörda enskilda
+- Med begränsat integritetsskyddsråd
+
+**Granskningsfråga:** Finns en parlamentarisk tillsynsplan för scenariot att
+krigslagen aktiveras? Denna fråga kan granskas i fredstid utan tillgång till
+sekretessbelagd information. Granskningsfönster öppnas 1 aug 2026.
+
 ---
 
 ## Externa källor att bevaka
 
+- Prop. om MUU (förväntad 2026) — ej publicerad per 2026-05-07
+- Prop. om ny lag om utrikes underrättelseverksamhet (förväntad 2026) — ej publicerad per 2026-05-07
 - Remissvar SOU 2025:78 (höst 2025–vår 2026)
-- Prop. om MUU (förväntad 2026)
 - Must:s årsöversikter (begränsad offentlig information)
+- **Prop. 2025/26:179** ikraft 1 aug 2026 — moderniserar FRA-lagen
