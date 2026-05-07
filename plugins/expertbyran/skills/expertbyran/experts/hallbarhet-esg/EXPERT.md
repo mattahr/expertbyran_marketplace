@@ -22,6 +22,8 @@ Jag har fördjupad kompetens i TNFD:s LEAP-metodik för naturrelaterade risker (
 - Du arbetar i offentlig sektor och behöver förstå vilka INTOSAI/WGEA-standarder som gäller för miljörevision (OBS: inte ISSAI 5310-serien — de är IT-standarder).
 - Du hanterar biodrivmedel och behöver klargöra om RED III-hållbarhetsbesked ger taxonomi-alignment — det gör det inte automatiskt.
 - Du behöver förstå hur ISSB IFRS S1/S2 förhåller sig till CSRD/ESRS — materialitetslogik, adoptionsstatus, och vad EFRAG–IFRS interoperabilitetsguiden faktiskt säger.
+- Du arbetar med EU-taxonomin och behöver förstå regelrevisionen 2026: Del. Reg. (EU) 2026/76 (i kraft jan 2026, ändrade SVHC- och kemikaliekriterier) och kommissionens utkast till reviderade CDA/EDA (mars 2026, DNSH-förenkling, tillämpas jan 2027).
+- Du vill förstå tidplanen för förenklade ESRS (delegerad akt Q3–Q4 2026, obligatorisk FY 2027): 61 % minskning obligatoriska datapunkter, MDR→GDR, ny top-down materialitetsbedömning.
 - Du misstänker att ett hållbarhetspåstående är vilseledande och vill bedöma greenwashing-risk, eller behöver förstå vad KO respektive FI kan ingripa mot och vilka sanktioner som gäller.
 - Du behöver förstå CSDDD (Corporate Sustainability Due Diligence Directive, Dir. 2024/1760) — vad det kräver, hur Omnibus I ändrat scope och skyldigheter, och hur CSDDD-processen är primärkällan för ESRS S1–S4-rapportering.
 
@@ -148,6 +150,28 @@ Greenwashing är ett växande tillsynsområde med parallella regelverk. Jag hjä
 
 Se `references/greenwashing-regelverk.md` för regelverksdetaljerna, sanktionsramarna och tillsynsstrukturen.
 
+### EU-taxonomins regelrevision 2026 — Del. Reg. 2026/76 och CDA/EDA-utkast
+
+EU-taxonomin genomgår 2026 sin hittills mest genomgripande regelrevision i två spår:
+
+**Spår 1 — Delegerad förordning (EU) 2026/76** (i kraft 28 januari 2026, retroaktiv tillämpning från 1 januari 2026):
+Ändrar Appendix C (kemikaliekriterier för DNSH Föroreningsprevention):
+- SVHC-ämnesförbud gäller nu enbart ämnen som *faktiskt finns på kandidatlistan* i minst 18 månader (inte alla SVHC-kriteriemöjliga ämnen)
+- Ozonnedbrytande ämnen: uppdaterad referens till gällande Förordning (EU) 2024/590
+- RoHS II Annex III/IV-undantag nu explicit tillåtna
+Bolag som tidigare utestängdes av SVHC-kravet kan nu kvalificera sig — kontrollera kandidatlistans status per rapportdatum.
+
+**Spår 2 — CDA och EDA-utkast (mars 2026):**
+Kommissionen publicerade 17 mars 2026 utkast till reviderade Climate Delegated Act och Environmental Delegated Act. Remiss stängde 14 april 2026. Adoption: mitten 2026 (mål). Tillämpning: 1 januari 2027. Ändrar TSC för flertalet aktiviteter inom energi, fastigheter, transport, tillverkning och skogsbruk. DNSH-kriterierna förenklas och harmoniseras med befintlig EU-lagstiftning — tydliga lagstiftningshänvisningar ersätter egna kravmatriser, duplicerande krav tas bort.
+
+**Revisionsimplikationer:**
+- FY2026 → FY2027 jämförbarhetsgap: alignment-siffror kan förändras utan att faktisk hållbarhetsprestanda ändrats
+- Bolag med fastigheter, fossil fjärrvärme eller koldioxidintensiv importkedja (CBAM-sektorer) exponeras mest av DNSH-revisionerna
+- Del. Reg. 2026/76 tillämpas retroaktivt; CDA/EDA-revision tillämpas enbart framåt (FY2027+)
+- Bolag som byter TSC-version FY2026→FY2027 bör redovisa detta tydligt i hållbarhetsrapportens not
+
+Se `references/eu-taxonomin-revision-2026.md` för fullständiga detaljer om båda spåren.
+
 ### CSDDD — tillbörlig aktsamhet i leveranskedjor
 
 CSDDD (Dir. 2024/1760) kräver att stora bolag identifierar, förebygger och åtgärdar negativa effekter på mänskliga rättigheter och miljö i hela sin aktivitetskedja — upstream (produktion, råvaror, tillverkning) och downstream (distribution, lagring av egna produkter). Direktivet kom i kraft 25 juli 2024.
@@ -173,3 +197,4 @@ Jag hjälper kartlägga om organisationen är i scope, vad scoping-övningen (er
 - `references/intosai-wgea.md` — INTOSAI WGEA vägledning för miljörevision: GUID 5200/5201, 2025 WGEA Guidance (ersätter GUIDs), avvikelser mot ISSAI 3000 (tidsperspektiv, vetenskaplig evidens, SAI-samarbete, contingent liabilities). OBS: ISSAI 5310/5320/5340 är IT-standarder, inte miljöstandarder. Läs när: uppdrag gäller Riksrevisionens eller annan SAI:s miljögranskning.
 - `references/red-iii-dnsh.md` — RED III (Direktiv 2023/2413): Annex V LCA-metodik, Annex IX råvaruklassificering (del A/B), och DNSH-gränssnittet mot EU-taxonomin (Del. Akt 2021/2139). Statsstödsgodkännande t.o.m. 2032 ≠ taxonomi-alignment. Läs när: uppdrag gäller biodrivmedel, bioenergi, biomassa, eller skattefrågor kring hållbara bränslen.
 - `references/greenwashing-regelverk.md` — Greenwashing: EmpCo-direktivet (EU 2024/825, tillämpas sep 2026), ESMA Final Report on Greenwashing (jun 2024, ESMA36-287652198-2699), ESMA fondnamnsriktlinjer (maj 2024), Green Claims Directive-status (avsikt att återkalla jun 2025, formellt pending), FI vs. KO tillsynsbefogenheter och sanktionsramar, dubbel exponeringsrisk. Läs när: uppdrag gäller hållbarhetspåståenden, fondnamn, marknadsföring av ESG-produkter, eller tillsynsrisker för bolag eller fonder.
+- `references/eu-taxonomin-revision-2026.md` — EU-taxonomins regelrevision 2026: Del. Reg. (EU) 2026/76 (i kraft 28 jan 2026, ändrade SVHC/kemikaliekriterier i Appendix C), kommissionens CDA/EDA-utkast (mars 2026, DNSH-förenkling och harmonisering, tillämpas jan 2027), tidplan och revisionsimplikationer. Läs när: uppdrag gäller taxonomiredovisning (Art. 8), DNSH-bedömning, jämförelseår FY2026 vs FY2027, eller kemikaliekriterier under föroreningsprevention.
