@@ -306,6 +306,7 @@ Obalanserad budgivning misstänks — TRV saknar analysförmåga att verifiera.
 | RiR 2019:31 Statens planering av höghastighetsjärnvägar | 13414 | Granskningsrapport | 2019 | 4 strukturproblem: lösningsfokus, ingen fyrstegsprövning, samhällsekonomi ej styrande, felaktig beslutsordning. Nyttor=40% av kostnader |
 | RiR 2020:17 Drift och underhåll av järnvägar | — | Granskningsrapport | 2020 | 74% kostnadsöverskridning järnvägskont.; IT-brist |
 | RiR 2021:22 (Skr. 2021/22:80) Kostnadskontroll | 10756 | Granskningsrapport | 2021 | 39% kostnadsökning NP2014→2018; planeringsfasen; projekt stoppas ej |
+| RiR 2022:24 Transportstyrelsens tillsyn – styrning och prioritering | 13508 | Granskningsrapport | 2022 | TSV saknar mål/mätetal; ekonomisk paradox (outnyttjat anslag); järnvägstillsyn −25%; NIS/SSL knappt i gång; gov ej följt upp |
 | RiR 2022:27 Kvalitetsavgifter och regressrätt | — | Granskningsrapport | 2022 | Underhållsskuld → förseningar; uppföljning saknas |
 | RiR 2023:25 (Skr. 2024) Nationell plan 2022–2033 | HB03135 | Granskningsrapport | 2023 | NNK = -0,4; transparensbrist; stambaneproblem |
 | RiR 2024:10 Bildandet av Svevia och Infranord | 13688 | Granskningsrapport | 2024 | TRV misslyckade med innovationsupphandling; andelsminskning; infrastrukturindex +2x KPI 2011-2022 |
