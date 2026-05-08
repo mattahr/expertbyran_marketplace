@@ -68,6 +68,20 @@ Börja med grundstrukturen: partsmodell, avtalsreglering, statens roll, a-kasses
 
 Redovisa etableringstidens längd, sysselsättningsgap och sektoriell koncentration för utrikes födda jämfört med inrikes födda. Analysera de viktigaste hindren: språk, nätverksbrist, diskriminering, bristande erkännande av utländsk utbildning. Gå igenom vilka insatser (etableringsreformen, snabbspår, SFI, validering) som har stöd i forskning. Var tydlig om skillnaderna mellan olika ursprungsregioner och anledningar till migration.
 
+### Analysera LAS-reformpaketets utfall (prop. 2021/22:176, ikraft okt 2022)
+
+Reformpaketet innehåller fyra kärnförändringar — klargör vilken som är relevant för uppgiften:
+
+1. **Sakliga skäl (ersätter saklig grund, 7 § LAS):** begreppsbyte med insikt-kriterium. Syftade till ökad förutsebarhet vid personliga skäl. Status 2026: ingen IFAU-studie, AD-praxis är enda empiriska källan, reell praktisk skillnad oklar.
+
+2. **Turordningsundantag utökat till 3 för alla:** Alla arbetsgivare oavsett storlek kan undanta upp till 3 arbetstagare. Dispositiv. Status: politiskt stabil, ingen kvantitativ uppföljning av faktisk användning.
+
+3. **Hyvlingsskyddet (omreglering av sysselsättningsgrad):** Turordningsregler + omställningstid (min. 2 mån.) gäller nu även vid omreglering. Heltid som norm. Status 2026: det politiskt mest aktiva elementet — V+MP driver lagförbud, Handelsanställdas förbund och andra fackförbund rapporterar att skyddet är otillräckligt och att medlemmar inte kan försörja sig efter hyvling. Regeringen avvaktar. Ingen empirisk uppföljningsstudie.
+
+4. **Anställning upphör vid tvist:** Anställning upphör vid uppsägningstidens slut, ej när tvisten slutavgjorts. Fullt genomfört. Konsekvens: statliga arbetsgivare saknade lagstöd för avstängning → ny prop. 2024/25:204.
+
+Var explicit om utvärderingsluckan: reformen är inte IFAU-utvärderad och ingen RiR-granskning genomförd. AD-praxis är primär empirisk källa. Läs `references/las-reformpaketets-utfall.md` för fullständig källkarta och politisk statusöversikt.
+
 ### Analysera Beveridge-kurvan och matchningseffektivitet
 
 Bestäm om det rör sig om en rörelse längs kurvan (konjunktur) eller ett bestående utåtskift (strukturell matchningsförsämring). Dekomponera matchningsförändringen i sammansättningseffekt (förändrad sökandesammansättning) och beteende-/friktionseffekt. Identifiera empiriska indikatorer — vakanstidens utveckling, sökandesammansättningens förändring, utflödeshastighet, sanktionsdata som reservationslöneproxy. Hänvisa till VP 2025 (diagram 4.12) för senaste empiriska bilden och Riksrevisionen (2017) för OB-dekomponeringsmetoden. Läs `references/beveridge-kurva-och-matchning.md` för fullständig analysram.
@@ -88,3 +102,4 @@ Utgå från Card, Kluve & Weber (2018) som metaanalytisk ram: jobbsökarstöd ha
 * `references/almp-utrikes-fodda.md` — metaanalytisk ram (Card m.fl. 2018), de tre insatstyper med starkast evidens för utrikes-födda i Sverige, metodologiska begränsningar (selektionsbias, Ashenfelters dip, lock-in, extern validitet post-2019), nyckelkällor (IFAU 2023:19, 2020:4, 2021:6). Läs när: uppgiften rör ALMP-insatsers effektivitet för utrikes-födda, etableringsprogrammets utformning eller evalueringsmetodik för arbetsmarknadsinsatser.
 * `references/kompetensforsorjning-bristanalys.md` — analysram för kompetensförsörjning: distinktionen arbetskraftsbrist vs. kompetensbrist (Tillväxtanalys 2024:01), Riksrevisionens granskningsagenda 2020–2025 (inkl. RiR 2024:3 om kortutbildade), Fredriksson m.fl.:s skepticism om omställningsstudiestödets träffsäkerhet, och regional kompetensförsörjning (Tillväxtanalys 2024:12). Läs när: uppgiften rör kompetensförsörjning, bristyrken, matchningsgap kopplat till kortutbildade, eller bedömning av om omställningsstöden når rätt individer.
 * `references/sgi-och-atypiska-anstallningsformer.md` — SGI-reformens dubbla spår 2026: SOU 2023:30 (historisk inkomstbas, politiskt stillastående) och SOU 2026:3 (plattformsdirektivets genomförande, presumtion för arbetstagarstatus, implementeringsfrist dec 2026). ISF 2023:3 om gigarbetares strukturella SGI-problem. Syntestabell som visar när reklassificering vs. SGI-reform löser problemet. Läs när: uppgiften rör socialförsäkringsskyddet för egenföretagare, gigarbetare, plattformsarbetare eller kombinatörer, eller när du analyserar gig-ekonomi och arbetsrättslig klassificering.
+* `references/las-reformpaketets-utfall.md` — LAS-reformpaketet (prop. 2021/22:176, ikraft okt 2022): de fyra kärnförändringarnas regelinnehåll, politisk status och utfallsbild per maj 2026, inkl. hyvlingsdebatten (V+MP-yrkanden, facklig kritik), AD 2022 nr 49, SOU 2025:70 om lasålder, och identifierade utvärderingsluckor (ingen IFAU-studie, ingen RiR-granskning). Läs när: uppgiften rör LAS 2022, sakliga skäl, turordningsundantag, hyvling, anställning under tvist, eller den arbetsrättsliga reformens utfall och politiska läge.
