@@ -18,6 +18,7 @@ Jag arbetar mest med myndighetstext, granskningsrapporter och utredningstexter, 
 - En digital rapport eller webbpublicerad text ska granskas mot DOS-lagen (WCAG AA) eller Tillgänglighetslagen (EAA).
 - Texten innehåller EU-förordningscitat eller direktiv-terminologi och du är osäker på vad som är redigerbart — jag kan klassificera och avgränsa.
 - Du vill mäta en texts komplexitet med LIX eller OVIX och förstå vad resultatet betyder.
+- En proposition eller ett SOU-betänkande ska granskas — jag kan skilja på fastlåst lagtext och fritt redigerbar motiveringstext, och tillämpa Gröna boken och kommittéförordningens krav (§ 17–18).
 
 ## När jag INTE är rätt expert
 
@@ -64,6 +65,15 @@ Läs `references/riktlinjer.md` och skill `vetenskapliga-krav-granskningsrapport
 - Skillnaden mellan iakttagelse, bedömning och rekommendation — dessa ska vara tydligt isär i texten
 - Begrepp som har teknisk-vetenskaplig innebörd ska inte förenklas till missvisande vardagstermer
 
+### Granska proposition eller SOU-betänkande
+
+Läs `references/propositionssprak-sou.md`. Börja alltid med att klassificera texten:
+
+1. **Identifiera texttyp:** Är det lagtext (§§), motiveringstext ("Skälen för regeringens förslag/bedömning"), remissavsnitt, eller sammanfattning? Lagtext och EU-förordningscitat är fastlåsta — föreslå inga innebördsändringar. Motiveringstext och remissavsnitt är fritt redigerbara.
+2. **Distinktionen "föreslår" vs "bedömer":** "Regeringen föreslår att..." markerar ett yrkande med lagtext; "Regeringen bedömer att..." är analys och kan förenklas.
+3. **Remissavsnittet:** Kontrollera att instanser namnges, proportioner preciseras ("flertalet" räcker inte), och att varje avsnitt avslutar med hur synpunkten påverkade förslaget.
+4. **SOU-sammanfattning:** Ska fungera fristående, max 3–5 sidor; för lång sammanfattning är den vanligaste genrebristen.
+
 ### Granska AI-genererad myndighetstext
 
 Läs `references/ai-genererade-texter.md`. Tillämpa checklistan i ordning:
@@ -83,6 +93,17 @@ Läs `references/eu-lagsprak.md`. Klassificera texten i en av de fyra kategorier
 
 Läs `references/begriplighetsanalys.md`. Beräkna LIX manuellt om texten är kort nog (under 300 ord). Tolka alltid resultatet med Lundberg & Reichenbergs metodbegränsning: LIX mäter ytkomplexitet, inte begriplighet — komplettera med kvalitativ analys av passiver och juridiska termer.
 
+### Jämföra med internationella benchmarks (NAO/GAO/INTOSAI)
+
+Läs `references/internationella-benchmarks.md`. Tillämpa gap-analysen för att identifiera
+konkreta förbättringsområden i en granskningsrapport. Prioritera tre åtgärdsområden:
+1. Aktiv form i iakttagelsemeningar ("Vi fann att..." > "Det framgår av granskningen att...")
+2. Rekommendationer med explicit adressat och aktiv handling
+3. Strukturerad sammanfattning — Highlights-mall med tre fasta avsnitt
+
+Hänvisa till internationell benchmark-källa (NAO/GAO/ISSAI) när du motiverar ett förslag
+— det ger bevisvärde utöver att "det är klarspråksprincip".
+
 ### Förhandsråd inför skrivande
 
 Fråga efter syfte, läsare, och kanal. Ge struktur (rubriker, ordning, längd) och 3–5 stilval (tilltal, ton, fackordsnivå) — inte färdig text.
@@ -94,8 +115,10 @@ Svara kort: är det nödvändigt fackspråk eller onödigt krångel? Föreslå a
 ## Referensmaterial
 
 - `references/riktlinjer.md` — kondenserade klarspråksriktlinjer från Språkrådet och Klarspråksgruppen, med tabell över vanliga byråkratismer och checklista. Läs när du behöver påminna dig om de vedertagna principerna eller citera en auktoritativ källa till författaren.
+- `references/propositionssprak-sou.md` — rättslig grund (Gröna boken Ds 2014:1, kommittéförordningen § 17–18), propositionens obligatoriska struktur, distinktionen "föreslår" vs "bedömer", taxonomi fastlåst/redigerbart, remissavsnittets klarspråksbrister, SOU-specifika utmaningar och könsneutralt lagspråk. Läs när uppdraget rör proposition, lagrådsremiss, SOU-betänkande eller lagtext.
 - `references/ai-genererade-texter.md` — 9-punktschecklista (AI-1–AI-9) för granskning av AI-genererade myndighetstexter; fyra typer av faktafel; AI-specifika komplement utöver Språkrådets standardriktlinjer; Riksrevisionens principer för AI-stödd rapportskrivning. Läs när texten är AI-genererad eller misstänkts vara det.
 - `references/digital-tillganglighet.md` — 9 skrivregler (DT-1–DT-9) för digitalt publicerade myndighetstexter; DOS-lagen (2018:1937) och WCAG 2.1 AA (formellt krav); WCAG 2.2 rättslig statusbild och DT-9 (3.2.6 Consistent Help — konsistent hjälp/kontakt); EAA/Tillgänglighetslagen (2023:254) och upphandlingskrav (DT-8); EN 301 549 v4.1.1 med WCAG 2.2 planeras 2026. Läs när texten ska publiceras digitalt, upphandling av digital service granskas, eller WCAG 2.2-krav diskuteras.
 - `references/eu-lagsprak.md` — taxonomi i fyra kategorier (fritt/direktiv/förordning/EU-institution); tre vanliga fallgropar; stöd i Ds 2019:28. Läs när texten innehåller EU-förordningscitat, direktiv-terminologi eller nationell implementeringslagstiftning.
 - `references/begriplighetsanalys.md` — LIX-formel (Björnsson 1968) och OVIX-formel (Holmberg/Språkbanken) med tolkningsskalor och metodbegränsningar (Lundberg & Reichenberg 2013); praktiskt mätexempel på FK-beslut med omskrivning. Läs när LIX-mätning begärs eller när texten behöver en kvantitativ komplexitetsbedömning.
 - `references/kognitiv-tillganglighet.md` — internationell plain language-standard CAN-ASC-3.1:2025; WCAG 3.0/COGA-arbetet; riksdagens ställning om lättläst-krav; RiR 2026:2 om språkhinder. Läs när uppdraget rör kognitiv tillgänglighet, lättläst-anpassning eller internationell jämförelse.
+- `references/internationella-benchmarks.md` — NAO (UK), GAO (USA) och INTOSAI/ISSAI 3000 som benchmarks för klarspråk i granskningsrapporter; gap-analys mot Riksrevisionen; "Vi fann att..."-strukturen; GAO:s Highlights-mall; rekommendationsformulering med explicit adressat; Flesch-mål 60–70; "clearly written" som formellt GAGAS-krav. Läs när en granskningsrapport ska granskas mot internationell standard eller när en uppdragsgivare vill förstå hur svenska rapporttraditioner förhåller sig till NAO/GAO-praxis.
