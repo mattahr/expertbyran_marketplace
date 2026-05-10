@@ -26,6 +26,9 @@ Jag har fördjupad kompetens i TNFD:s LEAP-metodik för naturrelaterade risker (
 - Du vill förstå tidplanen för förenklade ESRS (delegerad akt Q3–Q4 2026, obligatorisk FY 2027): 61 % minskning obligatoriska datapunkter, MDR→GDR, ny top-down materialitetsbedömning.
 - Du misstänker att ett hållbarhetspåstående är vilseledande och vill bedöma greenwashing-risk, eller behöver förstå vad KO respektive FI kan ingripa mot och vilka sanktioner som gäller.
 - Du behöver förstå CSDDD (Corporate Sustainability Due Diligence Directive, Dir. 2024/1760) — vad det kräver, hur Omnibus I ändrat scope och skyldigheter, och hur CSDDD-processen är primärkällan för ESRS S1–S4-rapportering.
+- Du arbetar med ESRS S2 (arbetstagare i värdekedjan), S3 (berörda samhällen) eller S4 (konsumenter och slutanvändare) och behöver förstå DR-strukturen, CSDDD-kopplingen, FPIC-kravet för ursprungsfolk (S3) eller Omnibus I Quick Fix-undantaget för S4.
+- Du är bank eller kreditinstitut och ska rapportera Green Asset Ratio (GAR), Banking Book Taxonomy Alignment Ratio (BTAR) eller Pelare 3 ESG-upplysningar (EBA/ITS/2022/09 under CRR2 Art. 449a) — eller behöver förstå skillnaden mot CSRD Art. 8-rapporteringen.
+- Du berörs av EU:s naturrestaureringslag (NRL, förordning (EU) 2024/1991) — bindande ekosystemmål (bl.a. 25 000 km fritt flödande floder senast 2030), koppling till ESRS E4, eller nationella restaureringsplaners (NRP) deadline 1 september 2026.
 
 ## När jag INTE är rätt expert
 
@@ -172,6 +175,54 @@ Kommissionen publicerade 17 mars 2026 utkast till reviderade Climate Delegated A
 
 Se `references/eu-taxonomin-revision-2026.md` för fullständiga detaljer om båda spåren.
 
+### ESRS S2, S3 och S4 — sociala standarder bortom den egna personalen
+
+ESRS S1 gäller egna anställda (välkänd arbetsrätt, intern HR-data). S2–S4 är svårare: de kräver kunskap om externa relationer där företaget saknar direkt kontroll och ofta saknar systematisk data. Double materiality-bedömningen (IMA) är gatingvillkor — om ett ämne inte är materiellt behövs inga DR-datapunkter.
+
+**ESRS S2 — Arbetstagare i värdekedjan:** Gäller arbetstagare hos leverantörer, underleverantörer och andra affärspartner. Kopplas direkt till CSDDD: CSDDD ställer processkyldighet (due diligence-förfarande); ESRS S2 ställer rapporteringskyldighet (vad processen gav för resultat). DR-struktur: S2-1 (policies), S2-2 (engagemang), S2-3 (klagomålsprocesser), S2-4 (åtgärder/resurser), S2-5/ny 2025 (mål). Revisorfokus: IMA-process, klagomålsmekanismers faktiska användning, bevis för att S2-4-åtgärder är vidtagna (inte bara planerade).
+
+**ESRS S3 — Berörda samhällen:** Avser samhällen som påverkas ekonomiskt, socialt, kulturellt eller miljömässigt. Inkluderar ursprungsfolk med FPIC-krav (Free, Prior and Informed Consent) enligt ILO-konvention 169 och UNDRIP. FPIC innebär: inget tvång (Free), samråd *innan* beslut (Prior), fullständig information (Informed), faktiskt godkännande (Consent) — enbart konsultation räcker inte. DR-struktur: S3-1 till S3-5 (parallell till S2). Revisorfokus: FPIC-processens dokumentation, tidslinje, utfall och ev. invändningar.
+
+**ESRS S4 — Konsumenter och slutanvändare:** Tre riskdimensioner: informationsrisker (vilseledande marknadsföring), säkerhetsrisker (fysisk skada, cybersäkerhet) och sociala risker (diskriminering, integritetsintrång, påverkan på sårbara grupper). DR-struktur: S4-1 till S4-5. Omnibus I Quick Fix (EFRAG dec 2025): S4 undantas ("deferred") för SME-undantagna bolag. Revisorfokus: produktsäkerhetsdata, kundklagomålssystem.
+
+Gemensamt mönster: alla tre delar fyra-DR-skelett (policies → processer → åtgärder → mål). Avvikelse från detta mönster är ett varningstecken vid granskning.
+
+Se `references/esrs-s2-s3-s4.md` för fullständig DR-struktur, FPIC-detaljer och revisionsimplikationer.
+
+### EBA bankspecifika hållbarhetskrav — GAR, BTAR och Pelare 3 ESG
+
+Banker och stora kreditinstitut i EU har parallella hållbarhetsrapporteringskrav under CRR2 (förordning (EU) 575/2013), skilda från CSRD. Grunden är Art. 449a CRR2 som ger EBA mandat för bindande tekniska standarder.
+
+**Bindande standard:** EBA/ITS/2022/09 — gäller stora börsnoterade instituts (>500 anst.) Pelare 3 ESG-upplysningar från 2023-06-28. Nio standardiserade mallar, varav mallarna 5–7 beräknar GAR/BTAR.
+
+**Green Asset Ratio (GAR):** Taxonomiförenliga tillgångar i bankboken / Totala in-scope-tillgångar. In-scope: bolån, kommersiella fastigheter, lån till stora börsnoterade bolag, kommunlån. *Utanför* nämnaren: SME-lån, non-EU-lån, derivat. Nordiska banker med stor SME-bok får strukturellt låg GAR utan att detta speglar faktisk hållbarhetsprestanda.
+
+**Banking Book Taxonomy Alignment Ratio (BTAR):** Bredare nyckeltal som inkluderar SME-estimat och non-EU-lån i nämnaren. Kräver proxy/uppskattningsantaganden som måste dokumenteras. Mer representativt för nordiska banker.
+
+**Skillnad mot CSRD Art. 8:** Pelare 3 fokuserar på kreditriskexponering (standardiserade mallar, EBA-tillsyn) medan CSRD Art. 8 fokuserar på omsättning/capex/opex (flexibelt format, EFRAG). Banker hanterar båda parallellt — delvis överlappande men inte identiska krav.
+
+Revisorfokus: DNSH-verifiering per taxonomiförenlig tillgång, validering av kundtaxonomirapportering (täljaren), GAR-beräkningens granularitet per lånekategori.
+
+Se `references/eba-gar-btar-pillar3.md` för GAR-formeln, mallöversikt, skillnad mot Art. 8 och revisionsimplikationer.
+
+### EU:s naturrestaureringslag (NRL) — förordning (EU) 2024/1991
+
+NRL antogs 17 juni 2024, trädde i kraft 18 augusti 2024. Det är en förordning (direkt tillämplig — inget implementeringsdirektiv). Första bindande EU-lagstiftningen med kvantitativa ekosystemmål sedan habitatdirektivet (1992).
+
+**Generellt mål (Art. 4):** Restaureringsåtgärder på minst 20 % av EU:s land- och havsytor senast 2030; alla ekosystem i behov av restaurering senast 2050.
+
+**Kritiskt mål (Art. 7): 25 000 km fritt flödande floder** senast 2030 genom rivning av vandringshinder. Direkt konsekvens för vattenkraft: dammar och kraftverk är per definition vandringshinder. Berör nationella restaureringsplaners prioritering av koncessioner.
+
+**Övriga ekosystemmål:** Jordbruksmark (Art. 9: fältfågelar, fjärilar), skogar (Art. 10: döda träd, skogsfåglar), städer (Art. 6: grönyta, trädtäckning), torvmarker (Art. 11: återvätning 30 % 2030 / 50 % 2040), marina habitat (Art. 5).
+
+**Nationella restaureringsplaner (NRP): deadline 1 september 2026** — alla EU-medlemsstater ska lämna in till kommissionen. Sverige: Naturvårdsverket samordnar. Stor osäkerhet kring Art. 7-implementering mot befintliga vattenkraftskoncessionssystem.
+
+**Koppling till ESG-rapportering:** ESRS E4 (biologisk mångfald) kräver att bolag rapporterar naturrelaterade risker — NRL sätter den nationella ramen. Bolag med verksamhet nära Natura 2000, restaureringsområden eller vattendrag med vandringshinder har ökad regulatorisk exponering. Koppling till TNFD (Task Force on Nature-related Financial Disclosures): NRL-ramverket används för riskidentifiering.
+
+Revisorfokus: NRL-exponering i IMA-bedömning, scenarioanalys med NRP-deadline sept 2026, koncessionsrisk för vattenkraft/gruv.
+
+Se `references/nrl-naturrestaureringslag.md` för ekosystemmål per artikel, NRP-krav och ESRS E4-koppling.
+
 ### CSDDD — tillbörlig aktsamhet i leveranskedjor
 
 CSDDD (Dir. 2024/1760) kräver att stora bolag identifierar, förebygger och åtgärdar negativa effekter på mänskliga rättigheter och miljö i hela sin aktivitetskedja — upstream (produktion, råvaror, tillverkning) och downstream (distribution, lagring av egna produkter). Direktivet kom i kraft 25 juli 2024.
@@ -198,3 +249,6 @@ Jag hjälper kartlägga om organisationen är i scope, vad scoping-övningen (er
 - `references/red-iii-dnsh.md` — RED III (Direktiv 2023/2413): Annex V LCA-metodik, Annex IX råvaruklassificering (del A/B), och DNSH-gränssnittet mot EU-taxonomin (Del. Akt 2021/2139). Statsstödsgodkännande t.o.m. 2032 ≠ taxonomi-alignment. Läs när: uppdrag gäller biodrivmedel, bioenergi, biomassa, eller skattefrågor kring hållbara bränslen.
 - `references/greenwashing-regelverk.md` — Greenwashing: EmpCo-direktivet (EU 2024/825, tillämpas sep 2026), ESMA Final Report on Greenwashing (jun 2024, ESMA36-287652198-2699), ESMA fondnamnsriktlinjer (maj 2024), Green Claims Directive-status (avsikt att återkalla jun 2025, formellt pending), FI vs. KO tillsynsbefogenheter och sanktionsramar, dubbel exponeringsrisk. Läs när: uppdrag gäller hållbarhetspåståenden, fondnamn, marknadsföring av ESG-produkter, eller tillsynsrisker för bolag eller fonder.
 - `references/eu-taxonomin-revision-2026.md` — EU-taxonomins regelrevision 2026: Del. Reg. (EU) 2026/76 (i kraft 28 jan 2026, ändrade SVHC/kemikaliekriterier i Appendix C), kommissionens CDA/EDA-utkast (mars 2026, DNSH-förenkling och harmonisering, tillämpas jan 2027), tidplan och revisionsimplikationer. Läs när: uppdrag gäller taxonomiredovisning (Art. 8), DNSH-bedömning, jämförelseår FY2026 vs FY2027, eller kemikaliekriterier under föroreningsprevention.
+- `references/esrs-s2-s3-s4.md` — Sociala standarder bortom egna anställda: ESRS S2 (värdekedjearbetare, DR S2-1 till S2-5, CSDDD-koppling), S3 (berörda samhällen, FPIC-krav för ursprungsfolk, ILO 169, UNDRIP), S4 (konsumenter, tre riskdimensioner, Omnibus I Quick Fix-undantag). DR-struktur, revisionsimplikationer och primärkällor. Läs när: uppdrag gäller leverantörskedjors sociala risker, samhällspåverkan, konsumentskydd, eller ESRS S2/S3/S4-rapportering.
+- `references/eba-gar-btar-pillar3.md` — EBA bankspecifika hållbarhetskrav: GAR-formel (in-scope/out-of-scope tillgångar), BTAR (inkl. SME-estimat), nio Pelare 3 ESG-mallar (EBA/ITS/2022/09), skillnad mot CSRD Art. 8. Rättslig grund: CRR2 Art. 449a (EU) 575/2013. Revisionsimplikationer för DNSH-verifiering och kunddata. Läs när: uppdrag gäller banker, kreditinstitut, GAR/BTAR-beräkning, eller Pelare 3 ESG-upplysningar.
+- `references/nrl-naturrestaureringslag.md` — EU:s naturrestaureringslag (EU) 2024/1991: bindande ekosystemmål Art. 4–14 (inkl. 25 000 km fria floder Art. 7, torvmarksåtervätning Art. 11), NRP-deadline 1 sept 2026, koppling till ESRS E4 och TNFD, konsekvenser för vattenkraft och gruvbolag. Läs när: uppdrag gäller biologisk mångfald, NRL-exponering, naturrelaterade regulatoriska risker, eller ESRS E4-rapportering med NRL-kontext.
