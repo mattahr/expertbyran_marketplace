@@ -1,6 +1,6 @@
 # Regelverkskarta: Telekommunikation & Digital Infrastruktur
 
-Senast uppdaterad: 2026-04-29
+Senast uppdaterad: 2026-05-10
 
 ## Primärt regelverk (Sverige)
 
@@ -16,7 +16,8 @@ Senast uppdaterad: 2026-04-29
 
 | Direktiv/förordning | Kortnamn | Kärna |
 |---|---|---|
-| Direktiv (EU) 2018/1972 | EECC | Europeisk kodex för elektronisk kommunikation; 20-åriga spektrumlicenser; genomfört via LEK 2022 |
+| Direktiv (EU) 2018/1972 | EECC | Europeisk kodex för elektronisk kommunikation; 20-åriga spektrumlicenser; genomfört via LEK 2022. **Gäller t.o.m. DNA-ikraftträdande (tidigt 2030-tal).** |
+| COM(2026) 16 final | DNA / Digital Networks Act | Förslag (21 jan 2026) att ersätta EECC med direkt tillämplig EU-förordning; slår samman EECC + BEREC-förordningen + RSPP + Open Internet-förordningen; Single Passport Authorisation; under förhandling — EECC gäller under övergångsperioden |
 | Direktiv (EU) 2022/2555 | NIS2-direktivet | Höjer cybersäkerhetskraven; genomförs i Sverige via cybersäkerhetslagen (Prop. HD0328) |
 | Direktiv (EU) 2022/2557 | CER-direktivet | Kritiska entiteters motståndskraft; utreds parallellt med NIS2 |
 | Förordning (EU) 2024/1309 | GIA / Gigabitinfrastrukturförordningen | Ersätter Utbyggnadsdirektivet (2014/61/EU); direkt tillämplig fr.o.m. 12 nov 2025 |
@@ -31,6 +32,47 @@ Senast uppdaterad: 2026-04-29
 | FM (Försvarsmakten) | Militärt säkerhetsperspektiv i 5G-samråd |
 | Länsstyrelserna | Handlägger regionala bredbandssubventioner; fem länsstyrelser blir tillsynsmyndigheter under NIS2 |
 | Jordbruksverket | Förvaltar EU-medel för landsbygdsbredband |
+
+## DNA — Digital Networks Act (COM(2026) 16 final)
+
+**Status**: Förslag publicerat 21 januari 2026. Under råds- och parlamentsförhandling. EECC (direktiv 2018/1972) gäller under hela övergångsperioden — sannolikt fram till tidigt 2030-tal.
+
+**Vad är DNA?**
+Digital Networks Act är EU-kommissionens förslag att ersätta EECC-direktivet med en *direkt tillämplig EU-förordning*. Direkt tillämpning innebär att reglerna inte längre behöver genomföras i nationell rätt, vilket eliminerar det implementeringsutrymme som länder som Sverige hittills utnyttjat (t.ex. vid tillståndsvillkor och SMP-ingripanden).
+
+**Vad konsolideras?**
+DNA slår samman fyra befintliga rättsakter i ett enda instrument:
+- EECC (direktiv 2018/1972) — telekommunikationsreglering, SMP, tillträde
+- BEREC-förordningen — EU-organet för samarbete mellan nationella regulatorer
+- RSPP (Radiospektrumpolitiksprogrammet) — spektrumkoordinering
+- Open Internet-förordningen — nätneutralitet
+
+**Single Passport Authorisation:**
+Ett telekomföretag auktoriserat i ett EU-land kan verka i hela unionen under harmoniserad notifiering. Eliminerar 27 separata nationella registreringsprocesser men kräver enhetliga villkor (täckningskrav, frekvensvillkor) — en komplex harmoniseringsutmaning.
+
+**SMP-reglering bevaras:**
+EECC Implementation Report 2026 (COM(2026) 17, samma dag) konstaterar att SMP-metodiken kvarstår som nyckelinstrument under DNA. Spektrum lyfts fram som alltmer geopolitiskt strategiskt.
+
+**Kontroversiell fråga: nätavgifter (network fees):**
+DNA öppnar för en mekanism där stora innehållsleverantörer (Netflix, Google) kan åläggas bidra till nätfinansiering. Ekonomiskt omstritt — motståndet är starkt från plattformar och akademin; osäkert om det överlever förhandlingarna.
+
+**Implikationer för Sverige och PTS:**
+- PTS:s roll som nationell tillståndsmyndighet förändras när direktivimplementeringen försvinner
+- Sverige pekades ut i EECC Implementation Report 2026 för RTT-åtaganden (Right to Timely Treatment) 2025–2027 — dessa åtaganden ärvs sannolikt av DNA
+- PTS resurskonfliktsrisk: simultant NIS2-expansion + GIA-tvistlösning + DNA-förberedelse
+- LEK 2022 behöver sannolikt kompletteringslagstiftning för att hantera gränssnittet med DNA
+
+**Revisionspotential:**
+1. **PTS beredskap för DNA-transition**: kapacitet att anpassa från direktivisimplementering till direkt tillämplig förordning
+2. **Nätavgiftsmekanismen**: ekonomiska konsekvenser och rättslig hållbarhet
+3. **RTT-efterlevnad**: hur Sverige hanterar åtagandena under dubbeltrycket från DNA-förberedelse och NIS2
+
+**Nyckelkällor:**
+- COM(2026) 16 final — Digital Networks Act-förslaget
+- COM(2026) 17 — EECC Implementation Report 2026 (publicerad samma dag)
+- Direktiv (EU) 2018/1972 — EECC (gällande t.o.m. DNA-ikraftträdande)
+
+---
 
 ## GIA — Gigabitinfrastrukturförordningen (EU 2024/1309)
 
