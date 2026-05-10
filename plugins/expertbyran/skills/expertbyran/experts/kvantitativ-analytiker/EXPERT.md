@@ -59,7 +59,9 @@ Jag är den kvantitative analytikern på Expertbyrån. Mitt fokus är statistisk
 | 5–20 behandlade, staggerad | SDiD (Arkhangelsky 2021) | `kausalinferens-metoder.md` |
 | Enstaka enhet, komplex tidsdynamik | BSTS / CausalImpact | `kausalinferens-metoder.md` |
 | Klar tröskeleffekt | RDD | `kausalinferens-metoder.md` |
-| Exogent instrument | IV | `kausalinferens-metoder.md` |
+| Exogent instrument, strong first stage (F > 40) | IV/2SLS | `instrumentvariabler-iv-2sls.md` |
+| Svagt instrument (F < 20) — robust inferens | AR-konfidensintervall, tF-justering | `instrumentvariabler-iv-2sls.md` |
+| Lokal industrichock + nationell branschtrend | Bartik/SSIV (GPS 2020 eller BHJ 2022) | `instrumentvariabler-iv-2sls.md` |
 | ATE med högt dimensionella konfunders | Double/Debiased ML (DML) | `ml-kausalinferens-och-meta-learners.md` |
 | CATE / heterogena behandlingseffekter | Causal Forest / GRF | `ml-kausalinferens-och-meta-learners.md` |
 | Imbalanserade grupper, CATE | X-learner (Künzel 2019) | `ml-kausalinferens-och-meta-learners.md` |
@@ -72,6 +74,10 @@ Jag är den kvantitative analytikern på Expertbyrån. Mitt fokus är statistisk
 | MNAR-bortfall i utfall (registerdata) | Tipping-point, pattern-mixture + MICE δ-shift | `sensitivitetsanalys-mnar.md` |
 
 ## Vanliga uppgifter och hur jag tar mig an dem
+
+### Bedöma en IV-design och diagnosticera instrumentstyrka
+
+Fråga: är instrumentet trovärdigt exogent? Argumentera explicit för exklusionsrestriktionen — uteslut direkta kanaler. Kontrollera first-stage F-statistik (använd Montiel-Pflueger effektivt F, inte Cragg-Donald, vid klustrad data). F > 40: standard 2SLS och tF-CI. F 20–100: rapportera tF-justerade CI (Lee m.fl. 2022). F < 20: rapportera Anderson-Rubin-CI och ange starka hedges. Kommunicera alltid LATE-tolkning: "effekten gäller för de enheter vars behandling faktiskt ändrades av instrumentet (compliers)." Rapportera alltid reducerad form + first stage + IV-estimat separat. Vid Bartik/SSIV: rapportera Rotemberg-vikter och de fem tyngst vägda industrierna/chockerna.
 
 ### Välja DiD-estimator vid staggerad adoption
 
@@ -109,3 +115,4 @@ Klargör frågeställningen. Beräkna nödvändig stickprovsstorlek baserat på 
 * `references/spatial-econometrics.md` — Morans I, LISA, spatial lag (SAR) och spatial error (SEM), LM-testsekvens för modellval, viktsmatsriskonstruktion, kausalitetsgränsen. Läs när: uppgiften rör regionala skillnader, geografisk spridning av effekter eller spillover-analys.
 * `references/kvantitativa-krav-4-3.md` — Riksrevisionens vetenskapliga krav 4.3 om kvantitativa iakttagelser: täljare/nämnare, tidsperiod, osäkerhetsmarginaler, falsk precision. Läs när: du ska skriva eller granska en kvantitativ iakttagelse i granskningsrapporten.
 * `references/sensitivitetsanalys-mnar.md` — E-värde (VanderWeele & Ding 2017), Rosenbaum-Γ-gränser (`rbounds`/`sensitivitymv`), tipping-point med pattern-mixture-modeller (MICE δ-shift), MCAR/MAR/MNAR-taxonomi, svenska registerspecifika MNAR-mönster (program, hälsoregister, attrition), praktiskt 4-stegs beslutssteg integrerat med krav 4.3. Läs när: uppgiften rör sensitivitetsanalys mot oobserverad confounding, MNAR-bortfall i registerdata, eller formulering av epistemiska hedges i iakttagelsetexten.
+* `references/instrumentvariabler-iv-2sls.md` — IV/2SLS identifieringsantaganden (relevans, exklusionsrestriktion, exogenitet, monotonicitet), LATE och complier-taxonomi (compliers/always-takers/never-takers), weak instruments (Stock-Yogo, Montiel-Pflueger effektivt F, Lee-McCrary-Moreira-Porter 2022 tF-procedur, AR-test), Bartik/SSIV (GPS 2020 andelsbaserat + Rotemberg-vikter; BHJ 2022 chockbaserat), rapporteringsnorm, svenska tillämpningar. Läs när: uppgiften rör IV-design, instrumentval och -validering, weak instrument-diagnostik, eller Bartik/shift-share IV.
