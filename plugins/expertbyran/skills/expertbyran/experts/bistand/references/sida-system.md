@@ -81,6 +81,36 @@ Inga rekommendationer lämnades till regeringen.
 
 **Källa:** [Skr. 2025/26:226](https://data.riksdagen.se/dokument/HD03226.html)
 
+## Sidas exitprocesser — 13 länder utfasade
+
+### Bakgrund och beslutslogik
+
+Regeringen beslutade 2023–2024 att kraftigt minska antalet bilaterala samarbetsländer som en del av reformagendan. Det samlade resultatet av enskilda strategibeslut är att **13 länder** fasas ut ur det svenska bilaterala biståndet — en av de mest genomgripande geografiska omstruktureringar av Sidas portfölj på decennier.
+
+Utfasningen följer en logik om fokusering: färre länder, djupare engagemang, tydligare resultatkedjor. I praktiken innebär det att länder med lägre strategisk prioritet (ur svensk utrikespolitisk synvinkel) eller länder som klassificeras som medelinkomstländer är de som primärt fasas ut.
+
+**Bland de utfasade länderna** återfinns ett antal afrikanska länder som tidigare hade bilaterala strategier med Sida som primär implementerande myndighet. Exakta landnamn fastställs i respektive strategibeslut från UD; den samlade bilden framgår av regleringsbrev 2025–2026 och CONCORD-analys (jan 2026) som anger att fem länder fasas helt ut 2026 (utöver de som fasats ut under 2023–2025).
+
+### Ny Sida-instruktion: Förordning (2025:269)
+
+Regeringen utfärdade **Förordning (2025:269) med instruktion för Sida**, som trädde i kraft 2025 och ersatte den tidigare instruktionen. Nyckelförändringar:
+
+1. **Skärpt fattigdoms- och tillväxtfokus:** Sidas mandat preciseras mot fattigdomsreduktion via ekonomisk tillväxt, jobbskapande och handelsutveckling — i linje med reformagendan UD2023/17726.
+2. **Stärkt privat sektor-roll:** Sida ges tydligare uppdrag att mobilisera privat kapital och samarbeta med näringsliv.
+3. **Skärpt resultatredovisning:** Preciserade krav på hur Sida ska redovisa resultat för riksdag och allmänhet, med skarpare koppling till reformagendans prioriteringar.
+4. **Geografisk fokusering kodifieras:** Instruktionen ger stöd för den pågående portföljfokuseringen, inklusive exitprocesserna.
+
+### Vad en korrekt exitprocess innebär
+
+En bra exitprocess enligt Sidas och OECD-DAC:s standard inkluderar:
+
+- **Hållbarhetsplan:** Säkerställ att insatsers effekter kvarstår efter det svenska stödets upphörande — inklusive överlåtelse till lokala aktörer, budgetstöd till nationella system, eller koordinering med andra givare som tar över.
+- **Avslutningsutvärdering:** Oberoende bedömning av vad som uppnåtts och vad som riskerar att falla bort.
+- **Givarkoordinering:** Informera och samordna med andra givare som är aktiva i landet för att undvika finansieringsluckor i pågående insatser.
+- **Civilsamhällets kontinuitet:** Bedöm om svenska CSO:er som verkar i landet har alternativa finansieringsvägar.
+
+**Revisionsrelevans:** Riksrevisionen kan granska om exitprocesserna uppfyller dessa standarder — särskilt hållbarhetsaspekten. En exit som lämnar pågående insatser utan finansiering eller överlåtelseplan kan utgöra en iakttagelse om bristande genomförande av biståndets grundprinciper.
+
 ## Riksrevisionens tillsyn av biståndet
 
 Riksrevisionen har mandat att granska hela den statliga biståndsförvaltningen — UD, Sida och andra myndigheter som förvaltar biståndsmedel. Granskningarna fokuserar ofta på:

@@ -70,8 +70,24 @@ OECD DAC tillåter sedan 2023 att delar av PSI-instrument (private sector instru
 **3. DAC Peer Review 2026**
 Förväntas granska Sverige specifikt på ODA-kriteriernas tillämpning för PSI och garantier — att särskilja ODA från exportkrediter och kommersiella statsintressen. Direkt koppling till halvtidsgranskningens krav på "clear criteria".
 
-**4. EBA 2025:05 — handel och bistånd**
-EBA:s rapport om handel och bistånds-nexus analyserar spänningen mellan Sidas traditionella mandat och reformagendans handelsdimension. Ännu ej fördjupat i fulltext — prioriterat för nästa fortbildningstillfälle.
+**4. EBA 2025:05 — handel och bistånd: instrumentaliseringsrisken**
+
+EBA:s rapport *Handel och bistånd — en ny era för det svenska biståndet?* (EBA 2025:05) analyserar spänningen mellan Sidas traditionella fattigdomsmandat och reformagendans betoning på handel, jobbskapande och kommersiell mobilisering.
+
+**Instrumentaliseringsrisken:** EBA-rapporten introducerar begreppet instrumentalisering för att beskriva hur ODA riskerar att omvandlas från ett instrument för mottagarlandets utveckling till ett instrument för givarlandets utrikeshandels- och säkerhetspolitiska intressen. Konkret innebär detta att bistånd styrs mot länder och sektorer som är strategiskt viktiga för Sverige — inte primärt mot de fattigaste eller de med störst behov.
+
+Rapporten pekar ut fyra riskdimensioner:
+1. **Handelsbetingning:** Bistånd kopplas explicit till att mottagarlandet öppnar marknader eller gynnar svenska exportörer.
+2. **EKN-ODA-gränsdragning:** Exportkreditstöd (EKN) riskerar att klassificeras som ODA när det kombineras med biståndskomponenter — trots att EKN:s primära syfte är att minska risk för svenska exportörer, inte att uppnå development outcomes.
+3. **Ukraina-caset:** Stödet till Ukrainsk återuppbyggnad utgör ett kritiskt fall. EKN (Exportkreditnämnden) har utfärdat exportkreditgarantier för svenska företag som verkar i Ukraina — och en del av dessa transaktioner, när de innehåller subventionerade räntor eller riskpremier finansierade med ODA-medel, riskerar att hamna under ODA-paraplyet. DAC:s kriterier kräver att ODA-klassificerade instrument har "the promotion of the economic development and welfare of developing countries as their main objective" — exportkrediter med affärsutveckling som primärt syfte uppfyller inte detta oavsett land.
+4. **Policykoherens-dilemmat:** Reformagendan betonar synergin bistånd–handel–migration, men EBA menar att synergier kan uppnås utan att ODA-instrumentet instrumentaliseras — under förutsättning att ODA-klassificeringsregler respekteras strikta.
+
+**Implikationer för revisionsanalys:**
+- Granska om EKN-transaktioner med ODA-koppling uppfyller DAC:s definitions- och rapporteringskrav.
+- Fråga om biståndsinsatsen primärt tjänar mottagarlandets behov eller det svenska exportintresset.
+- I Ukraina-kontext: särskilj återuppbyggnadsbiståndet (ODA-eligible) från handelsfrämjande åtgärder (ej ODA-eligible) — gränsen är intentionen och strukturen, inte landet.
+
+**Källa:** EBA 2025:05, Expertgruppen för biståndsanalys. https://eba.se/rapport/handel-och-bistand-en-ny-era-for-det-svenska-bistandet-eba-202505/
 
 ---
 
