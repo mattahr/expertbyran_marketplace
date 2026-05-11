@@ -1,6 +1,6 @@
 # Cybersäkerhet i Telekominfrastruktur
 
-Senast uppdaterad: 2026-05-07
+Senast uppdaterad: 2026-05-11
 
 ## NIS2 och Cybersäkerhetslagen — telekomspecifika krav
 
@@ -193,6 +193,82 @@ AI-kommissionen (SOU 2025:12, DocRec 14167, sid. 60) identifierar SA-gapet som r
 ### Sverige och PTS
 
 PTS är tillsynsmyndighet för telekomoperatörernas efterlevnad av leverantörsbedömning (5G-säkerhetslagen, cybersäkerhetslagen). CSA2 + CRA adderar ytterligare lager; koordinering med FRA/NCSC, SÄPO, FM behövs. FRA är nu huvud-CSIRT fr.o.m. 1 juli 2026 (Prop. 2025/26:214).
+
+---
+
+## Internationell jämförelse — 5G-säkerhetsregimer (maj 2026)
+
+Alla fyra länder nedan konvergerar mot uteslutning av Huawei/högrisk-leverantörer (HRV), men via skilda rättsliga mekanismer. **Sverige var tidig (2020)** med spektrumlicensvillkor. UK (2027) och Frankrike (2028) har längre avvecklingstidslinjer; Tyskland valde certifieringsvägen snarare än direkt förbud.
+
+### UK — Telecoms Security Act 2021 (TSA)
+
+**Rättslig mekanism:** Designated Vendor Direction (DVD) och Designation Notice (DN) utfärdade av Secretary of State (DCMS/DSIT). Tillsyn: Ofcom. Sanktioner: upp till 10% av relevant omsättning eller £100 000/dag vid fortlöpande brott.
+
+**Huawei-tidslinje:**
+- Core → 31 december 2023 ✅ (genomfört)
+- Höghastighetsöverföring (intra-core, inter-operator) → 31 december 2025
+- Hela 5G-nätet → 31 december 2027 (legalt bindande)
+
+**Tillämpningsomfång:** DVD/DN skickades till 35 UK-operatörer.
+
+**Distinktion vs. Sverige:**  
+UK:s TSA skapar en formell lagregel med bindande riktning och Ofcom-sanktioner. Sverige använde spektrumlicensvillkor (5G-säkerhetslagen 2019:904) med PTS + SÄPO + FM-samråd — ingen separat tillsynsmyndighet med specifik sanktionsrätt för leverantörsfrågan i samma form som Ofcom.
+
+Källa: GOV.UK (huawei-to-be-removed-from-uk-5g-networks-by-2027); Bratby Law (Telecoms Security Obligations UK 2026)
+
+---
+
+### Tyskland — IT-Sicherheitsgesetz 2.0 (2021) + NESAS-certifiering
+
+**Rättslig mekanism:** IT Security Act 2.0 (maj 2021) kräver BSI-certifiering av kritiska nätkomponenter före driftsättning i offentliga mobilnät. Primär standard: NESAS (Network Equipment Security Assurance Scheme — 3GPP/GSMA-standard). Tillsyn: Bundesnetzagentur (BNetzA) + BSI.
+
+**2026-milstolpe:** Från **1 januari 2026** obligatorisk NESAS-certifiering för alla nya komponenter i offentliga 5G-mobilnät. Första utfärdade NESAS-certifikat i Tyskland: BSI-DSZ-NESAS-0003-2026 (2 februari 2026, privat 5G-kärna Campus Genius).
+
+**NIS2-implementering:** NIS2-implementeringslagen antagen november 2025 (ikraft). Styrelseansvar på juridisk-bindande nivå.
+
+**2026 BNetzA-skärpning:** BNetzA aviserat mer granulerade, riskbaserade krav för telekomoperatörer 2026 — tightare krav kring kritiska komponenters skydd.
+
+**Distinktion vs. Sverige:**  
+Tyskland valde certifieringsskyldigheten (NESAS/BSI) som primär säkerhetsmekanism — teknisk standard snarare än geopolitisk leverantörsbedömning. Ger leverantörer möjlighet att "klara certifieringen" utan automatisk uteslutning. Sverige var mer direkt med att namnge och utesluta specifika leverantörer (Huawei/ZTE) via spektrumlicensvillkor.
+
+Källa: Bird & Bird (twobirds.com, Germany 2026); Montsecure 2025 (montsecure.com/blog/2025/08/10/the-2026-countdown); Mobile Europe (mobileeurope.co.uk, NESAS-certifikat 2026)
+
+---
+
+### Frankrike — ANSSI auktorisationsmodell
+
+**Rättslig mekanism:** Frankrike implementerade inget totalt förbud. ANSSI (Agence nationale de la sécurité des systèmes d'information) utfärdar tidsbegränsade tillstånd (3–8 år) för Huawei-utrustning i icke-kärn (radio access network, RAN). ANSSI uttalade tidigt att den "uppmanar" operatörer att inte välja Huawei.
+
+**Avvecklingstidslinje:**
+- Restrikterade zoner har successivt expanderat (Montpellier, Perpignan, Rouen från 2025)
+- ANSSI ger i praktiken sedan 2023–2024 inte längre tillstånd för ny Huawei-utrustning
+- **De facto-utfasning: 2028** — Huawei "har ingenstans att ta vägen" i Frankrike
+
+**Operatörskonsekvenser:** Bouygues och SFR har ersatt utrustning sedan 2021. Bouygues rapporterade €82M kostnad för byte av del av 3 000 antenner. Bouygues och SFR har inlett rättslig process mot staten avseende tvångsersättning.
+
+**Distinktion vs. Sverige:**  
+Frankrike gav operatörerna längst runway (auktorisation 3–8 år), Sverige fattade det direkta beslutet 2020 och integrerade det i spektrumlicenser. Frankrikes modell medförde betydande ersättningskrav från operatörer som investerat i Huawei-utrustning.
+
+Källa: LightReading (lightreading.com, Huawei belle époque in France to end in 2028); DataCenter Dynamics (Bouygues/SFR legal action 2026)
+
+---
+
+### Konvergensbild — EU 5G Toolbox och jämförelsetabell
+
+EU 5G Toolbox (2020) etablerade begreppet High Risk Vendor (HRV) och gav MS verktyg: leverantörsbedömning, geografiska restriktioner, diversifieringskrav.
+
+| Land | Mekanism | Tidslinje HRV-utfasning | Sanktionsmyndighet |
+|------|----------|------------------------|-------------------|
+| **Sverige** | Spektrumlicensvillkor (5G-säkerhetslagen 2019:904) | 2020 — direkt uteslutning | PTS (vid licens) |
+| **UK** | Telecoms Security Act 2021 / DVD+DN | 2027 (hela 5G) | Ofcom |
+| **Tyskland** | IT-Sicherheitsgesetz 2.0 / NESAS-certifiering | Ej tidssatt; certifiering obligatorisk jan 2026 | BSI + BNetzA |
+| **Frankrike** | ANSSI auktorisationsmodell (tidsbegränsade tillstånd) | 2028 (de facto) | ANSSI |
+
+**EU 5G Observatory 2025:** Rapport till Digital Decade Report 2025 konstaterar att MS implementerar Toolbox med varierande strikthetsgrad. Sverige, Belgien, Danmark, Portugal, Rumänien och Baltikum = restriktiva (uteslutning). Frankrike, Spanien, Italien = auktorisationsmodell.
+
+**EUCS 5G-certifieringsordning:** Harmoniserad EU-certifiering under Cybersecurity Act (CSA). Status maj 2026: formellt antagande pågår. Kan komplettera Toolbox med tekniska säkerhetskrav.
+
+Källa: EC digital-strategy.ec.europa.eu (Second report on MS' progress implementing EU Toolbox on 5G Cybersecurity); ECIPE (ecipe.org, "5G Toolbox in 2025: A Question of Trust")
 
 ---
 
