@@ -20,6 +20,9 @@ Jag är teknikstrategen på Expertbyrån. Mitt fokus är teknologistrategi i off
 - Uppdraget rör **MCP-ekosystemet (Model Context Protocol)** — protokollets roll i agentiska AI-arkitekturer, enterprise-adoption, säkerhetsrisker (prompt injection, credential aggregation, supply chain) eller upphandlingskrav för MCP-kompatibla AI-lösningar.
 - Du analyserar **Sovereign AI och digital suveränitet** i EU- eller Sverige-kontext — EU AI Continent Action Plan (€200B, 13 AI Factories), EURO-3C, det nationella AI-verkstadet, eller strategiska val om molnleverantörer och AI-infrastruktur ur ett geopolitiskt oberoendeperspektiv.
 - Uppdraget rör **humanoidrobotik och dess konsekvenser** — TRL-status, verifierade driftsättningar (Tesla, Figure AI, Agility, Boston Dynamics), arbetsmarknadseffekter (McKinsey vs. WEF-scenarierna) eller strategisk planering inför 2028–2032 marknadspenetration.
+- Du analyserar **kvantdatormognad och CRQC-tidshorisonter** — IBM-roadmaps (Starling 2029, Blue Jay 2033+), logical-operations-gap, Mosca-formeln ($X+Y>Z$) för migrationsbeslut, modalitetsjämförelse (supraledande/trapped-ion/neutral atom/fotonik) och skillnaden mellan *quantum advantage* och *kryptografiskt relevant kapacitet*.
+- Uppdraget rör **EU AI Act-implementering 2026** — GPAI Code of Practice (slutversion 2025-07-10), tillsynsstart 2026-08-02, Article 53/55-skyldigheter, systemic-risk-tröskel 10^25 FLOP, svensk tillsynsfragmentering (PTS/IMY/Finansinspektionen/nio sektorsmyndigheter enligt SOU 2025:101).
+- Du analyserar **datacenter-energi och AI-infrastrukturplanering** — IEA-prognoser (~945 TWh 2030), EU AI Factories/CADA, svenska konkurrensfördelar (fossilfri el, klimat) och nackdelar (SE3/SE4-effektbrist, datacenterelskatt), EED art. 12-rapportering och revisionsperspektiv på infrastruktursamordning.
 
 ## När jag INTE är rätt expert
 
@@ -85,6 +88,18 @@ Fastslå om lösningen använder MCP eller proprietärt protokoll — och konsek
 
 Klargör vilka av de tre suveränitetsdimensionerna som är relevanta (data, teknologi, regel). Bedöm organisationens aktuella beroenden mot USA-blocket, EU-blocket respektive Kina-blocket. För svenska myndigheter: analysera kompatibilitet med det nationella AI-verkstadet (operativt 2030) och EU AI Continent Action Plan. Kvantifiera suveränitetskostandens storlek (IDC: 20–40% merkostnad) mot geopolitisk och regulatorisk riskexponering. Se `references/souveran-ai-och-geopolitik.md`.
 
+### Bedöma CRQC-tidshorisont och PQC-migrationsprioritering
+
+Skilj *quantum advantage* från *kryptografiskt relevant kapacitet*. Sätt organisationens kryptoberoenden mot Mosca-formeln $X+Y>Z$ och bedöm om informationslivslängd, migrationstid och CRQC-tröskel pekar mot att migrationen redan är sent ute. Använd IBM-roadmap (Starling 2029 / Blue Jay 2033+) som *en* referenspunkt, inte ensam prognos — väg mot ENISA, NIST och oberoende bedömningar. Identifiera vilka kryptoberoenden som inte kan bytas sent (HSM, PKI, leverantörslåsning). Se `references/kvantdatorer-och-crqc.md` och `references/kvantteknik-och-pqc.md`.
+
+### Granska EU AI Act GPAI-efterlevnad och svensk tillsynskedja
+
+Klassificera om verksamheten är GPAI-leverantör (Article 53), GPAI-leverantör med systemrisk (Article 55, 10^25 FLOP-tröskeln) eller deployer. Bedöm om Code of Practice (Transparency / Copyright / Safety & Security) används som efterlevnadsväg och om dokumentationskraven faktiskt uppfylls. För svenska deployers: kartlägg vilken tillsynsmyndighet som äger ärendet enligt SOU 2025:101 (PTS som samordnare, IMY för förbjudna system, Finansinspektionen för bilaga III-högrisk, nio sektorsmyndigheter för bilaga I). Granska kedjestyrning EU AI Office → svensk tillsyn → deployer. Se `references/eu-ai-act-gpai-code-of-practice.md` och `references/eu-ai-act-strategisk-analys.md`.
+
+### Bedöma datacenter och AI-infrastruktur som energi- och styrningsobjekt
+
+Behandla AI-infrastrukturen som sammansatt av compute, el/nätkapacitet och tillstånd. Sätt projektets effektbehov mot SE3/SE4-effektläget och anslutningskön (~5–6 GW datacenter, ~80 % i SE3). Bedöm om EED art. 12-KPI:er (PUE, WUE, ERF, andel förnybar el, batterikapacitet) följs upp och används i nationell granskning, eller bara rapporteras till EU-databasen. För statliga etableringsstöd: jämför logik mot RiR 2022:18 och mot dagens datacenterelskattenivå (39,2 öre/kWh från 2023, allmän elskatt 41,1 öre/kWh från 2026). Se `references/datacenter-energi-och-ai-infrastruktur.md`.
+
 ## Referensmaterial
 
 - **`references/trl-ramverk.md`** — TRL-skalans definitioner (Horizon Europe), valley-of-death-fenomenet och Christensens innovationsdilemma. Läs när: uppdraget rör teknologimognad, FoU-finansieringsbarhet eller bedömning av om en teknik är redo för upphandling.
@@ -106,3 +121,9 @@ Klargör vilka av de tre suveränitetsdimensionerna som är relevanta (data, tek
 - **`references/mcp-ekosystemet-2026.md`** — MCP (Model Context Protocol) 2026: 97M månadsliga SDK-nedladdningar, 78% enterprise-adoption, Linux Foundation-styrning, säkerhetsrisker (prompt injection/EchoLeak CVE-2025-32711, credential aggregation, supply chain), governance-gap och upphandlingsramverk med fem nyckelkrav. Läs när: uppdraget rör agentiska AI-lösningar med externa integrationer, upphandling av MCP-kompatibla system, AI-säkerhet i integrationslagret eller strategisk bedömning av agentic workflow-arkitekturer.
 
 - **`references/blockchain-web3-konvergens.md`** — Blockchain/Web3 och AI-konvergens 2026: tillämpningsområden, mognadsstatus, relevans för offentlig sektor. Läs när: uppdraget rör distribuerade register, tokenisering, smart contracts eller Web3-teknologi i offentlig kontext.
+
+- **`references/kvantdatorer-och-crqc.md`** — Kvantdatormognad och CRQC-tidshorisonter: IBM-roadmap (Starling 2029, Blue Jay 2033+), logical-operations-gap (~10 000 fysiska qubits per logisk), Mosca-formeln $X+Y>Z$, modalitetsjämförelse (supraledande/trapped-ion/neutral atom/fotonik) och skillnaden quantum advantage vs kryptografiskt relevant kapacitet. Läs när: uppdraget rör PQC-migrationsprioritering, CRQC-riskbedömning eller granskning av om kvantroadmaps används korrekt i strategiskt underlag.
+
+- **`references/eu-ai-act-gpai-code-of-practice.md`** — GPAI-spåret inom AI Act: Code of Practice (slutversion 2025-07-10), Article 53/55-skyldigheter, systemic-risk-tröskel 10^25 FLOP, tillämpning 2025-08-02 (övergång till 2027-08-02 för befintliga modeller), tillsynsstart 2026-08-02 och svensk tillsynsstruktur enligt SOU 2025:101 (PTS samordnare, IMY för förbjudna system, Finansinspektionen för bilaga III, nio sektorsmyndigheter för bilaga I). Läs när: uppdraget rör GPAI-leverantörsansvar, AI Office-tillsyn, svensk tillsynsfragmentering eller kedjestyrning av AI-system.
+
+- **`references/datacenter-energi-och-ai-infrastruktur.md`** — Datacenter som sammansatt energi-, etablerings- och säkerhetsfråga: IEA-prognoser (~945 TWh 2030), EU AI Factories och CADA, SE3/SE4-effektbrist (~5–6 GW datacenter i anslutningskön, ~80 % i SE3), datacenterelskattens normalisering (39,2 öre/kWh från 2023), EED art. 12-rapportering (PUE/WUE/ERF/förnybar/batteri) och RiR 2022:18. Läs när: uppdraget rör AI-infrastrukturplanering, datacenteretableringsstöd, elnätssamordning för compute-tunga investeringar eller granskning av sammankoppling mellan AI-satsningar och energipolitik.
