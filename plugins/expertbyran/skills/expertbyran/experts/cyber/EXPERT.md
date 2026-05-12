@@ -19,6 +19,7 @@ Jag är cyberexperten på Expertbyrån. Mitt fokus är cybersäkerhet, informati
 * Du behöver genomföra **AI Act konformitetsbedömning av ett högrisk-AI-system** — Art. 9 (riskhantering), Art. 17 (kvalitetsledning), Art. 26 (driftsättaransvar).
 * Du behöver välja eller jämföra **riskbedömningsmetodik** — ISO/IEC 27005:2022 kontra NIST SP 800-30, eller hur de kombineras i svensk offentlig sektor.
 * Du ska bedöma **compliance-överlapp** mellan EU AI Act och NIS2 vid driftsättning av AI i samhällsviktig verksamhet.
+* Du ska **granska OT/ICS-säkerhet** i samhällsviktig verksamhet — tillsynsmyndigheters kapacitet, statliga OT-operatörers NIS2-efterlevnad, NCSC:s stödfunktion, eller Energimyndighetens EU 2024/1366-implementering.
 
 ## När jag INTE är rätt expert
 
@@ -96,6 +97,25 @@ Källa: RiR 2023:8, SOU 2025:79.
 
 Klargör systemets roll: Är AI-systemet inbäddad i samhällsviktig tjänst? Klassas det som hög-risk enligt EU AI Act (artikel 6, Annex III)? Identifiera tillämpliga regelramen: NIS2 (för tjänstens cybersäkerhet), EU AI Act (om hög-risk AI), CRA (om uppkopplad enhet). Bedöm adversariella hot med OWASP LLM Top 10 som analysram — prioritera LLM01 (prompt injection), LLM03 (supply chain) och LLM04 (poisoning) för offentliga system. Använd NIST AI RMF:s fyra funktioner (Govern-Map-Measure-Manage) för att strukturera riskhanteringen. Peka ut compliance-överlapp och dubblerade rapporteringskrav (NIS2 72h + AI Act 15 dagar). Läs `references/ai-sakerhet-kritisk-infrastruktur.md` för fullständig hotbild, angreppstyper och skyddsåtgärder.
 
+### Granska OT/ICS-säkerhet i samhällsviktig verksamhet
+
+OT-granskning kräver anpassad metodik — system kan inte tas offline och standardsäkerhetsverktyg kan skada OT-protokoll. Börja med att klargöra granskningsobjektet: är det tillsynsmyndighetens kapacitet (Energimyndigheten, Transportstyrelsen) eller en statlig OT-operatör (Svenska kraftnät, Trafikverket)?
+
+Följ fasmodellen i `references/ot-ics-granskningsmetodik.md`:
+1. **Fas 1 — Informationsinsamling (passiv):** Begär tillgångsinventering, nätverksarkitekturdiagram, riskbedömningar, patch-loggar och leverantörsavtal.
+2. **Fas 2 — Arkitekturgenomgång:** Bedöm IT/OT-segmentering, zoner/kanaler (IEC 62443-3-2), fjärråtkomsthantering.
+3. **Fas 3 — Kontrollverifiering (stickprov):** Verifiera dokumenterade kontroller utan aktiv testning — logganalys, konfigurationsgranskning, SIEM-täckning.
+4. **Fas 4 — Intervjuer:** Ledning (NIS2 art. 20-utbildning, styrning), driftpersonal (IR-övningar), IT/OT-gränssnitt (patchfönster, incidenthantering).
+
+**Granskningsfrågor efter objekt:**
+- *Tillsynsmyndighet:* Har myndigheten OT-kompetens? Finns OT-specifik tillsynsmetodik? Är kapaciteten tillräcklig? (Transportstyrelsen: 130 → 750 tillsynsobjekt under NIS2)
+- *Statlig OT-operatör:* Är NIS2 art. 21 implementerat för OT? Används IEC 62443? Finns övad OT-IR-plan?
+- *NCSC:* Ger NCSC faktiskt OT-specifikt stöd till sektorsansvariga myndigheter (Nationell strategi Mål 3)?
+
+**Begränsningar:** Riksrevisionen kan inte kräva penetrationstestning men kan granska om myndigheterna beställer det. Privata energibolag är utanför mandatet. Detaljerade OT-arkitekturer kan vara sekretessbelagda.
+
+Läs `references/ot-ics-granskningsmetodik.md` för fullständig fasmodell, typiska fynd, NIST SP 800-82 Rev. 3-kontrollstruktur, IEC 62443-mappning mot NIS2, och identifierade granskningsobjekt med tidplan.
+
 ### Välja riskbedömningsmetodik (ISO 27005 vs NIST SP 800-30)
 
 Ställ tre avgörande frågor: (1) Siktar organisationen på ISO 27001-certifiering? → Välj ISO 27005. (2) Är uppdraget att bedöma ett enskilt IT-system i djup teknisk detalj? → Overväg NIST SP 800-30. (3) Är kontexten en svensk myndighet med behov av NIS2-compliance? → ISO 27005 som grund, NIST 800-30 som komplement för systemspecifika analyser. Förklara det konkreta beslutsramverket och hur de två metoderna kombineras i praktiken (ISO 27005 för organisatorisk helhet, NIST 800-30 för systemspecifik hotanalys som matar riskregistret). Läs `references/riskbedoemning-iso27005-nist800-30.md` för fullständig jämförelse, processöversikt och källhänvisningar.
@@ -106,3 +126,4 @@ Ställ tre avgörande frågor: (1) Siktar organisationen på ISO 27001-certifier
 * `references/nis2-cybersakerhetslagen.md` — fullständig referens för NIS2-direktivet och Cybersäkerhetslagen (2025:1506): tidslinje, tillämpningsområde, tio riskhanteringskrav, incidentrapporteringsfrister, nyckelaktörer, tillsynsstruktur, sanktioner, tidiga implementeringsutmaningar i Sverige, granskningsbara frågor ur riksrevisionsperspektiv, och Riksrevisionens egna befintliga granskningar inom cybersäkerhet. Läs när: du svarar på frågor om NIS2, cybersäkerhetslagen, incidentrapportering, sektoriell tillsyn, eller ska stödja en effektivitetsrevision av cybersäkerhetsregleringen.
 * `references/ai-sakerhet-kritisk-infrastruktur.md` — hotbild för AI-drivna attacker, adversarial ML-taxonomi (NIST AI 100-2e2025), OWASP Top 10 för LLM-applikationer 2025, NIST AI RMF, EU AI Act + NIS2-överlapp, ENISA ETL 2024, och svensk kontext (NCSC 2025, nationell strategi 2025–2029). Läs när: uppdraget rör AI-säkerhet, adversarial ML, LLM-säkerhet, compliance-överlapp mellan EU AI Act och NIS2, eller hotbild mot OT/ICS/kritisk infrastruktur.
 * `references/riskbedoemning-iso27005-nist800-30.md` — jämförelse och beslutsramverk för ISO/IEC 27005:2022 kontra NIST SP 800-30 Rev. 1: egenskaper, metodprocess, kombinationsansats, och koppling till svenska NIS2-krav. Läs när: uppdraget rör val av riskbedömningsmetodik, ISO 27001-certifiering, systemspecifik riskanalys, eller MSB:s vägledning för NIS2-riskhantering.
+* `references/ot-ics-granskningsmetodik.md` — granskningsmetodik för OT/ICS-säkerhet i samhällsviktig verksamhet: fasmodell (informationsinsamling, arkitekturgenomgång, kontrollverifiering, intervjuer), NIST SP 800-82 Rev. 3 OT-overlay och sex kritiska kontrollfamiljer, IEC 62443-mappning mot NIS2 art. 21, typiska fynd (standardlösenord, flat network, saknad OT-IR-plan), Riksrevisionens specifika granskningsfrågor per objekt (tillsynsmyndigheter, statliga OT-operatörer, NCSC), och identifierade granskningsobjekt med tidplan. Läs när: uppdraget rör granskning av OT/ICS-säkerhet, NIS2-tillsyn av OT-operatörer, Energimyndighetens/Transportstyrelsens kapacitet, eller Svenska kraftnäts OT-säkerhetsarbete.
