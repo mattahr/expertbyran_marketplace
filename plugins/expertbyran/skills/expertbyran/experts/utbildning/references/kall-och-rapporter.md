@@ -31,7 +31,33 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 - Fynd: fragmenterade statsbidrag och svag tillsyn ger ojämna förutsättningar.
 - Relevant för: styrningsgranskning, statsbidragssystemet.
 
+### Propositioner och riksdagsdokument
+
+**Prop. 2021/22:158 "Ett mer likvärdigt skolval"** (Utbildningsdepartementet, 2022)
+- URL: https://data.riksdagen.se/dokument/H903158.html
+- Den centrala propositionen om att reformera skolvalssystemet för att minska segregerande effekter.
+- Antaget: (1) kötid avskaffas som urvalsgrund för fristående skolors urval; (2) "lika möjligheter" (lotteri) tillåts men inte som enda urvalsgrund; syskonförtur, geografiskt urval och skolspår kvarstår.
+- Avvisat: kvoturval (socioekonomiska kvoter) — diskrimineringsrättsliga och dataskyddsmässiga problem.
+- Politisk konflikt: SKR och Friskolornas riksförbund emot att slopa kötid — kötid är prognosunderlag för kapacitetsplanering. Motargument: slopat kötid ökar incitament att bo nära önskad skola.
+- Relevant för: skolvalssystemets konstruktion, segregationspolitik, friskoleregleringsgranskningar.
+- Sidor: s. 75 (lottning), s. 79 (remissinstanser om kötid).
+
 ### IFAU-studier
+
+**IFAU Rapport 2020:7 (Holmlund m.fl.): "Jämlikhet i möjligheter och utfall i den svenska skolan"** (Långtidsutredningens bilaga)
+- URL: https://www.ifau.se/globalassets/pdf/se/2020/r-2020-7-jamlikhet-i-mojligheter-och-utfall-i-den-svenska-skolan-langtidsutredningen.pdf
+- Nyckelrapporten för skolvalets segregerande effekter. Separerar boendesegregation från skolvalsbidrag.
+- Fynd: ca 40 % av ökade betygsskillnader mellan grundskolor kopplas till skolval; 60 % till ökad boendesegregation.
+- Holmlunds "skolområdes"-metod (figur 3.16, s. 59): jämför faktisk elevsortering med hypotetisk sortering om alla följde nearhetsprincipen. Differensen = skolvalseffekten.
+- Relevant för: segregationsgranskning, metodval för att separera boendesegregation från skolval, PISA-tolkning.
+- Sidor: s. 59 (figur 3.16 om segregationens utveckling 1988–2017), s. 129 (betygsskillnader vs. boendesegregation).
+
+**IFAU Rapport 2020:10: "Vad kan den nationalekonomiska forskningen lära oss om framgångsfaktorer i skolan?"**
+- URL: https://www.ifau.se/globalassets/pdf/se/2020/r-2020-10-vad-kan-den-nationalekonomiska-forskningen-lara-oss-om-framgangsfaktorer-i-skolan.pdf
+- Litteraturöversikt om kamratgruppseffekter, lärarkvalitet, friskolor och nivågruppering.
+- Centralt resonemang: even om kortsiktiga kunskapseffekter av segregation är oklara, visar forskning om kamratgrupper negativa effekter på livschanser (Sacerdote 2014).
+- Relevant för: sammansättningseffekter, incitamentsproblem i friskolesystemet, nivågruppering.
+- Sidor: s. 10 (sammansättningseffekter), s. 16 (skolsegregationens mekanismer).
 
 **IFAU Rapport 2014:12 (Böhlmark & Lindahl): "Friskolors effekter på skolresultat och senare utfall"**
 - Kvasiexperimentell studie av det svenska friskolesystemets effekter.
@@ -45,9 +71,42 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 - Konstaterar att effekterna är heterogena och svåra att skilja från samtidiga förändringar.
 - Relevant för: historisk bakgrund till nuvarande skolsystem, reformutvärdering.
 
+### Ytterligare SOU:er (segregation och skolval)
+
+**SOU 2020:46 "En gemensam angelägenhet"** (Jämlikhetskommissionen)
+- URL: https://data.riksdagen.se/dokument/H8B346.html
+- Knapp en tredjedel av total ökning av skolsegregationen kan förklaras av skolvalet (obs: avser elevsortering, ej betygsskillnader — jfr IFAU 2020:7 som mäter betygsgap).
+- Fristående skolor finansiellt överkompenserade. OECD-slutsats: skolval gynnar de med längre utbildning/högst inkomst även bland de som erbjuds välja.
+- Relevant för: politisk kontext kring skolvalsdebatten, likvärdighetsperspektiv.
+- Sidor: s. 322–332.
+
+**RiR 2022:17 "Skolpengen – effektivitet och konsekvenser"** (Riksrevisionen, 2022)
+- URL: https://www.riksrevisionen.se/granskningar/granskningsrapporter/2022/skolpengen---effektivitet-och-konsekvenser.html
+- Granskar skolpengssystemets effektivitet. Konstaterar att kommunerna har 80+ olika modeller för socioekonomisk kompensation och att bara ca hälften har kompensatorisk resursfördelning med märkbar effekt.
+- Refererar Skolinspektionens granskning som fann att majoritet av kommuner hade brister i strategier mot segregationens negativa effekter.
+- Relevant för: skolpengsgranskning, kompensatorisk resursfördelning, kommunal variation.
+- Sidor: s. 19–21 (resursfördelningsmodeller).
+
 ---
 
 ## Betygssystem
+
+### Pågående reform: nytt betygssystem 2027–2028
+
+**Prop. 2025/26:197 "Ett likvärdigt betygssystem"** (Utbildningsdepartementet, 2026)
+- URL: https://data.riksdagen.se/dokument/HD03197.html
+- Reformpaket: ny betygsskala 1–10 utan skarp godkäntgräns, meritvärdeskalibering (centralt beräknat meritvärde för att motverka betygsinflation mellan skolor), nationella slutprov (digitala, centralt rättade).
+- Tidplan: gymnasiet från hösten 2027; grundskolan synkroniseras med tioårig grundskola hösten 2028. Meritvärdeskalibrering börjar gälla våren 2030.
+- Svarar direkt på RiR 2022:22:s och RiR 2022:15:s kritik om otillräcklig styrning mot likvärdig betygssättning — centralt rättade prov eliminerar en källa till betygsinflation.
+- Relevant för: betygssystemgranskning, nationella prov, betygsinflation, meritvärden.
+- Sidor: s. 2 (innehållsförteckning ger helhetsbild), s. 180 (tidplan och genomförande).
+
+**SOU 2025:18 + SOU 2025:18 del 2 "Ett likvärdigt betygssystem"** (Statens offentliga utredningar, 2025)
+- URL: https://data.riksdagen.se/dokument/HDB318.html (del 2: HDB318d2.html)
+- Utredning bakom Prop. 2025/26:197. Konstaterar: Sverige har unikt hög andel elever utan gymnasiebehörighet (3× EU-genomsnittet) trots att kunskapsnivån (PISA/TIMSS) inte avviker. Diagnos: betygssystemet underkänner för många — ett systemfel, inte ett kunskapsfel.
+- Analyserar 7 alternativa betygsmodeller; föreslår meritvärdeskalibering som den som bäst kombinerar likvärdighet, förutsägbarhet och genomförbarhet.
+- Relevant för: betygssystemets struktur, behörighetskrav, betygsinflationsdiagnos.
+- Sidor: s. 403 (nulägesbeskrivning), s. 619 (behörighetsregler).
 
 ### SOU:er och utredningar
 
@@ -102,10 +161,28 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 
 **OECD: "PISA Results" (publiceras vartannat år, senast 2022/2023)**
 - Mäter 15-åringars förmågor i läsning, matematik och naturvetenskap.
-- Sverige: tapp 2000–2012, återhämtning 2015–2022. År 2022: matematik 482p (OECD-snitt 472), läsning 497p.
+- Sverige PISA 2022: matematik och läsförståelse tillbaka på 2012 års nivåer (lägsta mätt). Naturvetenskap oförändrat jämfört med 2018.
+- Likvärdighetsindikatorerna PISA 2022: ökad resultatspridning (fler lågpresterande), växande gap mellan hög och låg socioekonomisk bakgrund. Skillnader mellan skolor oförändrade.
+- Övergripande bedömning: likvärdigheten i Sverige har försämrats i absoluta mått — men Sverige fortfarande över OECD-genomsnittet i alla tre ämnen. Sverige sämst i Norden ur likvärdighetsperspektiv.
+- Demografiska förändringar (migrationsbakgrund) förklarar del av försämringen — men inte hela. Försämringen syns även bland elever med svensk bakgrund.
 - Varning: sammansättningseffekter (invandring, andel i gymnasiet) påverkar trender; Gustafsson & Yang-Hansen (2017) analyserar detta.
-- Relevant för: internationella jämförelser, systemöverblick.
+- Relevant för: internationella jämförelser, systemöverblick, likvärdighetsdiagnostik.
 - **OBS: PISA 2025** — resultaten publiceras 8 september 2026.
+- Primärkälla PISA 2022-analys: Budgetprop. 2024/25 UO16, s. 19 och 54 (se nedan).
+
+**Budgetpropositionen 2024/25 Utgiftsområde 16 — officiell PISA 2022-analys**
+- URL: https://data.riksdagen.se/dokument/HC031d17.html
+- Officiell statlig analys av PISA 2022, publicerad september 2024.
+- Likvärdighetsbedömning (s. 19): "sammantaget är bedömningen att likvärdigheten i Sverige försämrats i absoluta mått."
+- Detaljdata (s. 54): 27 % av svenska 15-åringar klarar inte basnivå matematik (OECD-snitt 31 %), 24 % i läsförståelse (OECD-snitt 26 %).
+- Relevant för: officiell statlig tolkning av PISA 2022, likvärdighetsbedömning, granskningsunderlag.
+
+**SOU 2025:19 "Kunskap för alla"**
+- URL: https://data.riksdagen.se/dokument/HDB319.html
+- Bred utredning om kunskapsutveckling i svensk skola. Inkluderar djupgående analys av PISA 2022 och TIMSS 2023.
+- Konstaterar: 1990-talens systemreformer (kommunalisering, friskolereform, mål- och resultatstyrning) är det centrala orsakskomplexet bakom Sveriges resultatutveckling.
+- Relevant för: helhetsbild av kunskapsutveckling, reformhistorik, PISA-tolkning.
+- Sidor: s. 123 (reformhistorik), s. 732 (PISA-analys).
 
 **Skolverket: "PISA 2022 och betygen"** (april 2025)
 - Analyserar kopplingen mellan betygssättning och PISA-resultat på skol- och individnivå.
@@ -138,19 +215,54 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 
 ## Förskola och tidig utbildning (0–6 år)
 
-**OBS: Detta är ett prioriterat kompetensutvecklingsområde (2026-04-13). Källsamlingen är preliminär.**
+### Riksrevisionens granskningar
 
-**SOU 2024:1** — *(Verifieras: kan vara förskole­utredning eller annan SOU, kontrollera aktuell titel)*
-- Bör genomläsas för kommunal organisering av förskola och likvärdighetsaspekter.
+**RiR 2025:15 "Likvärdighet i förskolan – statens stöd, uppföljning och tillsyn"** (Riksrevisionen, 2025)
+- URL: https://www.riksrevisionen.se/granskningar/granskningsrapporter/2025/likvardighet-i-forskolan---statens-stod-uppfoljning-och-tillsyn.html
+- Övergripande slutsats: Skolverket och Skolinspektionen arbetar inte tillräckligt effektivt för att främja likvärdig förskola.
+- Tre systembrister identifierade: (1) Skolverkets stöd når inte små och enskilda huvudmän i samma utsträckning — de saknar kapacitet att delta i nationella insatser; (2) otillräcklig nationell uppföljning av förskolans kvalitetsutveckling — statistik på lokal nivå saknas, till skillnad från grundskolan; (3) delat tillsynsansvar (kommuner ansvarar för fristående förskolor, Skolinspektionen för kommunala) ger ej rättssäker och enhetlig tillsyn.
+- Nyckelresultat: Skolinspektionen knappt genomfört kvalitetsgranskning av förskolan sedan 2018. Trots påvisade brister har få åtgärder vidtagits av regeringen.
+- Sidor att läsa: s. 4 (sammanfattning), s. 11–12 (bedömningsgrunder), s. 59–66 (slutsatser och rekommendationer).
+- Relevant för: granskningar av statens styrning av förskolan, tillsyn, Skolverkets stödinsatser, likvärdighet.
 
-**IFAU Rapport 2015:16 (Havnes & Mogstad-liknande design — sök specifik IFAU-rapport om förskoleintensitet)**
-- IFAU har publicerat studier om förskoleintensitetens effekter på barns senare skolresultat.
-- Identifieringsstrategi: utnyttjar kommunal variation i utbyggnaden av förskolan.
-- *Verifiera specifik rapportnummer och författare innan citering.*
+**Skr. 2025/26:67 "Riksrevisionens rapport om likvärdighet i förskolan"** (Utbildningsdepartementet, 2025)
+- URL: https://data.riksdagen.se/dokument/HD0367.html
+- Regeringens svarsskrivelse på RiR 2025:15. Erkänner bristerna i systematiskt kvalitetsarbete och avsaknad av lokal statistik. Anger att Skolverket identifierat behov av ökat stöd för det systematiska kvalitetsarbetet.
+- Relevant för: att förstå hur politiken tas emot och om RiR:s rekommendationer leder till åtgärder.
 
-**Skolverket: "Lägesbedömning" (senaste utgåva)**
-- Skolverkets årliga rapport om förskola och skola inkl. statistik om inskrivningsgrader, personaltäthet, barngrupper.
-- Relevant för: faktaunderlag om förskolan, kommunala variationer.
+### SOU:er och propositioner
+
+**SOU 2020:67 "Förskola för alla barn – för bättre språkutveckling i svenska"**
+- URL: https://data.riksdagen.se/dokument/H8B367.html
+- Konstaterar att under hälften av kommunerna har en socioekonomisk resursfördelningsmodell till förskolan (jämfört med grundskolan där det är vanligare). En lägre andel resurser omfördelas kompensatoriskt i förskolan — ofta under 5 procent.
+- Föreslår fler förskollärare och barnskötare, samt att statsbidrag riktat till förskolan viktas socioekonomiskt.
+- Relevant för: kommunal resursfördelning till förskola, kompensatoriskt uppdrag, personalförsörjning.
+
+**Prop. 2022 "Förskola för fler barn" (H903132)**
+- URL: https://data.riksdagen.se/dokument/H903132.html
+- Föreslår ökad förskolerätt och uppsökande verksamhet mot barn (särskilt med utrikes födda vårdnadshavare) som inte nyttjar förskolan. Diskuterar pedagogisk omsorg som alternativ till förskola.
+- Relevant för: barnomsorgsgaranti, tillgång till förskola, kommunernas informationsskyldighet.
+
+**Prop. 2022 "Stärkt kvalitet och likvärdighet i pedagogisk omsorg" (H90378)**
+- URL: https://data.riksdagen.se/dokument/H90378.html
+- Konstaterar att styrdokumentskillnaderna mellan pedagogisk omsorg (familjedaghem m.m.) och förskola blivit alltför stora — barnen i pedagogisk omsorg har inte likvärdiga förutsättningar inför förskoleklass.
+- Föreslår höjda kvalitetskrav och etableringsstopp för pedagogisk omsorg.
+- Relevant för: alternativa omsorgsformer, likvärdighet inför skolstart.
+
+**SOU 2025:26 "Tid för undervisningsuppdraget"** (delvis relevant)
+- URL: https://data.riksdagen.se/dokument/HDB326.html
+- Omnämner att en ny *förskoleutredning* tillsatts med uppdrag att redovisa senast 18 december 2025 — resultaten är ännu ej publicerade (per maj 2026). Behandlar förskollärares planeringstid.
+- Relevant för: att hålla koll på pågående utredningsarbete om förskolan.
+
+### Skolverket
+
+**Skolverkets "Lägesbedömning" (senaste utgåva)**
+- Skolverkets årliga rapport om förskola och skola inkl. statistik om inskrivningsgrader, personaltäthet, barngrupper, behörighetsgrad.
+- Relevant för: faktaunderlag om förskolan, kommunala variationer, trender över tid.
+
+### IFAU (att söka och verifiera)
+
+*Notering maj 2026: Specifika IFAU-rapporter om förskoleintensitetens effekter på barns skolresultat behöver verifieras (rapportnummer och författare). IFAU har publicerat studier som utnyttjar kommunal variation i förskolutbyggnad som identifieringsstrategi. Sök "förskola" i IFAUs publikationsdatabas (ifau.se) innan citering.*
 
 ---
 
@@ -158,11 +270,16 @@ Denna fil innehåller annoterade primärkällor för effektivitetsgranskningar i
 
 | Frågetyp | Primärkälla | Metodreferens |
 |---|---|---|
-| Likvärdighet/segregation | SOU 2020:28, RiR 2019:6 | IFAU 2014:12 |
+| Likvärdighet/segregation (evidens) | IFAU 2020:7, SOU 2020:28 | `metoder.md` → Holmlunds skolområdesmetod |
+| Skolval och segregation | Prop. 2021/22:158, SOU 2020:46 | IFAU 2020:7 figur 3.16 |
+| Skolpengen och resursfördelning | RiR 2022:17 | SOU 2020:28 |
 | Betygsinflation | RiR 2022:15, Vlachos 2018 | `metoder.md` → SALSA |
+| Betygssystemsreform 2027–2028 | Prop. 2025/26:197, SOU 2025:18 | — |
 | Friskolors effekter | IFAU 2014:12, IFAU 2016:9 | `metoder.md` → IV |
 | Friskola — reglering | SOU 2025:37, SOU 2025:123 | SOU 2020:28 (kontext) |
 | Styrning/statsbidrag | RiR 2017:18, RiR 2015:18 | SOU 2022:53 |
-| PISA-tolkning | OECD PISA 2022 | Gustafsson & Yang-Hansen 2017 |
+| PISA 2022 — officiell analys | Budgetprop. 2024/25 UO16 | Gustafsson & Yang-Hansen 2017 |
+| PISA 2022 — djupanalys | SOU 2025:19 | — |
 | Betyg–PISA-koppling | Skolverket "PISA 2022 och betygen" (2025) | `metoder.md` → SALSA |
-| Förskola | SOU 2024:1, Skolverket lägesbedömning | IFAU (förskoleintensitet) |
+| Förskola — statens styrning | RiR 2025:15, Skr. 2025/26:67 | SOU 2022:53 (kommunalisering) |
+| Förskola — resursfördelning | SOU 2020:67, Prop. 2022 (H903132) | SOU 2025:72 (resursfördelning skola) |
